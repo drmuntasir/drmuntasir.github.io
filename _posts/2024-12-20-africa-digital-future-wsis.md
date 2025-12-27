@@ -1,5 +1,5 @@
 ---
-title: 'Africa's Digital Future: WSIS+20 and the Path to Equity'
+title: Africa Digital Future WSIS+20 and Path to Equity
 date: 2024-12-20
 permalink: /posts/2024/12/africa-digital-future-wsis/
 tags:
@@ -8,7 +8,7 @@ tags:
   - WSIS+20
   - digital equity
   - policy
-excerpt: 'Analysis of Africa's strategic positioning in the WSIS+20 review process and recommendations for building affordable, accessible digital ecosystems across the continent.'
+excerpt: Analysis of Africa strategic positioning in WSIS+20 review process and recommendations for building affordable accessible digital ecosystems across the continent
 ---
 
 ## The Digital Divide Challenge
