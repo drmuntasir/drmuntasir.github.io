@@ -92,8 +92,8 @@ class PublicationsScraper:
             
             publications.append(pub)
         
-        # Sort by display_order (descending, most recent first)
-        publications.sort(key=lambda x: x['display_order'], reverse=True)
+        # Sort by display_order (ascending, since more negative = newer in Academia.edu)
+        publications.sort(key=lambda x: x['display_order'], reverse=False)
         
         print(f"✓ Parsed {len(publications)} publications")
         return publications
