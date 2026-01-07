@@ -9,7 +9,7 @@ description: "Comprehensive academic publications, books, policy papers, and res
 {% include base_path %}
 
 <div class="notice--info">
-  <p><strong><i class="fas fa-book-open"></i> Research Profile:</strong> 70+ publications spanning AI governance, quantum computing, digital diplomacy, blockchain economics, and innovation policy.</p>
+  <p><strong><i class="fas fa-book-open"></i> Research Profile:</strong> {{ site.data.publications.total_publications | default: "70+" }} publications spanning AI governance, quantum computing, digital diplomacy, blockchain economics, and innovation policy.</p>
   <p><strong><i class="fas fa-link"></i> Find me on:</strong> 
     <a href="https://scholar.google.com/citations?hl=en&user=BhhasDQAAAAJ">Google Scholar</a> | 
     <a href="https://oxford.academia.edu/SyedMamun">Academia.edu</a> | 
@@ -397,7 +397,7 @@ description: "Comprehensive academic publications, books, policy papers, and res
 
 ## <i class="fas fa-chart-bar"></i> Research Impact
 
-**Publications:** 70+ research outputs  
+**Publications:** {{ site.data.publications.total_publications | default: "70+" }} research outputs  
 **Research Areas:** AI Governance, Quantum Computing, Digital Diplomacy, Blockchain Economics, Innovation Policy, Blue Economy  
 **Citation Profiles:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=BhhasDQAAAAJ) | [ORCID](https://orcid.org/0000-0001-6845-2853)  
 **Academic Profile:** [Academia.edu](https://oxford.academia.edu/SyedMamun) | [Amazon Author](https://www.amazon.com/author/syedmuntasir)

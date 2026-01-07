@@ -29,7 +29,7 @@ He is a recognized pioneer in **AI-driven innovation policy**, **neural-network 
 
 <i class="fas fa-microphone"></i> **TEDx Speaker** on innovation and transformation in diplomatic services
 
-<i class="fas fa-file-alt"></i> **Prolific Researcher** with **70+ publications** on AI governance, quantum computing, digital diplomacy, blockchain economics, and innovation policy — [View Publications](/publications/)
+<i class="fas fa-file-alt"></i> **Prolific Researcher** with **{{ site.data.publications.total_publications | default: "70+" }} publications** on AI governance, quantum computing, digital diplomacy, blockchain economics, and innovation policy — [View Publications](/publications/)
 
 ---
 
@@ -59,7 +59,7 @@ He is a recognized pioneer in **AI-driven innovation policy**, **neural-network 
 
 * **Visiting Scholar** — University of Oxford (Saïd Business School & China Centre)
 * **Visiting Professor** — China Agricultural University
-* **70+ scholarly and policy papers** on AI, blockchain, digital economy, and innovation diplomacy
+* **{{ site.data.publications.total_publications | default: "70+" }} scholarly and policy papers** on AI, blockchain, digital economy, and innovation diplomacy
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=BhhasDQAAAAJ) | [Academia.edu](https://oxford.academia.edu/SyedMamun) | [ORCID](https://orcid.org/0000-0001-6845-2853)
 
 ---

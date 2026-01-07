@@ -255,7 +255,7 @@ Innovation Lab:** MOFA-a2i iLab collaboration
 
 ### <i class="fas fa-chart-bar"></i> Impact Metrics
 
-**Publications:** 70+ research outputs  
+**Publications:** {{ site.data.publications.total_publications | default: "70+" }} research outputs  
 **Citations:** Growing impact in AI governance, quantum computing  
 **Policy Influence:** 3 national strategies, 5+ international frameworks  
 **Innovation Projects:** 10+ deployed systems  
