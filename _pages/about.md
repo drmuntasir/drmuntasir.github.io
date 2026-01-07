@@ -64,20 +64,6 @@ He is a recognized pioneer in **AI-driven innovation policy**, **neural-network 
 
 ---
 
-## <i class="fas fa-newspaper"></i> Latest Blog Posts
-
-{% for post in site.posts limit:3 %}
-  <article class="archive__item">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
-    <p><small><i class="fas fa-calendar"></i> {{ post.date | date: "%B %d, %Y" }} {% if post.tags %} | <i class="fas fa-tags"></i> {{ post.tags | join: ", " }}{% endif %}</small></p>
-  </article>
-{% endfor %}
-
-<p><a href="/year-archive/" class="btn btn--primary"><i class="fas fa-arrow-right"></i> View All Blog Posts</a></p>
-
----
-
 ## <i class="fas fa-file-alt"></i> Featured Publications
 
 {% if site.data.publications %}
@@ -110,6 +96,20 @@ Neural architectures and applications in computing and security. [PDF](/files/PD
 {% endif %}
 
 <p><a href="/publications/" class="btn btn--primary"><i class="fas fa-arrow-right"></i> View All Publications ({{ site.data.publications.total_publications | default: "70+" }})</a></p>
+
+---
+
+## <i class="fas fa-newspaper"></i> Latest Blog Posts
+
+{% for post in site.posts limit:3 %}
+  <article class="archive__item">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+    <p><small><i class="fas fa-calendar"></i> {{ post.date | date: "%B %d, %Y" }} {% if post.tags %} | <i class="fas fa-tags"></i> {{ post.tags | join: ", " }}{% endif %}</small></p>
+  </article>
+{% endfor %}
+
+<p><a href="/year-archive/" class="btn btn--primary"><i class="fas fa-arrow-right"></i> View All Blog Posts</a></p>
 
 ---
 
