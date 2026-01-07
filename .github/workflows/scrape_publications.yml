@@ -1,0 +1,97 @@
+name: Scrape Publications from Academia.edu
+
+on:
+    schedule:
+        # Run every Sunday at midnight UTC (weekly)
+        - cron: "0 0 * * 0"
+
+    workflow_dispatch: # Allow manual triggering
+        inputs:
+            force_update:
+                description: "Force update even if no changes"
+                required: false
+                default: "false"
+
+permissions:
+    contents: write
+
+jobs:
+    scrape:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+                  cache: "pip"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install requests pyyaml
+
+            - name: Run publications scraper
+              run: |
+                  python scripts/scrape_publications.py
+              continue-on-error: false
+
+            - name: Check for changes
+              id: check_changes
+              run: |
+                  if git diff --quiet _data/publications.yml; then
+                    echo "changes=false" >> $GITHUB_OUTPUT
+                    echo "No changes detected in publications.yml"
+                  else
+                    echo "changes=true" >> $GITHUB_OUTPUT
+                    echo "Changes detected in publications.yml"
+                  fi
+
+            - name: Commit and push changes
+              if: steps.check_changes.outputs.changes == 'true' || github.event.inputs.force_update == 'true'
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add _data/publications.yml
+
+                  # Get publication count from YAML
+                  pub_count=$(grep -c "^  title:" _data/publications.yml || echo "unknown")
+
+                  git commit -m "Auto-update publications from Academia.edu
+
+                  - Updated: $(date -u +"%Y-%m-%d %H:%M UTC")
+                  - Publications processed: $pub_count
+                  - Source: https://syedmamun.academia.edu/research
+
+                  [skip ci]" || echo "No changes to commit"
+
+                  git push
+
+            - name: Summary
+              if: always()
+              run: |
+                  echo "## Publications Scrape Summary" >> $GITHUB_STEP_SUMMARY
+                  echo "" >> $GITHUB_STEP_SUMMARY
+
+                  if [ -f "_data/publications.yml" ]; then
+                    last_updated=$(grep "last_updated:" _data/publications.yml | cut -d' ' -f2)
+                    total_pubs=$(grep "total_publications:" _data/publications.yml | cut -d' ' -f2)
+                    
+                    echo "✅ **Status**: Success" >> $GITHUB_STEP_SUMMARY
+                    echo "📅 **Last Updated**: $last_updated" >> $GITHUB_STEP_SUMMARY
+                    echo "📚 **Total Publications**: $total_pubs" >> $GITHUB_STEP_SUMMARY
+                    echo "🔗 **Source**: [Academia.edu](https://syedmamun.academia.edu/research)" >> $GITHUB_STEP_SUMMARY
+                    
+                    if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+                      echo "🔄 **Changes**: New publications detected and committed" >> $GITHUB_STEP_SUMMARY
+                    else
+                      echo "ℹ️ **Changes**: No new publications" >> $GITHUB_STEP_SUMMARY
+                    fi
+                  else
+                    echo "❌ **Status**: Failed - publications.yml not created" >> $GITHUB_STEP_SUMMARY
+                  fi

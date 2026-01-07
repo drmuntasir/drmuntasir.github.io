@@ -20,6 +20,34 @@ description: "Comprehensive academic publications, books, policy papers, and res
 
 ---
 
+{% if site.data.publications %}
+<div class="notice--success">
+  <h4><i class="fas fa-sync-alt"></i> Latest from Academia.edu</h4>
+  <p><strong>Auto-updated:</strong> {{ site.data.publications.last_updated }} | <strong>Total Publications:</strong> {{ site.data.publications.total_publications }}</p>
+  <p><em>The following recent publications are automatically fetched from <a href="https://syedmamun.academia.edu/research">Academia.edu</a> weekly.</em></p>
+</div>
+
+## <i class="fas fa-star"></i> Recent Publications
+
+{% for pub in site.data.publications.all_publications limit:20 %}
+<div style="margin-bottom: 1.5em;">
+  <strong><a href="{{ pub.url }}" target="_blank">{{ pub.title }}</a></strong><br>
+  <em>{{ pub.authors | join: ", " }}</em><br>
+  <small><i class="fas fa-folder"></i> {{ pub.section }}</small>
+</div>
+{% endfor %}
+
+<p style="text-align: center; margin-top: 2em;">
+  <a href="https://syedmamun.academia.edu/research" class="btn btn--primary"><i class="fas fa-external-link-alt"></i> View All Publications on Academia.edu</a>
+</p>
+
+---
+{% endif %}
+
+<div class="notice--info">
+  <p><strong><i class="fas fa-info-circle"></i> Manual Content:</strong> The sections below contain manually curated and formatted publications with additional context and categorization.</p>
+</div>
+
 ## <i class="fas fa-file-alt"></i> Research Papers
 
 ### AI & Technology (2024-2025)
