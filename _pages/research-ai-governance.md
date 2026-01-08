@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "AI Governance & Agentic Systems Research"
+title: "AI Governance Research"
 permalink: /research/ai-governance/
 author_profile: true
 description: "Research and policy frameworks for Agentic AI, Cognitive Warfare, and Digital Sovereignty by Dr. Syed Muntasir Mamun."
 ---
 
-# <i class="fas fa-robot"></i> AI Governance & Agentic Systems
+## <i class="fas fa-robot"></i> AI Governance & Agentic Systems
 
 Artificial Intelligence is transitioning from passive tools (Chatbots) to **active agents** capable of autonomous decision-making. My research focuses on the **governance frameworks** required to manage this shift, ensuring that *Agentic AI* systems remain aligned with human sovereignty and democratic values.
 

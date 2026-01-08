@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-# Professional Overview
+## Professional Overview
 
 **Dr. Syed Muntasir MAMUN** is a **global strategist and technology diplomat** with 24+ years of experience integrating **artificial intelligence, digital governance, and economic diplomacy** into national and multilateral frameworks. He currently serves as **Chief Innovation Officer** and **Director General of International Trade, Investment & Technology** at the Ministry of Foreign Affairs, Bangladesh.
 

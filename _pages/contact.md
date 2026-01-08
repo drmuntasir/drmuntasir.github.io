@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-# <i class="fas fa-envelope-open-text"></i> Contact Information
+## <i class="fas fa-envelope-open-text"></i> Contact Information
 
 For official inquiries regarding international trade, innovation policy, or digital diplomacy, please use the verified channels below.
 

@@ -12,7 +12,7 @@ site_theme: "default" # Currently available options are "default", "air"
 title: "AI Governance & Innovation Policy"
 title_separator: "|"
 name: &name "Syed Muntasir MAMUN"
-description: &description "Dr. Syed Muntasir MAMUN's Academic Portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
+description: &description "Dr. Syed Muntasir MAMUN: Pioneer in AI Governance, Cognitive Sovereignty & Digital Diplomacy. Chief Innovation Officer, Ministry of Foreign Affairs Bangladesh."
 url:
   https://drmuntasir.github.io # The base hostname & protocol for your site
   # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
