@@ -10,7 +10,7 @@ description: "Research and policy frameworks for Agentic AI, Cognitive Warfare, 
 
 Artificial Intelligence is transitioning from passive tools (Chatbots) to **active agents** capable of autonomous decision-making. My research focuses on the **governance frameworks** required to manage this shift, ensuring that *Agentic AI* systems remain aligned with human sovereignty and democratic values.
 
-## 🧠 Core Research Themes
+## <i class="fas fa-brain"></i> Core Research Themes
 
 1.  **Agentic AI Frameworks**: Moving beyond "human-in-the-loop" to "human-on-the-loop" governance for autonomous systems.
 2.  **Cognitive Sovereignty**: Protecting the "Sixth Domain" (the human mind) from algorithmic manipulation and cognitive warfare.
@@ -18,7 +18,7 @@ Artificial Intelligence is transitioning from passive tools (Chatbots) to **acti
 
 ---
 
-## 📚 Key Publications
+## <i class="fas fa-book"></i> Key Publications
 
 ### **1. Adaptation of Agentic AI: A Unified Framework**
 *A comprehensive framework for enhancing autonomous AI systems, focusing on the transition from static LLMs to dynamic, self-evolving agents.*
@@ -40,14 +40,14 @@ Artificial Intelligence is transitioning from passive tools (Chatbots) to **acti
 
 ---
 
-## 📰 Related Analysis & Thoughts
+## <i class="fas fa-newspaper"></i> Related Analysis & Thoughts
 
 *   **[Beyond Transformers: The Future of Agentic AI architecture](/posts/2024/11/beyond-transformers-ai/)** - *Nov 15, 2024*
 *   **[Fractal Mathematics in AI Security](/posts/2024/12/fractal-mathematics-ai-security/)** - *Dec 10, 2024*
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## <i class="fas fa-question-circle"></i> Frequently Asked Questions (FAQ)
 
 ### **What is 'Agentic AI'?**
 **Agentic AI** refers to artificial intelligence systems that can pursue complex goals with limited human supervision. Unlike ChatGPT (which waits for a prompt), an Agentic AI can plan, execute, and adapt its actions to achieve an objective, essentially acting as an autonomous worker.

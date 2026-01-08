@@ -9,7 +9,7 @@ author_profile: true
 
 For official inquiries regarding international trade, innovation policy, or digital diplomacy, please use the verified channels below.
 
-## 🏛️ Official Affiliation
+## <i class="fas fa-university"></i> Official Affiliation
 
 **Dr. Syed Muntasir MAMUN**  
 *Chief Innovation Officer & Director General*  
@@ -19,9 +19,10 @@ Segunbagicha, Dhaka-1000, Bangladesh
 
 ---
 
-## 📧 Email & Digital Channels
+## <i class="fas fa-envelope"></i> Email & Digital Channels
 
 *   **Official:** [syedmuntasir@mofa.gov.bd](mailto:syedmuntasir@mofa.gov.bd)
+*   **Academic:** [research@drmuntasir.github.io](mailto:syedmuntasir@mofa.gov.bd)
   
 
 <div class="notice--info">
@@ -30,7 +31,7 @@ Segunbagicha, Dhaka-1000, Bangladesh
 
 ---
 
-## 🌐 Connect on Social Platforms
+## <i class="fas fa-globe"></i> Connect on Social Platforms
 
 *   **LinkedIn**: [in/syedmuntasirmamun](https://www.linkedin.com/in/syedmuntasirmamun) (Professional Network)
 *   **Twitter/X**: [@SyedMuntasir](https://twitter.com/SyedMuntasir) (Policy Updates)

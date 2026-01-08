@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 Download Full CV (PDF)](/files/2025_January_CV_SMM_194.pdf){: .btn .btn--primary}
+[<i class="fas fa-file-pdf"></i> Download Full CV (PDF)](/files/2025_January_CV_SMM_194.pdf){: .btn .btn--primary}
 
 ---
 
@@ -20,23 +20,23 @@ redirect_from:
 International Trade, Investment & Technology  
 Ministry of Foreign Affairs, Dhaka, Bangladesh
 
-📧 [syedmuntasir@mofa.gov.bd](mailto:syedmuntasir@mofa.gov.bd) | [dgitni@mofa.gov.bd](mailto:dgitni@mofa.gov.bd) | [cio@mofa.gov.bd](mailto:cio@mofa.gov.bd)  
-🔗 [LinkedIn](https://linkedin.com/in/syed11muntasir) | [Twitter](https://twitter.com/artillery11) | [Academia](https://oxford.academia.edu/SyedMamun) | [Google Scholar](https://scholar.google.com/citations?user=BhhasDQAAAAJ&hl=en)
+<i class="fas fa-envelope"></i> [syedmuntasir@mofa.gov.bd](mailto:syedmuntasir@mofa.gov.bd) | [dgitni@mofa.gov.bd](mailto:dgitni@mofa.gov.bd) | [cio@mofa.gov.bd](mailto:cio@mofa.gov.bd)  
+<i class="fas fa-link"></i> [LinkedIn](https://linkedin.com/in/syed11muntasir) | [Twitter](https://twitter.com/artillery11) | [Academia](https://oxford.academia.edu/SyedMamun) | [Google Scholar](https://scholar.google.com/citations?user=BhhasDQAAAAJ&hl=en)
 
 ---
 
-## Profile Summary
+## <i class="fas fa-user-tie"></i> Profile Summary
 
 **Global strategist and technology diplomat** with 24+ years of experience integrating **artificial intelligence, digital governance, and economic diplomacy** into national and multilateral frameworks.
 
-* 🏛️ **Founder** of the **first AI Lab** in the Ministry of Foreign Affairs — advancing public-sector AI capability and digital diplomacy
-* 🌍 **Architect of the "Zero Digital Divide" Initiative**, launched at **UNGA 2023**
-* 📚 **Author of** *Blockchain: Gaming & Collusion – A Reading in Political Economy*
-* 🤝 Deeply committed to **global AI governance**, ensuring innovation aligns with **human-centered design** and **inclusive development**
+* <i class="fas fa-university"></i> **Founder** of the **first AI Lab** in the Ministry of Foreign Affairs — advancing public-sector AI capability and digital diplomacy
+* <i class="fas fa-globe-africa"></i> **Architect of the "Zero Digital Divide" Initiative**, launched at **UNGA 2023**
+* <i class="fas fa-book"></i> **Author of** *Blockchain: Gaming & Collusion – A Reading in Political Economy*
+* <i class="fas fa-handshake"></i> Deeply committed to **global AI governance**, ensuring innovation aligns with **human-centered design** and **inclusive development**
 
 ---
 
-## Education
+## <i class="fas fa-graduation-cap"></i> Education
 
 | Degree | Institution | Focus |
 |--------|-------------|-------|
@@ -47,7 +47,7 @@ Ministry of Foreign Affairs, Dhaka, Bangladesh
 
 ---
 
-## Key Expertise
+## <i class="fas fa-lightbulb"></i> Key Expertise
 
 * **AI Governance & Ethics** — Expert in developing global frameworks for responsible, transparent, and inclusive AI adoption
 * **Strategic Foresight & Policy Design** — Integrating technology foresight with diplomatic strategy for peacebuilding and sustainability
@@ -57,7 +57,7 @@ Ministry of Foreign Affairs, Dhaka, Bangladesh
 
 ---
 
-## Professional Experience
+## <i class="fas fa-briefcase"></i> Professional Experience
 
 ### Chief Innovation Officer & Director General
 **International Trade, Investment & Technology**  
@@ -122,10 +122,10 @@ Ministry of Foreign Affairs, Dhaka, Bangladesh
 
 ## Distinctions & Honors
 
-🏆 **Rector's Medal** — Bangladesh Public Administration Training Center (*Best All-Round Civil Service Officer*)  
-🎖️ **Foreign Service Commendation** — Ministry of Foreign Affairs, Indonesia (*Excellence in international diplomacy*)  
-🎓 **Valedictorian** — Foreign Service Specialized Course & Mid-Career Diplomats Program (*Top-ranked among international cohort*)  
-🌐 **UNGA 2023 Recognition** — Lead architect of the *e-Quality Centre for Zero Digital Divide*
+<i class="fas fa-trophy"></i> **Rector's Medal** — Bangladesh Public Administration Training Center (*Best All-Round Civil Service Officer*)  
+<i class="fas fa-medal"></i> **Foreign Service Commendation** — Ministry of Foreign Affairs, Indonesia (*Excellence in international diplomacy*)  
+<i class="fas fa-graduation-cap"></i> **Valedictorian** — Foreign Service Specialized Course & Mid-Career Diplomats Program (*Top-ranked among international cohort*)  
+<i class="fas fa-globe"></i> **UNGA 2023 Recognition** — Lead architect of the *e-Quality Centre for Zero Digital Divide*
 
 ---
 
