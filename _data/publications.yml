@@ -1,74 +1,393 @@
-last_updated: '2026-05-03'
-total_publications: 611
+last_updated: '2026-05-10'
+total_publications: 630
 sections:
+  Papers:
+  - title: 'Detailed Anatomical Review of Thermodynamics as the Unifying Substrate:
+      A Surplus-Driven Field Framework for Motion, Collapse, and Internal Recursion
+      (Version 2) by Dexter Alan Gilbert (Independent Researcher, 2026)'
+    authors: &id001
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132729197/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132729197/thumbnails/1.jpg
+  - title: 'Engineering the Arrow of Time:  An Information-Geometric Casimir Synthesis
+      of Quantum Thermodynamics (Vol-IV)'
+    authors: &id002
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132724732/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132724732/thumbnails/1.jpg
+  - title: Information Geometric Interpretation of the Architecture of Irreversibility
+      in Quantum Thermodynamics (Vol-III)
+    authors: &id003
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132724601/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132724601/thumbnails/1.jpg
+  - title: The Architecture of Irreversibility  The Active Creation of the Thermodynamic
+      Arrow of Time (Volume II)
+    authors: &id004
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132724386/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132724386/thumbnails/1.jpg
+  - title: 'A Second Review of “Scalable Runtime Governance”  (Kusne et al., 2026):  Case
+      for Agentic Multi-Agent AI in Scientific Discovery'
+    authors: &id005
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132724296/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132724296/thumbnails/1.jpg
+  - title: Critical Anatomical Review of "Scalable Runtime Governance for Agentic
+      AI in Financial Services" (Szpruch et al., 2026
+    authors: &id006
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132718802/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132718802/thumbnails/1.jpg
+  - title: Critical Anatomical Review of "Irreversible Entropy Production, from Quantum
+      to Classical" by Landi and Paternostro (2022)
+    authors: &id007
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132718642/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132718642/thumbnails/1.jpg
+  - title: "Quantum-Centric Supercomputing and Quantum Tunnelling in Mitochondrial\
+      \ Bioenergetics: \r\nAn Expanded Academic Review of Biomolecular Simulation\
+      \ Milestones and Photonic Bio-Quantum Horizons (Vol-III)"
+    authors: &id008
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132704155/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132704155/thumbnails/1.jpg
+  - title: 'Quantum-Centric Supercomputing and Photonic Bio-Quantum Architectures:  An
+      Exhaustive Evaluation of High-Fidelity Biomolecular Simulation and Mitochondrial
+      Quantum Dynamics (Vol-II)'
+    authors: &id009
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132704084/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132704084/thumbnails/1.jpg
+  - title: 'Strategic Evaluation of Quantum Computing in Base of the Pyramid Markets:  Accelerated
+      Timelines, Frugal Innovation, and the Post-Quantum Transition (2026-2030)'
+    authors: &id010
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132703231/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132703231/thumbnails/1.jpg
+  - title: 'Rethinking Nature''s Valuation:  From Financial Commodification to an
+      Equity-Driven, Knowledge-First Paradigm (Vol-II)'
+    authors: &id011
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132703057/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132703057/thumbnails/1.jpg
+  - title: 'Quantum-Embedded Cardiac Entanglement Signaling: A Speculative Critique
+      of Classical Biomagnetic Limits in Long-Range Quantum Sensing (VOL -I'
+    authors: &id012
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132702221/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132702221/thumbnails/1.jpg
+  - title: 'Ultrafast All-Optical Polarization Control via Plasma Symmetry Breaking:  Mechanisms,
+      Traditional Magneto-Optical Technologies, and Future Implications (Vol-II)'
+    authors: &id013
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132693871/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132693871/thumbnails/1.jpg
+  - title: 'Strategic Evaluation of Global Quantum Computing Policy: Cryptographic
+      Vulnerabilities, and the Post-Quantum Transition (2026–2030)'
+    authors: &id014
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132693672/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132693672/thumbnails/1.jpg
+  - title: 'An Anatomical Review of “From Skills to Talent: Organising Heterogeneous
+      Agents as a Real-World Company”  Mechanics, Merits, Limitations, Contrasts,
+      Leading Research Directions, and Enterprise Implications (Vol-I)'
+    authors: &id015
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132683675/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132683675/thumbnails/1.jpg
+  - title: 'Quantum Mechanics, the Hamiltonian, and Thermodynamics:  Predicting Eigenstates
+      via Fractal Simulations (Volume II)'
+    authors: &id016
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132683179/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132683179/thumbnails/1.jpg
+  - title: 'The Next Generation of Agentic Architectures:  An Information-Geometric
+      Framework for Latent-Space Recursive Collaboration (Vol-II)'
+    authors: &id017
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132682797/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132682797/thumbnails/1.jpg
+  - title: 'Inverse Energy Cascades in the Onset of Turbulence: A Simulation-Based
+      Re-examination of Energy Transfer Mechanisms (Vol-I)'
+    authors: &id019
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132669131/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132669131/thumbnails/1.jpg
+  - title: 'A Critical Anatomical Review of Recursive Multi-Agent Systems: Dissecting
+      the Mechanics, Claims, Strengths, Limitations, and Contrasts of Latent-Space
+      Recursive Collaboration in LLM Agents'
+    authors: &id021
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132669038/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132669038/thumbnails/1.jpg
+  - title: 'The Architecture of Gated Globalisation:  International Trade as a Vertical
+      of Statecraft in a Multipolar Order (Vol-II)'
+    authors: &id023
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132662571/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132662571/thumbnails/1.jpg
+  - title: 'The Lightning Strike Era (Vol-I):  High-Intensity, Low-Duration Interstate
+      Conflicts in the Age of Artificial Intelligence (2022–2026)'
+    authors: &id025
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132662325/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132662325/thumbnails/1.jpg
+  - title: 'Geometric Structures and AI-Driven Semantics in Asymmetric Trade Negotiations:  A
+      Comprehensive Teaching Note (Vol-III)'
+    authors: &id027
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132662206/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132662206/thumbnails/1.jpg
+  - title: 'Axiomatic Persistence of Acquired Trade Imbalances and Economic Dynamics:
+      Analogical Insights from Euler’s Theorem on Homogeneous Functions to the Conditions
+      for Sustained Asymmetry in Bilateral Trade Agreements (Vol-II)'
+    authors: &id029
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132660774/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132660774/thumbnails/1.jpg
+  - title: 'Axiomatic Geometric Impossibility and Economic Asymmetry:  Analogical
+      Insights from the Non-Existence of Equilateral Right Triangles to the Conditions
+      for a Winning Side in Bilateral Trade Agreements (Vol-I)'
+    authors: &id030
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132660470/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132660470/thumbnails/1.jpg
+  - title: 'Optimization Dynamics in High-Dimensional Neural Networks:  Curvature,
+      Information Geometry, and the Evolution of Second-Order Methods (Vol-I)'
+    authors: &id032
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132659111/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132659111/thumbnails/1.jpg
+  - title: 'Quantum Foundations of Cognition:  A Hamiltonian Framework for Learning,
+      Memory, and Active Inference within the Orchestrated Objective Reduction Paradigm
+      (Vol-II)'
+    authors: &id033
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132658997/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132658997/thumbnails/1.jpg
+  - title: An Objective Assessment of the Orchestrated Objective Reduction (Orch OR)
+      Theory of Consciousness  A Comparison with Leading Mainstream Neuroscience Approaches
+      (Vol-I)
+    authors: &id034
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132658945/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132658945/thumbnails/1.jpg
+  - title: 'Perceptual Manifolds:  Anatomical Foundations, Geometric Untangling, and
+      the Geometry of Consciousness (Vol-I)'
+    authors: &id035
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132655918/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132655918/thumbnails/1.jpg
+  - title: 'Operationalizing the Four-Layer Cognitive Architecture:  Future Directions
+      for AI Agent Memory Subsystems (Vol-II)'
+    authors: &id036
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132655779/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132655779/thumbnails/1.jpg
+  - title: A Critical Anatomical Review of The Missing Knowledge Layer in Cognitive
+      Architectures for AI Agents by Michaël Roynard (2026)  Featuring a Deep Comparative
+      Analysis of Persistence Semantics
+    authors: &id039
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132651066/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132651066/thumbnails/1.jpg
+  - title: 'A Critical Enquiry into Alleged Hidden Mathematical Structure in Quantum
+      Random Number Generator Outputs:  Absence of Substantiated 2024 Claims and the
+      State of Quantum Randomness Research (2024–2026)'
+    authors: &id040
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132650936/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132650936/thumbnails/1.jpg
+  - title: 'A Critical Anatomical Review of Leizerman’s Pre-Registered Causal Accumulation
+      Law:  Strengths, Limitations, Contrasts with Competing Unification Programs,
+      and Immediate Research Pathways in a Rank-2 Causal Dynamic Field Theory'
+    authors: &id041
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132646844/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132646844/thumbnails/1.jpg
+  - title: A Critical Review of Homology-Based Morphometry for Quantifying Brain Atrophy
+      in Alzheimer's Disease (Vol-I)
+    authors: &id042
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132646757/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132646757/thumbnails/1.jpg
+  - title: 'An Anatomical Assessment of Ideations in Giesecke+Devrient’s Post-Quantum
+      Cryptography Whitepaper:  Comparative Analysis with Independent Scholarly Works
+      on Quantum Security and Leading Field Research'
+    authors: &id043
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132646656/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132646656/thumbnails/1.jpg
+  - title: 'Teaching Note:  The L2-to-L3 Transition in Agentic World Modeling – Compounding
+      Error, Architectural Choices, and the Evidence-Integration Bottleneck'
+    authors: &id044
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132636406/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132636406/thumbnails/1.jpg
+  - title: 'Glial-Augmented Dual-Network Neuromorphic Architectures:  A Revised Model
+      for Brain-Inspired Memory and Integrative Processing Systems (Vol-III)'
+    authors: &id045
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132635418/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132635418/thumbnails/1.jpg
+  - title: 'Astrocytes, Microglia, and Dual Glial Architectures in Brain Networks:  Plasticity
+      Mechanisms, Integrative Cognition, and a Revised Dual-Network Model of Intelligence
+      (Vol-II)'
+    authors: &id046
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132635296/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132635296/thumbnails/1.jpg
+  - title: 'Beyond AGI:  A Critical Anatomical Review of “AI Must Embrace Specialization
+      via Superhuman Adaptable Intelligence” as AI’s Emerging North Star With Comparisons
+      with EPGI and AIXI Frameworks  Volume - II'
+    authors: &id047
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132629991/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132629991/thumbnails/1.jpg
+  - title: 'Agentic World Modeling:  An Exhaustive Anatomical Review, Comparative
+      Analysis, and Future Trajectories (Vol-I)'
+    authors: &id050
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132625647/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132625647/thumbnails/1.jpg
+  - title: A Critical Review of “Filtering and Machine Learning on Riemannian Manifolds
+      and Lie Groups” by Labsir et al. (2025) Vol-I
+    authors: &id051
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132625576/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132625576/thumbnails/1.jpg
+  - title: Geometric Intelligence on Manifolds - Extending Riemannian Neural Architectures
+      to Graph Networks, Transformers, and Generative Filtering (Volume III)
+    authors: &id052
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132625476/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132625476/thumbnails/1.jpg
+  - title: Hybrid Physics-Informed Geo-Aware Models and Lie Group-Constrained Diffusion
+      Policies for Safe Autonomous Systems (Vol-i) Hybrid Physics-Informed Geo-Aware
+      Models and Lie Group-Constrained Diffusion Policies for Safe Autonomous Systems
+      (Vol-I)
+    authors: &id053
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132625377/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132625377/thumbnails/1.jpg
+  - title: 'The Quantum Measurement Problem:  Historical Evolution, Fundamental Questions,
+      Interpretations, Bell Tests, and Current Trends (Vol - I)'
+    authors: &id054
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132618367/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132618367/thumbnails/1.jpg
+  - title: 'The Fractal Wave Field Hypothesis:  A Comprehensive Enquiry into Fractal
+      Wave Algebra and Emergent Spacetime (Vol-I)'
+    authors: &id055
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132613450/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132613450/thumbnails/1.jpg
+  - title: 'Fourier and Laplace Transforms: A Comparative Analysis in Signal Processing
+      and Control Systems (Vol-I)'
+    authors: &id056
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132607913/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132607913/thumbnails/1.jpg
+  - title: 'Quantum Computing for Bayesian Inference:  Algorithms, Speedups, Challenges,
+      and Synergies with Scalable Machine Learning (Vol-III)'
+    authors: &id057
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132601227/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132601227/thumbnails/1.jpg
+  - title: 'The Bayesian Ideal versus Practical Scalability in Machine Learning:  Marginalisation,
+      Foundation Models, and Parallels with Quantum Physics (Vol-II)'
+    authors: &id058
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132600982/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132600982/thumbnails/1.jpg
+  - title: 'Anatomical Review and Lateral Expansions of Geometric Deep Learning:  From
+      Mathematical Foundations to Cross-Disciplinary Horizons (Vol-I)'
+    authors: &id059
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132600872/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132600872/thumbnails/1.jpg
+  - title: 'Comprehensive Review of Hakkı Tan''s "Down to the Cell Membrane: Onopticon,
+      Homovictimus, and the Pre-Regulation of Life" (2026) Vol-I'
+    authors: &id060
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132599016/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132599016/thumbnails/1.jpg
+  - title: A Critical Anatomical Review and Comparative Analysis of “How to Fine-Tune
+      a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent
+      SFT Data”
+    authors: &id061
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/132598892/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/132598892/thumbnails/1.jpg
   Teaching Documents:
   - title: 'The Principle of Co-Adaptation: A Synthesis with Evolutionary Quantum
       Mechanics and Emergent Cognitive Frameworks'
-    authors: &id001
+    authors: &id018
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131539146/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131539146/thumbnails/1.jpg
   - title: 'Voyaging Through the Quantum-Relativistic-Classical Cosmos: Unification
       Horizons and String Symphonies in the Evolving Landscape of Fundamental Physics
       (Vol: 1) A TEACHING NOTE'
-    authors: &id002
+    authors: &id020
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131508821/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131508821/thumbnails/1.jpg
   - title: 'Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
       VOL -I Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
       VOL-I'
-    authors: &id003
+    authors: &id022
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129094178/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129094178/thumbnails/1.jpg
   - title: Reviewing Living Math on the Instant
-    authors: &id005
+    authors: &id024
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129093801/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129093801/thumbnails/1.jpg
   - title: 'Thermodynamic Modeling in Epileptic Neural Systems: An Evolutionary and
       Scaling Perspective on Seizure Assessment and Treatment from EEG Readings'
-    authors: &id007
+    authors: &id026
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126733276/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126733276/thumbnails/1.jpg
   - title: 'Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective
       Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective'
-    authors: &id009
+    authors: &id028
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126437541/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126437541/thumbnails/1.jpg
   - title: 'Early Detection of Autoimmune Diseases: A Biomarker-Driven Approach Using
       Regular Blood Samples'
-    authors: &id012
+    authors: &id031
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126423170/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126423170/thumbnails/1.jpg
   - title: 'Understanding Authentic AI Protocols: A Multidisciplinary Exploration
       VOL I Understanding Authentic AI Protocols: A Multidisciplinary Exploration
       VOL -I'
-    authors: &id019
+    authors: &id038
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126241886/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126241886/thumbnails/1.jpg
   - title: 'Trade Deflections: Chapeaux Note Trade Deflections: Understanding the
       Mechanisms of Trade Redirection, Creation, and Diversion in Global Trade Regimes
       A Chapeaux Note'
-    authors: &id030
+    authors: &id049
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/125033453/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/125033453/thumbnails/1.jpg
   - title: 'Retrospective Evaluation of Mergers and Acquisitions in Bangladesh’s Ready-Made
       Garments Sector: A 25-Year Analysis of Post-MFA Predictions, Realities, and
       Strategic Imperatives Chapeaux Note on Insights, Foresights, and Cross-Sights'
-    authors: &id050
+    authors: &id063
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/124937657/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/124937657/thumbnails/1.jpg
   - title: 'Chapeau Note Vol.I: REALISING INCHOATE DEMANDS, LEVERAGING COMPLEMENTARY
       ASSETS, INTRODUCING MINIMUM VIABLE ENGINES'
-    authors: &id065
+    authors:
     - Dr. Syed Muntasir Mamun
     url: https://blog.aifat.org/chapeau-note-vol-i-realising-inchoate-demands-leveraging-complementary-assets-introducing-minimum-viable-engines/
     thumbnail_url: https://a.academia-assets.com/images/blank-paper.jpg
@@ -82,350 +401,31 @@ sections:
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/116141869/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/116141869/thumbnails/1.jpg
-  Papers:
-  - title: 'The Architecture of Gated Globalisation:  International Trade as a Vertical
-      of Statecraft in a Multipolar Order (Vol-II)'
-    authors: &id004
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132662571/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132662571/thumbnails/1.jpg
-  - title: 'The Lightning Strike Era (Vol-I):  High-Intensity, Low-Duration Interstate
-      Conflicts in the Age of Artificial Intelligence (2022–2026)'
-    authors: &id006
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132662325/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132662325/thumbnails/1.jpg
-  - title: 'Geometric Structures and AI-Driven Semantics in Asymmetric Trade Negotiations:  A
-      Comprehensive Teaching Note (Vol-III)'
-    authors: &id008
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132662206/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132662206/thumbnails/1.jpg
-  - title: 'Axiomatic Persistence of Acquired Trade Imbalances and Economic Dynamics:
-      Analogical Insights from Euler’s Theorem on Homogeneous Functions to the Conditions
-      for Sustained Asymmetry in Bilateral Trade Agreements (Vol-II)'
-    authors: &id010
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132660774/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132660774/thumbnails/1.jpg
-  - title: 'Axiomatic Geometric Impossibility and Economic Asymmetry:  Analogical
-      Insights from the Non-Existence of Equilateral Right Triangles to the Conditions
-      for a Winning Side in Bilateral Trade Agreements (Vol-I)'
-    authors: &id011
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132660470/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132660470/thumbnails/1.jpg
-  - title: 'Optimization Dynamics in High-Dimensional Neural Networks:  Curvature,
-      Information Geometry, and the Evolution of Second-Order Methods (Vol-I)'
-    authors: &id013
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132659111/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132659111/thumbnails/1.jpg
-  - title: 'Quantum Foundations of Cognition:  A Hamiltonian Framework for Learning,
-      Memory, and Active Inference within the Orchestrated Objective Reduction Paradigm
-      (Vol-II)'
-    authors: &id014
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132658997/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132658997/thumbnails/1.jpg
-  - title: An Objective Assessment of the Orchestrated Objective Reduction (Orch OR)
-      Theory of Consciousness  A Comparison with Leading Mainstream Neuroscience Approaches
-      (Vol-I)
-    authors: &id015
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132658945/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132658945/thumbnails/1.jpg
-  - title: 'Perceptual Manifolds:  Anatomical Foundations, Geometric Untangling, and
-      the Geometry of Consciousness (Vol-I)'
-    authors: &id016
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132655918/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132655918/thumbnails/1.jpg
-  - title: 'Operationalizing the Four-Layer Cognitive Architecture:  Future Directions
-      for AI Agent Memory Subsystems (Vol-II)'
-    authors: &id017
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132655779/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132655779/thumbnails/1.jpg
-  - title: A Critical Anatomical Review of The Missing Knowledge Layer in Cognitive
-      Architectures for AI Agents by Michaël Roynard (2026)  Featuring a Deep Comparative
-      Analysis of Persistence Semantics
-    authors: &id020
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132651066/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132651066/thumbnails/1.jpg
-  - title: 'A Critical Enquiry into Alleged Hidden Mathematical Structure in Quantum
-      Random Number Generator Outputs:  Absence of Substantiated 2024 Claims and the
-      State of Quantum Randomness Research (2024–2026)'
-    authors: &id021
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132650936/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132650936/thumbnails/1.jpg
-  - title: 'A Critical Anatomical Review of Leizerman’s Pre-Registered Causal Accumulation
-      Law:  Strengths, Limitations, Contrasts with Competing Unification Programs,
-      and Immediate Research Pathways in a Rank-2 Causal Dynamic Field Theory'
-    authors: &id022
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132646844/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132646844/thumbnails/1.jpg
-  - title: A Critical Review of Homology-Based Morphometry for Quantifying Brain Atrophy
-      in Alzheimer's Disease (Vol-I)
-    authors: &id023
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132646757/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132646757/thumbnails/1.jpg
-  - title: 'An Anatomical Assessment of Ideations in Giesecke+Devrient’s Post-Quantum
-      Cryptography Whitepaper:  Comparative Analysis with Independent Scholarly Works
-      on Quantum Security and Leading Field Research'
-    authors: &id024
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132646656/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132646656/thumbnails/1.jpg
-  - title: 'Teaching Note:  The L2-to-L3 Transition in Agentic World Modeling – Compounding
-      Error, Architectural Choices, and the Evidence-Integration Bottleneck'
-    authors: &id025
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132636406/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132636406/thumbnails/1.jpg
-  - title: 'Glial-Augmented Dual-Network Neuromorphic Architectures:  A Revised Model
-      for Brain-Inspired Memory and Integrative Processing Systems (Vol-III)'
-    authors: &id026
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132635418/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132635418/thumbnails/1.jpg
-  - title: 'Astrocytes, Microglia, and Dual Glial Architectures in Brain Networks:  Plasticity
-      Mechanisms, Integrative Cognition, and a Revised Dual-Network Model of Intelligence
-      (Vol-II)'
-    authors: &id027
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132635296/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132635296/thumbnails/1.jpg
-  - title: 'Beyond AGI:  A Critical Anatomical Review of “AI Must Embrace Specialization
-      via Superhuman Adaptable Intelligence” as AI’s Emerging North Star With Comparisons
-      with EPGI and AIXI Frameworks  Volume - II'
-    authors: &id028
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132629991/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132629991/thumbnails/1.jpg
-  - title: 'Agentic World Modeling:  An Exhaustive Anatomical Review, Comparative
-      Analysis, and Future Trajectories (Vol-I)'
-    authors: &id031
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132625647/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132625647/thumbnails/1.jpg
-  - title: A Critical Review of “Filtering and Machine Learning on Riemannian Manifolds
-      and Lie Groups” by Labsir et al. (2025) Vol-I
-    authors: &id032
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132625576/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132625576/thumbnails/1.jpg
-  - title: Geometric Intelligence on Manifolds - Extending Riemannian Neural Architectures
-      to Graph Networks, Transformers, and Generative Filtering (Volume III)
-    authors: &id033
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132625476/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132625476/thumbnails/1.jpg
-  - title: Hybrid Physics-Informed Geo-Aware Models and Lie Group-Constrained Diffusion
-      Policies for Safe Autonomous Systems (Vol-i) Hybrid Physics-Informed Geo-Aware
-      Models and Lie Group-Constrained Diffusion Policies for Safe Autonomous Systems
-      (Vol-I)
-    authors: &id034
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132625377/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132625377/thumbnails/1.jpg
-  - title: 'The Quantum Measurement Problem:  Historical Evolution, Fundamental Questions,
-      Interpretations, Bell Tests, and Current Trends (Vol - I)'
-    authors: &id035
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132618367/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132618367/thumbnails/1.jpg
-  - title: 'The Fractal Wave Field Hypothesis:  A Comprehensive Enquiry into Fractal
-      Wave Algebra and Emergent Spacetime (Vol-I)'
-    authors: &id036
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132613450/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132613450/thumbnails/1.jpg
-  - title: 'Fourier and Laplace Transforms: A Comparative Analysis in Signal Processing
-      and Control Systems (Vol-I)'
-    authors: &id037
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132607913/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132607913/thumbnails/1.jpg
-  - title: 'Quantum Computing for Bayesian Inference:  Algorithms, Speedups, Challenges,
-      and Synergies with Scalable Machine Learning (Vol-III)'
-    authors: &id038
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132601227/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132601227/thumbnails/1.jpg
-  - title: 'The Bayesian Ideal versus Practical Scalability in Machine Learning:  Marginalisation,
-      Foundation Models, and Parallels with Quantum Physics (Vol-II)'
-    authors: &id039
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132600982/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132600982/thumbnails/1.jpg
-  - title: 'Anatomical Review and Lateral Expansions of Geometric Deep Learning:  From
-      Mathematical Foundations to Cross-Disciplinary Horizons (Vol-I)'
-    authors: &id040
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132600872/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132600872/thumbnails/1.jpg
-  - title: 'Comprehensive Review of Hakkı Tan''s "Down to the Cell Membrane: Onopticon,
-      Homovictimus, and the Pre-Regulation of Life" (2026) Vol-I'
-    authors: &id041
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132599016/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132599016/thumbnails/1.jpg
-  - title: A Critical Anatomical Review and Comparative Analysis of “How to Fine-Tune
-      a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent
-      SFT Data”
-    authors: &id042
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132598892/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132598892/thumbnails/1.jpg
-  - title: 'The Dialectical Onopticon:  Fractal Geometry of Algorithmic Control, Resistance,
-      and Sovereign Recursion in the Neural Age (Vol-IV)'
-    authors: &id043
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132588067/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132588067/thumbnails/1.jpg
-  - title: 'The Dialectical Onopticon:  A Sheaf-Theoretic Model of Algorithmic Control,
-      Resistance, and Sovereign Prediction in the Neural Age (Vol-III)'
-    authors: &id044
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132587476/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132587476/thumbnails/1.jpg
-  - title: 'The Algorithm of Resistance:  Preserving Algorithmic Sovereignty in the
-      Dialectical Tension Between Panopticon and Onopticon (Vol-II)'
-    authors: &id045
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132587186/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132587186/thumbnails/1.jpg
-  - title: A Comprehensive Academic Synthesis of Glass Substrates and Integrated Photonics
-      for Next-Generation Artificial Intelligence Paradigms (Vol-I)
-    authors: &id046
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132578281/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132578281/thumbnails/1.jpg
-  - title: 'Comprehensive Review of Hakkı Tan''s "Onopticon: Sovereignty as Environmental
-      Structuring" (2026'
-    authors: &id047
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132577756/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132577756/thumbnails/1.jpg
-  - title: 'An Enquiry into Plasma-Based Particle Acceleration:  Applications in Bioinformatics,
-      Photosynthetic Engine Design, and Quantum Gravity Ideations (Vol-II)'
-    authors: &id048
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132577388/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132577388/thumbnails/1.jpg
-  - title: 'The Maturing Interplay Extended:  Discrete Quantum Gravity, Functional
-      Renormalization Group, and Open Quantum Systems—Realizing Einstein’s Vision
-      Through Multiplicity (Vol-II)'
-    authors: &id051
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132577339/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132577339/thumbnails/1.jpg
-  - title: 'An Enquiry into the Breakthrough Laser Technique for Generating the Most
-      Intense Coherent Light in Laboratory Settings:  Verification, Scientific Analysis,
-      and Implications (Vol-III)'
-    authors: &id052
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132572617/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132572617/thumbnails/1.jpg
-  - title: 'An Enquiry into Plasma-Based Particle Acceleration:  Principles, 2026
-      Advances, Challenges, and Broader Implications (Vol-I)'
-    authors: &id053
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132572478/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132572478/thumbnails/1.jpg
-  - title: 'An Exploration of the Origins of Multiplicity Theory:  Historical Roots,
-      Mathematical Foundations, and Emergence in Contemporary Physics (Vol-II)'
-    authors: &id054
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132562874/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132562874/thumbnails/1.jpg
-  - title: 'An Anatomical Review of the CEQG-RG-Langevin Framework: Dissecting Hamiltonians
-      and Hilbert Spaces in a Proposed Completion of Einstein''s Quantum Gravity (Vol-I)'
-    authors: &id055
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132562704/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132562704/thumbnails/1.jpg
-  - title: 'The Maturing Interplay:  Discrete Quantum Gravity, Functional Renormalization
-      Group, and Open Quantum Systems—Realizing Einstein’s Vision Through Triad Multiplicity
-      (Vol-I)'
-    authors: &id056
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132562613/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132562613/thumbnails/1.jpg
-  - title: 'Skill-RAG: Failure-State-Aware Retrieval Augmentation via Hidden-State
-      Probing and Skill Routing (Vol-I)'
-    authors: &id057
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132562464/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132562464/thumbnails/1.jpg
-  - title: Higher-Order Interference and Thermodynamic Entropy in Generalized Hilbert
-      Spaces Bridging Sorkin’s Framework with Operational Thermodynamics (Vol-III)
-    authors: &id058
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132551016/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132551016/thumbnails/1.jpg
-  - title: Thermodynamic Sculpting of Hilbert Space Structure Reconstructing Complex
-      Quantum Theory from Minimal Operational Postulates in Generalized Probabilistic
-      Theories
-    authors: &id059
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132550729/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132550729/thumbnails/1.jpg
-  - title: 'Thermodynamic Sculpting of Quantum Foundations:  An Anatomical Review
-      of Krumm et al. (2017) in the Context of Advances in Generalized Probabilistic
-      Theories and Pathways for Hilbert Space Evolution (Vol-I)'
-    authors: &id060
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132550634/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132550634/thumbnails/1.jpg
-  - title: Deeper into the  Mathieu Stability in Paul Traps and Dual Frequency Designs  (KSC
-      CHAPEAUX NOTE - Vol-II)
-    authors: &id061
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132537458/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132537458/thumbnails/1.jpg
-  - title: A Dual-Frequency Radiofrequency Paul Trap for Co-Confinement of Electrons
-      and Calcium Ions (Vol-I)
-    authors: &id062
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132537319/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132537319/thumbnails/1.jpg
-  - title: 'The Embedding Principle as a Hierarchical Skeleton of Neural Loss Landscapes:  Geometry,
-      Degeneracy, and Implicit Regularization (Vol-IV)'
-    authors: &id063
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/132537173/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/132537173/thumbnails/1.jpg
   Book Reviews:
   - title: 'The Anatomy of Command:  Dissecting Advancing Military Practice through
       Military Humanities – A Comprehensive Anatomical Review of Military Humanities
       (MILHUM) as Cognitive, Ethical, and Professional Safeguard in the Algorithmic
       Era  (Vol. IV, Enhanced Synthesis)'
-    authors: &id018
+    authors: &id037
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/132423471/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/132423471/thumbnails/1.jpg
   - title: 'Review of Civil Society Elites: Exploring the Composition, Reproduction,
       Integration, and Contestation of Civil Society Actors at the Top'
-    authors: &id029
+    authors: &id048
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131719035/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131719035/thumbnails/1.jpg
   - title: 'A First Review of "The Complete Mathematics of Transformers: A Rigorous
       Treatment with Full Derivations, Proofs, and Theoretical Foundations" by Miquel
       Noguer i Alonso (2026) Vol -1'
-    authors: &id049
+    authors: &id062
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126326112/download_file?s=portfolio
     thumbnail_url: https://a.academia-assets.com/images/blank-paper.jpg
   - title: 'Reimagining Institutionalism: AI''s Dual Role in Deconstructing and Reconstructing
       Civic Institutions Towards Fluid Neo-Institutionalism'
-    authors: &id064
+    authors:
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126246932/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126246932/thumbnails/1.jpg
@@ -507,110 +507,229 @@ sections:
     url: https://www.academia.edu/attachments/125041986/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/125041986/thumbnails/1.jpg
 all_publications:
+- title: 'Detailed Anatomical Review of Thermodynamics as the Unifying Substrate:
+    A Surplus-Driven Field Framework for Motion, Collapse, and Internal Recursion
+    (Version 2) by Dexter Alan Gilbert (Independent Researcher, 2026)'
+  authors: *id001
+  section: Papers
+  url: https://www.academia.edu/attachments/132729197/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132729197/thumbnails/1.jpg
+- title: 'Engineering the Arrow of Time:  An Information-Geometric Casimir Synthesis
+    of Quantum Thermodynamics (Vol-IV)'
+  authors: *id002
+  section: Papers
+  url: https://www.academia.edu/attachments/132724732/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132724732/thumbnails/1.jpg
+- title: Information Geometric Interpretation of the Architecture of Irreversibility
+    in Quantum Thermodynamics (Vol-III)
+  authors: *id003
+  section: Papers
+  url: https://www.academia.edu/attachments/132724601/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132724601/thumbnails/1.jpg
+- title: The Architecture of Irreversibility  The Active Creation of the Thermodynamic
+    Arrow of Time (Volume II)
+  authors: *id004
+  section: Papers
+  url: https://www.academia.edu/attachments/132724386/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132724386/thumbnails/1.jpg
+- title: 'A Second Review of “Scalable Runtime Governance”  (Kusne et al., 2026):  Case
+    for Agentic Multi-Agent AI in Scientific Discovery'
+  authors: *id005
+  section: Papers
+  url: https://www.academia.edu/attachments/132724296/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132724296/thumbnails/1.jpg
+- title: Critical Anatomical Review of "Scalable Runtime Governance for Agentic AI
+    in Financial Services" (Szpruch et al., 2026
+  authors: *id006
+  section: Papers
+  url: https://www.academia.edu/attachments/132718802/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132718802/thumbnails/1.jpg
+- title: Critical Anatomical Review of "Irreversible Entropy Production, from Quantum
+    to Classical" by Landi and Paternostro (2022)
+  authors: *id007
+  section: Papers
+  url: https://www.academia.edu/attachments/132718642/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132718642/thumbnails/1.jpg
+- title: "Quantum-Centric Supercomputing and Quantum Tunnelling in Mitochondrial Bioenergetics:\
+    \ \r\nAn Expanded Academic Review of Biomolecular Simulation Milestones and Photonic\
+    \ Bio-Quantum Horizons (Vol-III)"
+  authors: *id008
+  section: Papers
+  url: https://www.academia.edu/attachments/132704155/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132704155/thumbnails/1.jpg
+- title: 'Quantum-Centric Supercomputing and Photonic Bio-Quantum Architectures:  An
+    Exhaustive Evaluation of High-Fidelity Biomolecular Simulation and Mitochondrial
+    Quantum Dynamics (Vol-II)'
+  authors: *id009
+  section: Papers
+  url: https://www.academia.edu/attachments/132704084/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132704084/thumbnails/1.jpg
+- title: 'Strategic Evaluation of Quantum Computing in Base of the Pyramid Markets:  Accelerated
+    Timelines, Frugal Innovation, and the Post-Quantum Transition (2026-2030)'
+  authors: *id010
+  section: Papers
+  url: https://www.academia.edu/attachments/132703231/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132703231/thumbnails/1.jpg
+- title: 'Rethinking Nature''s Valuation:  From Financial Commodification to an Equity-Driven,
+    Knowledge-First Paradigm (Vol-II)'
+  authors: *id011
+  section: Papers
+  url: https://www.academia.edu/attachments/132703057/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132703057/thumbnails/1.jpg
+- title: 'Quantum-Embedded Cardiac Entanglement Signaling: A Speculative Critique
+    of Classical Biomagnetic Limits in Long-Range Quantum Sensing (VOL -I'
+  authors: *id012
+  section: Papers
+  url: https://www.academia.edu/attachments/132702221/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132702221/thumbnails/1.jpg
+- title: 'Ultrafast All-Optical Polarization Control via Plasma Symmetry Breaking:  Mechanisms,
+    Traditional Magneto-Optical Technologies, and Future Implications (Vol-II)'
+  authors: *id013
+  section: Papers
+  url: https://www.academia.edu/attachments/132693871/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132693871/thumbnails/1.jpg
+- title: 'Strategic Evaluation of Global Quantum Computing Policy: Cryptographic Vulnerabilities,
+    and the Post-Quantum Transition (2026–2030)'
+  authors: *id014
+  section: Papers
+  url: https://www.academia.edu/attachments/132693672/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132693672/thumbnails/1.jpg
+- title: 'An Anatomical Review of “From Skills to Talent: Organising Heterogeneous
+    Agents as a Real-World Company”  Mechanics, Merits, Limitations, Contrasts, Leading
+    Research Directions, and Enterprise Implications (Vol-I)'
+  authors: *id015
+  section: Papers
+  url: https://www.academia.edu/attachments/132683675/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132683675/thumbnails/1.jpg
+- title: 'Quantum Mechanics, the Hamiltonian, and Thermodynamics:  Predicting Eigenstates
+    via Fractal Simulations (Volume II)'
+  authors: *id016
+  section: Papers
+  url: https://www.academia.edu/attachments/132683179/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132683179/thumbnails/1.jpg
+- title: 'The Next Generation of Agentic Architectures:  An Information-Geometric
+    Framework for Latent-Space Recursive Collaboration (Vol-II)'
+  authors: *id017
+  section: Papers
+  url: https://www.academia.edu/attachments/132682797/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132682797/thumbnails/1.jpg
 - title: 'The Principle of Co-Adaptation: A Synthesis with Evolutionary Quantum Mechanics
     and Emergent Cognitive Frameworks'
-  authors: *id001
+  authors: *id018
   section: Teaching Documents
   url: https://www.academia.edu/attachments/131539146/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131539146/thumbnails/1.jpg
+- title: 'Inverse Energy Cascades in the Onset of Turbulence: A Simulation-Based Re-examination
+    of Energy Transfer Mechanisms (Vol-I)'
+  authors: *id019
+  section: Papers
+  url: https://www.academia.edu/attachments/132669131/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132669131/thumbnails/1.jpg
 - title: 'Voyaging Through the Quantum-Relativistic-Classical Cosmos: Unification
     Horizons and String Symphonies in the Evolving Landscape of Fundamental Physics
     (Vol: 1) A TEACHING NOTE'
-  authors: *id002
+  authors: *id020
   section: Teaching Documents
   url: https://www.academia.edu/attachments/131508821/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131508821/thumbnails/1.jpg
+- title: 'A Critical Anatomical Review of Recursive Multi-Agent Systems: Dissecting
+    the Mechanics, Claims, Strengths, Limitations, and Contrasts of Latent-Space Recursive
+    Collaboration in LLM Agents'
+  authors: *id021
+  section: Papers
+  url: https://www.academia.edu/attachments/132669038/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/132669038/thumbnails/1.jpg
 - title: 'Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
     VOL -I Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
     VOL-I'
-  authors: *id003
+  authors: *id022
   section: Teaching Documents
   url: https://www.academia.edu/attachments/129094178/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/129094178/thumbnails/1.jpg
 - title: 'The Architecture of Gated Globalisation:  International Trade as a Vertical
     of Statecraft in a Multipolar Order (Vol-II)'
-  authors: *id004
+  authors: *id023
   section: Papers
   url: https://www.academia.edu/attachments/132662571/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132662571/thumbnails/1.jpg
 - title: Reviewing Living Math on the Instant
-  authors: *id005
+  authors: *id024
   section: Teaching Documents
   url: https://www.academia.edu/attachments/129093801/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/129093801/thumbnails/1.jpg
 - title: 'The Lightning Strike Era (Vol-I):  High-Intensity, Low-Duration Interstate
     Conflicts in the Age of Artificial Intelligence (2022–2026)'
-  authors: *id006
+  authors: *id025
   section: Papers
   url: https://www.academia.edu/attachments/132662325/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132662325/thumbnails/1.jpg
 - title: 'Thermodynamic Modeling in Epileptic Neural Systems: An Evolutionary and
     Scaling Perspective on Seizure Assessment and Treatment from EEG Readings'
-  authors: *id007
+  authors: *id026
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126733276/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126733276/thumbnails/1.jpg
 - title: 'Geometric Structures and AI-Driven Semantics in Asymmetric Trade Negotiations:  A
     Comprehensive Teaching Note (Vol-III)'
-  authors: *id008
+  authors: *id027
   section: Papers
   url: https://www.academia.edu/attachments/132662206/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132662206/thumbnails/1.jpg
 - title: 'Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective
     Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective'
-  authors: *id009
+  authors: *id028
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126437541/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126437541/thumbnails/1.jpg
 - title: 'Axiomatic Persistence of Acquired Trade Imbalances and Economic Dynamics:
     Analogical Insights from Euler’s Theorem on Homogeneous Functions to the Conditions
     for Sustained Asymmetry in Bilateral Trade Agreements (Vol-II)'
-  authors: *id010
+  authors: *id029
   section: Papers
   url: https://www.academia.edu/attachments/132660774/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132660774/thumbnails/1.jpg
 - title: 'Axiomatic Geometric Impossibility and Economic Asymmetry:  Analogical Insights
     from the Non-Existence of Equilateral Right Triangles to the Conditions for a
     Winning Side in Bilateral Trade Agreements (Vol-I)'
-  authors: *id011
+  authors: *id030
   section: Papers
   url: https://www.academia.edu/attachments/132660470/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132660470/thumbnails/1.jpg
 - title: 'Early Detection of Autoimmune Diseases: A Biomarker-Driven Approach Using
     Regular Blood Samples'
-  authors: *id012
+  authors: *id031
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126423170/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126423170/thumbnails/1.jpg
 - title: 'Optimization Dynamics in High-Dimensional Neural Networks:  Curvature, Information
     Geometry, and the Evolution of Second-Order Methods (Vol-I)'
-  authors: *id013
+  authors: *id032
   section: Papers
   url: https://www.academia.edu/attachments/132659111/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132659111/thumbnails/1.jpg
 - title: 'Quantum Foundations of Cognition:  A Hamiltonian Framework for Learning,
     Memory, and Active Inference within the Orchestrated Objective Reduction Paradigm
     (Vol-II)'
-  authors: *id014
+  authors: *id033
   section: Papers
   url: https://www.academia.edu/attachments/132658997/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132658997/thumbnails/1.jpg
 - title: An Objective Assessment of the Orchestrated Objective Reduction (Orch OR)
     Theory of Consciousness  A Comparison with Leading Mainstream Neuroscience Approaches
     (Vol-I)
-  authors: *id015
+  authors: *id034
   section: Papers
   url: https://www.academia.edu/attachments/132658945/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132658945/thumbnails/1.jpg
 - title: 'Perceptual Manifolds:  Anatomical Foundations, Geometric Untangling, and
     the Geometry of Consciousness (Vol-I)'
-  authors: *id016
+  authors: *id035
   section: Papers
   url: https://www.academia.edu/attachments/132655918/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132655918/thumbnails/1.jpg
 - title: 'Operationalizing the Four-Layer Cognitive Architecture:  Future Directions
     for AI Agent Memory Subsystems (Vol-II)'
-  authors: *id017
+  authors: *id036
   section: Papers
   url: https://www.academia.edu/attachments/132655779/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132655779/thumbnails/1.jpg
@@ -618,104 +737,104 @@ all_publications:
     Military Humanities – A Comprehensive Anatomical Review of Military Humanities
     (MILHUM) as Cognitive, Ethical, and Professional Safeguard in the Algorithmic
     Era  (Vol. IV, Enhanced Synthesis)'
-  authors: *id018
+  authors: *id037
   section: Book Reviews
   url: https://www.academia.edu/attachments/132423471/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132423471/thumbnails/1.jpg
 - title: 'Understanding Authentic AI Protocols: A Multidisciplinary Exploration VOL
     I Understanding Authentic AI Protocols: A Multidisciplinary Exploration VOL -I'
-  authors: *id019
+  authors: *id038
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126241886/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126241886/thumbnails/1.jpg
 - title: A Critical Anatomical Review of The Missing Knowledge Layer in Cognitive
     Architectures for AI Agents by Michaël Roynard (2026)  Featuring a Deep Comparative
     Analysis of Persistence Semantics
-  authors: *id020
+  authors: *id039
   section: Papers
   url: https://www.academia.edu/attachments/132651066/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132651066/thumbnails/1.jpg
 - title: 'A Critical Enquiry into Alleged Hidden Mathematical Structure in Quantum
     Random Number Generator Outputs:  Absence of Substantiated 2024 Claims and the
     State of Quantum Randomness Research (2024–2026)'
-  authors: *id021
+  authors: *id040
   section: Papers
   url: https://www.academia.edu/attachments/132650936/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132650936/thumbnails/1.jpg
 - title: 'A Critical Anatomical Review of Leizerman’s Pre-Registered Causal Accumulation
     Law:  Strengths, Limitations, Contrasts with Competing Unification Programs, and
     Immediate Research Pathways in a Rank-2 Causal Dynamic Field Theory'
-  authors: *id022
+  authors: *id041
   section: Papers
   url: https://www.academia.edu/attachments/132646844/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132646844/thumbnails/1.jpg
 - title: A Critical Review of Homology-Based Morphometry for Quantifying Brain Atrophy
     in Alzheimer's Disease (Vol-I)
-  authors: *id023
+  authors: *id042
   section: Papers
   url: https://www.academia.edu/attachments/132646757/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132646757/thumbnails/1.jpg
 - title: 'An Anatomical Assessment of Ideations in Giesecke+Devrient’s Post-Quantum
     Cryptography Whitepaper:  Comparative Analysis with Independent Scholarly Works
     on Quantum Security and Leading Field Research'
-  authors: *id024
+  authors: *id043
   section: Papers
   url: https://www.academia.edu/attachments/132646656/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132646656/thumbnails/1.jpg
 - title: 'Teaching Note:  The L2-to-L3 Transition in Agentic World Modeling – Compounding
     Error, Architectural Choices, and the Evidence-Integration Bottleneck'
-  authors: *id025
+  authors: *id044
   section: Papers
   url: https://www.academia.edu/attachments/132636406/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132636406/thumbnails/1.jpg
 - title: 'Glial-Augmented Dual-Network Neuromorphic Architectures:  A Revised Model
     for Brain-Inspired Memory and Integrative Processing Systems (Vol-III)'
-  authors: *id026
+  authors: *id045
   section: Papers
   url: https://www.academia.edu/attachments/132635418/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132635418/thumbnails/1.jpg
 - title: 'Astrocytes, Microglia, and Dual Glial Architectures in Brain Networks:  Plasticity
     Mechanisms, Integrative Cognition, and a Revised Dual-Network Model of Intelligence
     (Vol-II)'
-  authors: *id027
+  authors: *id046
   section: Papers
   url: https://www.academia.edu/attachments/132635296/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132635296/thumbnails/1.jpg
 - title: 'Beyond AGI:  A Critical Anatomical Review of “AI Must Embrace Specialization
     via Superhuman Adaptable Intelligence” as AI’s Emerging North Star With Comparisons
     with EPGI and AIXI Frameworks  Volume - II'
-  authors: *id028
+  authors: *id047
   section: Papers
   url: https://www.academia.edu/attachments/132629991/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132629991/thumbnails/1.jpg
 - title: 'Review of Civil Society Elites: Exploring the Composition, Reproduction,
     Integration, and Contestation of Civil Society Actors at the Top'
-  authors: *id029
+  authors: *id048
   section: Book Reviews
   url: https://www.academia.edu/attachments/131719035/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131719035/thumbnails/1.jpg
 - title: 'Trade Deflections: Chapeaux Note Trade Deflections: Understanding the Mechanisms
     of Trade Redirection, Creation, and Diversion in Global Trade Regimes A Chapeaux
     Note'
-  authors: *id030
+  authors: *id049
   section: Teaching Documents
   url: https://www.academia.edu/attachments/125033453/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/125033453/thumbnails/1.jpg
 - title: 'Agentic World Modeling:  An Exhaustive Anatomical Review, Comparative Analysis,
     and Future Trajectories (Vol-I)'
-  authors: *id031
+  authors: *id050
   section: Papers
   url: https://www.academia.edu/attachments/132625647/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132625647/thumbnails/1.jpg
 - title: A Critical Review of “Filtering and Machine Learning on Riemannian Manifolds
     and Lie Groups” by Labsir et al. (2025) Vol-I
-  authors: *id032
+  authors: *id051
   section: Papers
   url: https://www.academia.edu/attachments/132625576/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132625576/thumbnails/1.jpg
 - title: Geometric Intelligence on Manifolds - Extending Riemannian Neural Architectures
     to Graph Networks, Transformers, and Generative Filtering (Volume III)
-  authors: *id033
+  authors: *id052
   section: Papers
   url: https://www.academia.edu/attachments/132625476/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132625476/thumbnails/1.jpg
@@ -723,189 +842,208 @@ all_publications:
     Policies for Safe Autonomous Systems (Vol-i) Hybrid Physics-Informed Geo-Aware
     Models and Lie Group-Constrained Diffusion Policies for Safe Autonomous Systems
     (Vol-I)
-  authors: *id034
+  authors: *id053
   section: Papers
   url: https://www.academia.edu/attachments/132625377/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132625377/thumbnails/1.jpg
 - title: 'The Quantum Measurement Problem:  Historical Evolution, Fundamental Questions,
     Interpretations, Bell Tests, and Current Trends (Vol - I)'
-  authors: *id035
+  authors: *id054
   section: Papers
   url: https://www.academia.edu/attachments/132618367/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132618367/thumbnails/1.jpg
 - title: 'The Fractal Wave Field Hypothesis:  A Comprehensive Enquiry into Fractal
     Wave Algebra and Emergent Spacetime (Vol-I)'
-  authors: *id036
+  authors: *id055
   section: Papers
   url: https://www.academia.edu/attachments/132613450/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132613450/thumbnails/1.jpg
 - title: 'Fourier and Laplace Transforms: A Comparative Analysis in Signal Processing
     and Control Systems (Vol-I)'
-  authors: *id037
+  authors: *id056
   section: Papers
   url: https://www.academia.edu/attachments/132607913/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132607913/thumbnails/1.jpg
 - title: 'Quantum Computing for Bayesian Inference:  Algorithms, Speedups, Challenges,
     and Synergies with Scalable Machine Learning (Vol-III)'
-  authors: *id038
+  authors: *id057
   section: Papers
   url: https://www.academia.edu/attachments/132601227/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132601227/thumbnails/1.jpg
 - title: 'The Bayesian Ideal versus Practical Scalability in Machine Learning:  Marginalisation,
     Foundation Models, and Parallels with Quantum Physics (Vol-II)'
-  authors: *id039
+  authors: *id058
   section: Papers
   url: https://www.academia.edu/attachments/132600982/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132600982/thumbnails/1.jpg
 - title: 'Anatomical Review and Lateral Expansions of Geometric Deep Learning:  From
     Mathematical Foundations to Cross-Disciplinary Horizons (Vol-I)'
-  authors: *id040
+  authors: *id059
   section: Papers
   url: https://www.academia.edu/attachments/132600872/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132600872/thumbnails/1.jpg
 - title: 'Comprehensive Review of Hakkı Tan''s "Down to the Cell Membrane: Onopticon,
     Homovictimus, and the Pre-Regulation of Life" (2026) Vol-I'
-  authors: *id041
+  authors: *id060
   section: Papers
   url: https://www.academia.edu/attachments/132599016/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132599016/thumbnails/1.jpg
 - title: A Critical Anatomical Review and Comparative Analysis of “How to Fine-Tune
     a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent
     SFT Data”
-  authors: *id042
+  authors: *id061
   section: Papers
   url: https://www.academia.edu/attachments/132598892/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132598892/thumbnails/1.jpg
 - title: 'The Dialectical Onopticon:  Fractal Geometry of Algorithmic Control, Resistance,
     and Sovereign Recursion in the Neural Age (Vol-IV)'
-  authors: *id043
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132588067/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132588067/thumbnails/1.jpg
 - title: 'The Dialectical Onopticon:  A Sheaf-Theoretic Model of Algorithmic Control,
     Resistance, and Sovereign Prediction in the Neural Age (Vol-III)'
-  authors: *id044
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132587476/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132587476/thumbnails/1.jpg
 - title: 'The Algorithm of Resistance:  Preserving Algorithmic Sovereignty in the
     Dialectical Tension Between Panopticon and Onopticon (Vol-II)'
-  authors: *id045
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132587186/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132587186/thumbnails/1.jpg
 - title: A Comprehensive Academic Synthesis of Glass Substrates and Integrated Photonics
     for Next-Generation Artificial Intelligence Paradigms (Vol-I)
-  authors: *id046
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132578281/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132578281/thumbnails/1.jpg
 - title: 'Comprehensive Review of Hakkı Tan''s "Onopticon: Sovereignty as Environmental
     Structuring" (2026'
-  authors: *id047
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132577756/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132577756/thumbnails/1.jpg
 - title: 'An Enquiry into Plasma-Based Particle Acceleration:  Applications in Bioinformatics,
     Photosynthetic Engine Design, and Quantum Gravity Ideations (Vol-II)'
-  authors: *id048
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132577388/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132577388/thumbnails/1.jpg
 - title: 'A First Review of "The Complete Mathematics of Transformers: A Rigorous
     Treatment with Full Derivations, Proofs, and Theoretical Foundations" by Miquel
     Noguer i Alonso (2026) Vol -1'
-  authors: *id049
+  authors: *id062
   section: Book Reviews
   url: https://www.academia.edu/attachments/126326112/download_file?s=portfolio
   thumbnail_url: https://a.academia-assets.com/images/blank-paper.jpg
 - title: 'Retrospective Evaluation of Mergers and Acquisitions in Bangladesh’s Ready-Made
     Garments Sector: A 25-Year Analysis of Post-MFA Predictions, Realities, and Strategic
     Imperatives Chapeaux Note on Insights, Foresights, and Cross-Sights'
-  authors: *id050
+  authors: *id063
   section: Teaching Documents
   url: https://www.academia.edu/attachments/124937657/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/124937657/thumbnails/1.jpg
 - title: 'The Maturing Interplay Extended:  Discrete Quantum Gravity, Functional Renormalization
     Group, and Open Quantum Systems—Realizing Einstein’s Vision Through Multiplicity
     (Vol-II)'
-  authors: *id051
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132577339/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132577339/thumbnails/1.jpg
 - title: 'An Enquiry into the Breakthrough Laser Technique for Generating the Most
     Intense Coherent Light in Laboratory Settings:  Verification, Scientific Analysis,
     and Implications (Vol-III)'
-  authors: *id052
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132572617/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132572617/thumbnails/1.jpg
 - title: 'An Enquiry into Plasma-Based Particle Acceleration:  Principles, 2026 Advances,
     Challenges, and Broader Implications (Vol-I)'
-  authors: *id053
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132572478/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132572478/thumbnails/1.jpg
 - title: 'An Exploration of the Origins of Multiplicity Theory:  Historical Roots,
     Mathematical Foundations, and Emergence in Contemporary Physics (Vol-II)'
-  authors: *id054
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132562874/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132562874/thumbnails/1.jpg
 - title: 'An Anatomical Review of the CEQG-RG-Langevin Framework: Dissecting Hamiltonians
     and Hilbert Spaces in a Proposed Completion of Einstein''s Quantum Gravity (Vol-I)'
-  authors: *id055
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132562704/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132562704/thumbnails/1.jpg
 - title: 'The Maturing Interplay:  Discrete Quantum Gravity, Functional Renormalization
     Group, and Open Quantum Systems—Realizing Einstein’s Vision Through Triad Multiplicity
     (Vol-I)'
-  authors: *id056
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132562613/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132562613/thumbnails/1.jpg
 - title: 'Skill-RAG: Failure-State-Aware Retrieval Augmentation via Hidden-State Probing
     and Skill Routing (Vol-I)'
-  authors: *id057
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132562464/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132562464/thumbnails/1.jpg
 - title: Higher-Order Interference and Thermodynamic Entropy in Generalized Hilbert
     Spaces Bridging Sorkin’s Framework with Operational Thermodynamics (Vol-III)
-  authors: *id058
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132551016/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132551016/thumbnails/1.jpg
 - title: Thermodynamic Sculpting of Hilbert Space Structure Reconstructing Complex
     Quantum Theory from Minimal Operational Postulates in Generalized Probabilistic
     Theories
-  authors: *id059
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132550729/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132550729/thumbnails/1.jpg
 - title: 'Thermodynamic Sculpting of Quantum Foundations:  An Anatomical Review of
     Krumm et al. (2017) in the Context of Advances in Generalized Probabilistic Theories
     and Pathways for Hilbert Space Evolution (Vol-I)'
-  authors: *id060
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132550634/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132550634/thumbnails/1.jpg
 - title: Deeper into the  Mathieu Stability in Paul Traps and Dual Frequency Designs  (KSC
     CHAPEAUX NOTE - Vol-II)
-  authors: *id061
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132537458/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132537458/thumbnails/1.jpg
 - title: A Dual-Frequency Radiofrequency Paul Trap for Co-Confinement of Electrons
     and Calcium Ions (Vol-I)
-  authors: *id062
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132537319/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132537319/thumbnails/1.jpg
 - title: 'The Embedding Principle as a Hierarchical Skeleton of Neural Loss Landscapes:  Geometry,
     Degeneracy, and Implicit Regularization (Vol-IV)'
-  authors: *id063
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/132537173/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132537173/thumbnails/1.jpg
@@ -1047,135 +1185,3 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/132492424/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132492424/thumbnails/1.jpg
-- title: Topological and Sociological Architecture of Algorithmic Warfare (Volume
-    II) Topological and Sociological Architecture of Algorithmic Warfare (Volume II
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132492213/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132492213/thumbnails/1.jpg
-- title: 'Divide et impera:  An Anatomical Review of Hybrid Multinomial Classifiers
-    Derived from Quantum Binary Models (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132475514/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132475514/thumbnails/1.jpg
-- title: 'The Topological and Sociological Architecture of Algorithmic Warfare:  A
-    Reinterpretation of the Geopolitical Weaponization Race (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132474413/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132474413/thumbnails/1.jpg
-- title: 'The Convergence of Intelligence and Kinetic Power:  A Strategic Analysis
-    of the Geopolitical Weaponization Race (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132470565/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132470565/thumbnails/1.jpg
-- title: "Quantum-AI Hybrid Algorithms: \r\nBridging Classical Intelligence, Quantum\
-    \ Acceleration, and Biological Data Storage (Vol-II)"
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132470386/download_file?s=portfolio
-  thumbnail_url: https://a.academia-assets.com/images/blank-paper.jpg
-- title: 'Reimagining Institutionalism: AI''s Dual Role in Deconstructing and Reconstructing
-    Civic Institutions Towards Fluid Neo-Institutionalism'
-  authors: *id064
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/126246932/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/126246932/thumbnails/1.jpg
-- title: 'Chapeau Note Vol.I: REALISING INCHOATE DEMANDS, LEVERAGING COMPLEMENTARY
-    ASSETS, INTRODUCING MINIMUM VIABLE ENGINES'
-  authors: *id065
-  section: Teaching Documents
-  url: https://blog.aifat.org/chapeau-note-vol-i-realising-inchoate-demands-leveraging-complementary-assets-introducing-minimum-viable-engines/
-  thumbnail_url: https://a.academia-assets.com/images/blank-paper.jpg
-- title: 'Accelerating the Symbiosis:  Information Geometry, Quantum Computing, and
-    Pre-2030 AGI in the Mathematical and Physical Sciences (Vol-II)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132469996/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132469996/thumbnails/1.jpg
-- title: 'Quantum-AI Hybrid Algorithms:  Bridging Classical Intelligence, Quantum
-    Acceleration, and Scientific Discovery in the MPS Domains (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132469868/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132469868/thumbnails/1.jpg
-- title: 'Accelerating the Symbiosis:  Quantum Computing, Pre-2030 AGI, and the Future
-    of AI in the Mathematical and Physical Sciences (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132469784/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132469784/thumbnails/1.jpg
-- title: Advanced Quantum Aspects of Variational Algorithms A Second Volume on the
-    Evolution Toward Early Fault Tolerance Advanced Quantum Aspects of Variational
-    Algorithms A Second Volume on the Evolution Toward Early Fault Tolerance
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132458973/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132458973/thumbnails/1.jpg
-- title: 'Advanced Categorical Foundations of Persistence: Cosheaf Duality and Bisheaves
-    (Volume II) Advanced Categorical Foundations of Persistence'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132458892/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132458892/thumbnails/1.jpg
-- title: 'A Deep Anatomical Review of Variational Quantum Algorithms: Insights into
-    Fault-Tolerant Quantum Computing (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132456063/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132456063/thumbnails/1.jpg
-- title: 'A Critical Anatomical Review of "An Algebraic Introduction to Persistence"
-    by Bauer, Brüstle and Scoccola (2026): Vol-I'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132455933/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132455933/thumbnails/1.jpg
-- title: 'The Calculus of Strategic Power and Asymmetrical Trade:  A Multiplicative
-    Geopolitical-Strategic Framework for Bottom-of-the-Pyramid Nations (Vol-II)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132441823/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132441823/thumbnails/1.jpg
-- title: The Rapidus Nexus, Infrastructural Autonomy, and Next-Generation Compute
-    (Vol-III)
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132441371/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132441371/thumbnails/1.jpg
-- title: Strategic Verticals in Trade Negotiations Between Bottom-of-the-Pyramid and
-    Advanced Economies (Vol-I)
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132441220/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132441220/thumbnails/1.jpg
-- title: 'A Deep Anatomical Review of Neural Computers:  Advanced Information Geometry,
-    Geometric Regularization, and Native Symbolic Reasoning  (Vol. II)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132435883/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132435883/thumbnails/1.jpg
-- title: 'The Calculus of Strategic Power: A Multiplicative and Differential Framework
-    for Multi-Domain Geopolitics (Vol-I)'
-  authors:
-  - Dr. Syed Muntasir Mamun
-  section: Papers
-  url: https://www.academia.edu/attachments/132435088/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/132435088/thumbnails/1.jpg
