@@ -20,6 +20,10 @@ description: "Comprehensive academic publications, books, policy papers, and res
 
 ---
 
+{% include books-section.html %}
+
+---
+
 {% if site.data.publications %}
 <div class="notice--success">
   <h4><i class="fas fa-sync-alt"></i> Latest from Academia.edu</h4>
@@ -339,7 +343,7 @@ description: "Comprehensive academic publications, books, policy papers, and res
 
 **[Blockchains: Gaming & Collusion – A Reading in Political Economy](https://www.academia.edu/attachments/68840303/download_file?s=portfolio)** (2021)  
 <i class="fas fa-download"></i> [Download PDF](/files/PDF/Blockchains Gaming Collusion A Reading in Political Economy.pdf)  
-[Amazon Publishing](https://www.amazon.com/author/syedmuntasir) | Exploration of decentralization, ethics, and governance in blockchain ecosystems.
+[Amazon](https://www.amazon.com/dp/B09CRLTZK9) (ISBN 979-8461006020) | Exploration of decentralization, ethics, and governance in blockchain ecosystems. *All books, with covers and buy links, are listed under [Books](#books) at the top of this page.*
 
 **Bangladesh: Striving towards a Zone of Peace and Prosperity in the Indian Ocean Region** (Book Chapter)  
 *Published by Taylor & Francis.* [View on Publisher](https://www.taylorfrancis.com/books/9780429331640)

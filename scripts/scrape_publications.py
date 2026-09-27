@@ -189,8 +189,15 @@ class PublicationsScraper:
         print(f"✓ Preserved DOI/Zenodo fields on {merged} entries")
         return data
 
+    # Hand-curated data files this scraper must never write to.
+    PROTECTED_FILES = ('books.yml',)
+
     def save_yaml(self, data: Dict) -> bool:
-        """Save YAML data to file."""
+        """Save YAML data to file. Only ever writes publications.yml (or an explicit
+        override path); _data/books.yml is curated by hand and is never touched."""
+        if self.output_path.name in self.PROTECTED_FILES:
+            print(f"✗ Refusing to overwrite protected file {self.output_path}")
+            return False
         try:
             # Ensure parent directory exists
             self.output_path.parent.mkdir(parents=True, exist_ok=True)

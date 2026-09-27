@@ -1,0 +1,23 @@
+{%- comment -%} Schema.org Book structured data, one block per book in _data/books.yml {%- endcomment -%}
+{%- for b in site.data.books.books %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "{{ site.url }}/publications/#{{ b.id }}",
+  "name": {{ b.display_title | jsonify }},
+  "alternateName": {{ b.title | append: ": " | append: b.subtitle | jsonify }},
+  "author": [{% for a in b.authors %}{% if forloop.first %}{"@type": "Person", "name": {{ a | jsonify }}, "url": "{{ site.url }}/", "sameAs": ["https://orcid.org/0000-0001-6845-2853", "https://www.amazon.com/author/syedmuntasir"]}{% else %}, {"@type": "Person", "name": {{ a | jsonify }}}{% endif %}{% endfor %}],
+  "publisher": {"@type": "Organization", "name": {{ b.publisher_org | jsonify }}},
+  "datePublished": "{{ b.publication_date }}",
+  "inLanguage": "en",
+  {% if b.isbn13 != "" %}"isbn": "{{ b.isbn13 }}",
+  {% endif %}{% if b.pages %}"numberOfPages": {{ b.pages }},
+  {% endif %}"image": "{{ site.url }}{{ b.cover }}",
+  "url": {{ b.url | jsonify }},
+  "description": {{ b.description | jsonify }},
+  "sameAs": {{ b.same_as | jsonify }},
+  "workExample": [{% for e in b.editions %}{% unless forloop.first %}, {% endunless %}{"@type": "Book", "bookFormat": "{{ e.schema_format }}"{% if e.isbn13 != "" %}, "isbn": "{{ e.isbn13 }}"{% endif %}{% if e.pages %}, "numberOfPages": {{ e.pages }}{% endif %}, "url": {{ e.url | jsonify }}{% if e.asin != "" %}, "identifier": {"@type": "PropertyValue", "propertyID": "ASIN", "value": "{{ e.asin }}"}{% endif %}, "potentialAction": {"@type": "ReadAction", "target": {{ e.url | jsonify }}}}{% endfor %}]
+}
+</script>
+{%- endfor %}
