@@ -60,6 +60,22 @@ description: "Comprehensive academic publications, books, policy papers, and res
 {% endfor %}
 </div>
 
+## <i class="fas fa-list"></i> Complete Catalogue ({{ site.data.publications.total_publications }})
+
+<p><em>Every work on Academia.edu, grouped by section and listed newest first. Click a section to expand it.</em></p>
+
+{% assign pubs_by_section = site.data.publications.all_publications | group_by: "section" %}
+{% for grp in pubs_by_section %}
+<details style="margin-bottom: 0.8em;">
+  <summary style="cursor: pointer; font-weight: 600;">{{ grp.name }} ({{ grp.size }})</summary>
+  <ol style="font-size: 0.9em; line-height: 1.45; margin-top: 0.6em;">
+  {% for pub in grp.items %}
+    <li><a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a></li>
+  {% endfor %}
+  </ol>
+</details>
+{% endfor %}
+
 <p style="text-align: center; margin-top: 2em;">
   <a href="https://syedmamun.academia.edu/research" class="btn btn--primary"><i class="fas fa-external-link-alt"></i> View All Publications on Academia.edu</a>
 </p>

@@ -131,7 +131,7 @@ class PublicationsScraper:
                 for p in pubs[:50]  # Limit to 50 per section to avoid huge files
             ]
         
-        # Add all publications (limited to most recent 100)
+        # Add all publications (full catalogue, newest first)
         yaml_data['all_publications'] = [
             {
                 'title': p['title'],
@@ -140,7 +140,7 @@ class PublicationsScraper:
                 'url': p['url'],
                 'thumbnail_url': p['thumbnail_url'],
             }
-            for p in publications[:100]
+            for p in publications
         ]
         
         return yaml_data
