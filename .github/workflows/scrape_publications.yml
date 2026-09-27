@@ -1,10 +1,8 @@
 name: Scrape Publications from Academia.edu
 
 on:
-    schedule:
-        # Run every Sunday at midnight UTC (weekly)
-        - cron: "0 0 * * 0"
-
+    # Weekly schedule disabled 2026-09-27: Academia.edu blocks GitHub-hosted runners.
+    # The scrape now runs weekly from an off-GitHub machine and pushes _data/publications.yml.
     workflow_dispatch: # Allow manual triggering
         inputs:
             force_update:
