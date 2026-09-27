@@ -145,6 +145,50 @@ class PublicationsScraper:
         
         return yaml_data
     
+    PRESERVE_FIELDS = ('doi', 'zenodo_url')
+
+    def merge_existing(self, data: Dict) -> Dict:
+        """Carry over fields we add ourselves (Zenodo DOI etc.) from the previous
+        publications.yml and from _data/zenodo_dois.yml, matched by Academia URL,
+        falling back to a normalised title. Keeps the weekly re-scrape from wiping them."""
+        def norm(t):
+            return ' '.join(re.findall(r'[a-z0-9]+', (t or '').lower()))
+        by_url, by_title = {}, {}
+        sources = []
+        if self.output_path.exists():
+            try:
+                old = yaml.safe_load(self.output_path.read_text(encoding='utf-8')) or {}
+                sources.extend(old.get('all_publications') or [])
+                for items in (old.get('sections') or {}).values():
+                    sources.extend(items or [])
+            except Exception as e:
+                print(f"! Could not read existing YAML for merge: {e}")
+        doi_map = self.output_path.parent / 'zenodo_dois.yml'
+        if doi_map.exists():
+            try:
+                for row in (yaml.safe_load(doi_map.read_text(encoding='utf-8')) or []):
+                    sources.append(row)
+            except Exception as e:
+                print(f"! Could not read {doi_map}: {e}")
+        for item in sources:
+            keep = {k: item[k] for k in self.PRESERVE_FIELDS if item.get(k)}
+            if not keep:
+                continue
+            if item.get('url'):
+                by_url.setdefault(item['url'], keep)
+            if item.get('title'):
+                by_title.setdefault(norm(item['title']), keep)
+        merged = 0
+        lists = [data.get('all_publications') or []] + list((data.get('sections') or {}).values())
+        for items in lists:
+            for item in items:
+                keep = by_url.get(item.get('url')) or by_title.get(norm(item.get('title')))
+                if keep:
+                    item.update({k: v for k, v in keep.items() if not item.get(k)})
+                    merged += 1
+        print(f"✓ Preserved DOI/Zenodo fields on {merged} entries")
+        return data
+
     def save_yaml(self, data: Dict) -> bool:
         """Save YAML data to file."""
         try:
@@ -187,6 +231,7 @@ class PublicationsScraper:
         
         # Generate YAML structure
         yaml_data = self.generate_yaml(publications, sections)
+        yaml_data = self.merge_existing(yaml_data)
         
         # Save to file
         success = self.save_yaml(yaml_data)

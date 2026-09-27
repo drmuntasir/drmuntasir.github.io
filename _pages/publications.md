@@ -39,7 +39,7 @@ description: "Comprehensive academic publications, books, policy papers, and res
         </h3>
         
         <p class="archive__item-excerpt" style="margin: 0.5em 0; color: #666;">
-          <small><i class="fas fa-user" style="color: #555;"></i> <em>{{ pub.authors | join: ", " }}</em> | <i class="fas fa-folder" style="color: #555;"></i> <strong>{{ pub.section }}</strong></small>
+          <small><i class="fas fa-user" style="color: #555;"></i> <em>{{ pub.authors | join: ", " }}</em> | <i class="fas fa-folder" style="color: #555;"></i> <strong>{{ pub.section }}</strong>{% if pub.doi %} | <i class="fas fa-fingerprint" style="color: #555;"></i> <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI: {{ pub.doi }}</a>{% endif %}</small>
         </p>
 
         {% if pub.abstract %}
@@ -62,7 +62,7 @@ description: "Comprehensive academic publications, books, policy papers, and res
 
 ## <i class="fas fa-list"></i> Complete Catalogue ({{ site.data.publications.total_publications }})
 
-<p><em>Every work on Academia.edu, grouped by section and listed newest first. Click a section to expand it.</em></p>
+<p><em>Every work on Academia.edu, grouped by section and listed newest first. Where a work is archived on <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier:0000-0001-6845-2853">Zenodo</a>, its permanent DOI is shown. Click a section to expand it.</em></p>
 
 {% assign pubs_by_section = site.data.publications.all_publications | group_by: "section" %}
 {% for grp in pubs_by_section %}
@@ -70,7 +70,7 @@ description: "Comprehensive academic publications, books, policy papers, and res
   <summary style="cursor: pointer; font-weight: 600;">{{ grp.name }} ({{ grp.size }})</summary>
   <ol style="font-size: 0.9em; line-height: 1.45; margin-top: 0.6em;">
   {% for pub in grp.items %}
-    <li><a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a></li>
+    <li><a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% if pub.doi %} <small>· <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener" title="Zenodo DOI">doi:{{ pub.doi }}</a></small>{% endif %}</li>
   {% endfor %}
   </ol>
 </details>
