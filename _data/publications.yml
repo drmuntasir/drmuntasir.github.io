@@ -1,84 +1,470 @@
-last_updated: '2026-09-27'
-total_publications: 1199
+last_updated: '2026-10-04'
+total_publications: 1225
 sections:
+  Papers:
+  - title: 'Decomposition without Ontology: An Anatomical Review of Clinton Svancara,
+      Relational Contraction: Decomposition, Competence, and Descriptive Validity
+      (October 2026)'
+    authors: &id001
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134665522/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134665522/thumbnails/1.jpg
+  - title: 'Square-Root Sparsity and the Closure of the Quantum Linear Systems Query
+      Gap: An Anatomical, Comparative, and Epistemic Review of Bravo-Prieto, Harrow,
+      and Kothari'
+    authors: &id002
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134662881/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134662881/thumbnails/1.jpg
+  - title: 'Relational Contraction: The Einstein Summation Convention, the Primacy
+      of Relationships, and Comparable Procedures in Sumerian, Egyptian and Indian
+      Mathematics'
+    authors: &id003
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134662756/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134662756/thumbnails/1.jpg
+  - title: 'Geostrategic Shifts and Energy Security: The 3 October Thread'
+    authors: &id005
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134660824/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134660824/thumbnails/1.jpg
+  - title: 'Volume III: Energy, Power and GDP in an Import-Dependent State'
+    authors: &id007
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134660819/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134660819/thumbnails/1.jpg
+  - title: 'Energy, Power and GDP in an Import-Dependent State: The Bangladesh Identity,
+      2011–2026'
+    authors: &id011
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134660768/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134660768/thumbnails/1.jpg
+  - title: 'The Topos of Contested Price: Availability, Fracture and Kinetic Conflict
+      in Import-Dependent Energy Markets'
+    authors: &id014
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134652096/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134652096/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116094
+    zenodo_url: https://zenodo.org/records/23116094
+  - title: 'Continuous Correction, Not Crisis Redesign: Contractual Confidence, Alternatives,
+      and Regional Grids for Import-Dependent States after 2026'
+    authors: &id017
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134652089/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134652089/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116090
+    zenodo_url: https://zenodo.org/records/23116090
+  - title: Mamun Continuous Correction Not Crisis Redesign
+    authors: &id020
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134652087/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134652087/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116086
+    zenodo_url: https://zenodo.org/records/23116086
+  - title: 'AI, Quantum, and Digital Trust: Four Topics for Discussion. SQLL session,
+      Baridhara DOHS, 3 October 2026'
+    authors: &id023
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134650196/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134650196/thumbnails/1.jpg
+  - title: 'Beyond Post-Quantum Cryptography: Architecture, Memory, and Governance
+      in the Quantum Era'
+    authors: &id024
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134650182/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134650182/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116061
+    zenodo_url: https://zenodo.org/records/23116061
+  - title: 'Digital Trust under Autonomous AI and Quantum Risk: Signed Memory, Cryptographic
+      Unpredictability, and Harvest-Now-Decrypt-Later'
+    authors: &id027
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134650176/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134650176/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116057
+    zenodo_url: https://zenodo.org/records/23116057
+  - title: 'Volume II. Ballistics and Hypersonic Systems: What the Quantum-Simulation
+      Result Does Not Transfer'
+    authors: &id028
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134638039/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134638039/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23095067
+    zenodo_url: https://zenodo.org/records/23095067
+  - title: 'Digital Quantum Simulation of Scattering: Theories, Hardware, and Error
+      Cancellation'
+    authors: &id029
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134637872/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134637872/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23095011
+    zenodo_url: https://zenodo.org/records/23095011
+  - title: Academia upload
+    authors: &id030
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134637868/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134637868/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23095011
+    zenodo_url: https://zenodo.org/records/23095011
+  - title: 'Cryptocurrency Teens, Episode #30 Interview with Syed Muntasir -Innovation
+      Strategy at Oxford & Director General, Bangladesh Foreign Affairs Ministry'
+    authors: &id031
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134634576/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134634576/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23091361
+    zenodo_url: https://zenodo.org/records/23091361
+  - title: 'Earned Standing, Not Fluent Appearance: An Anatomical Review of Generative
+      AI as an Epistemic Technology and Its Consequences for the Ontology of Generative
+      Artificial Intelligence'
+    authors: &id034
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134632478/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134632478/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23089115
+    zenodo_url: https://zenodo.org/records/23089115
+  - title: 'K S C Transverse Koszul Flows on Libermann Leaves: An Anatomical Review
+      KSCCN'
+    authors: &id035
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134632471/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134632471/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23089113
+    zenodo_url: https://zenodo.org/records/23089113
+  - title: Quantum Computation and Language Models
+    authors: &id036
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134632457/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134632457/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23089103
+    zenodo_url: https://zenodo.org/records/23089103
+  - title: 'Entangled Measurement and Frequency-Bin W States, Volume II: Projectors,
+      Protocols, Scaling and an Experimental Programme'
+    authors: &id037
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134591454/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134591454/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23053126
+    zenodo_url: https://zenodo.org/records/23053126
+  - title: 'Entangled Measurement, On-Chip Discrete Fourier Analysers, and Frequency-Bin
+      W-State Generation: A Synthetic Review'
+    authors: &id038
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134591389/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134591389/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23053124
+    zenodo_url: https://zenodo.org/records/23053124
+  - title: 'Making the T2 Phase Learn: A Mismatch-Gated Chassis, Three Constructions,
+      and Phage Change under Resonance (Engineering Note II'
+    authors: &id039
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134550755/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134550755/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23016047
+    zenodo_url: https://zenodo.org/records/23016047
+  - title: Do Viruses Learn? T2 Phases, Compiled Programmes, and the Limits of the
+      Tag-Capture-Forget Loop (Vol-V) An Anatomical Review • Construction Site Series,
+      Volume V
+    authors: &id040
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134550608/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134550608/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23016042
+    zenodo_url: https://zenodo.org/records/23016042
+  - title: 'Testing the Loop: A Graduate Teaching Note and Laboratory for the Construction
+      Site Series (Vols I-IV and Engineering Note I'
+    authors: &id041
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134534597/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134534597/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23031761
+    zenodo_url: https://zenodo.org/records/23031761
+  - title: 'Oracle-Enabled Signature Forgery without Factorisation: Attack Surfaces,
+      Vectors, Success Conditions and Defence Architectures for Classical RSA in the
+      Presence of Raw and Blind Signing Oracles'
+    authors: &id042
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134534524/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134534524/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23031757
+    zenodo_url: https://zenodo.org/records/23031757
+  - title: 'Who Owns the Sampling Rule: An Anatomical Review of Cognitive Sovereignty,
+      Write-Permission, and Constitutional Granite in Learners, Models, and Polities
+      (Vol-IV)'
+    authors: &id046
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134525622/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134525622/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989705
+    zenodo_url: https://zenodo.org/records/22989705
+  - title: 'Mismatch-Gated Rewrite: An Engineering Note on Reopenable Gist Interfaces
+      for Reasoning-Model Memory and On-Wafer Buffers'
+    authors: &id047
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134525583/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134525583/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989707
+    zenodo_url: https://zenodo.org/records/22989707
+  - title: 'Tag Manifolds, Write Budgets, and the Site in Matter: An Anatomical Review
+      of Information Geometry, Renormalisation, and Substrate Implementations of the
+      Tag–Capture–Forget Loop (Vol-III)'
+    authors: &id048
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134525500/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134525500/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989709
+    zenodo_url: https://zenodo.org/records/22989709
+  - title: 'After the Hammer Blows: An Anatomical Review of Sleep-Dependent Consolidation,
+      Reconsolidation, Spacing, and the Engineering of Tag-Capture-Forget Loops in
+      Biological Learners, Reasoning Models, and Foundation Models (Vol-II'
+    authors: &id049
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134522926/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134522926/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989713
+    zenodo_url: https://zenodo.org/records/22989713
+  - title: 'The Mind as Construction Site: An Anatomical Review of Cognitive Friction,
+      Synaptic Tagging, Adaptive Forgetting, and Evolutionary Learning Across Biological
+      Systems, Reasoning Models, and Foundation Models (Vol-I) An Anatomical Review'
+    authors: &id050
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134519267/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134519267/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989716
+    zenodo_url: https://zenodo.org/records/22989716
+  - title: 'Continuum Formalism and Operator Foundations: An Anatomical and Epistemic
+      Review of a Dirac–von Neumann Polemic, with Comparison to Leading Theories of
+      Quantum Measurement and Representation Anatomical Review, Volume I'
+    authors: &id051
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134519177/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134519177/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989722
+    zenodo_url: https://zenodo.org/records/22989722
+  - title: 'COGNITIVE WARFARE AND THE CONTEST FOR ORIENTATION: Statecraft, Epistemic
+      Capture, and Tactical Grammar KSCCN Independent Volume II -an academic monograph
+      on the militarisation of human and machine cognition'
+    authors: &id052
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134509638/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134509638/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989728
+    zenodo_url: https://zenodo.org/records/22989728
+  - title: 'ALIQUANTE AND THE SOFTWARE LAYER OF QUANTUM WARFARE: Statecraft, Epistemic
+      Enclosure, and Tactical Orchestration'
+    authors: &id053
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134509550/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134509550/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989734
+    zenodo_url: https://zenodo.org/records/22989734
+  - title: 'From Relays to Sovereign Nodes: Isolating the Concepts of Orbital Post-Quantum
+      Infrastructure and Predicting the Epistemology of Post-PQC Security'
+    authors: &id054
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134509471/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134509471/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989736
+    zenodo_url: https://zenodo.org/records/22989736
+  - title: K S C MACHINE-SPEED STATECRAFT AND THE SHIPPING COMMONS KSCCN Working Paper
+      KSCCN
+    authors: &id055
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134422997/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134422997/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989740
+    zenodo_url: https://zenodo.org/records/22989740
+  - title: KSCCN Empowered Ageing AI Robotics
+    authors: &id056
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134422928/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134422928/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995403
+    zenodo_url: https://zenodo.org/records/22995403
+  - title: ADS VolII Policy Briefing UNGA 81
+    authors: &id057
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134422886/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134422886/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995772
+    zenodo_url: https://zenodo.org/records/22995772
+  - title: 'Semantic Sovereignty and the Algorithmic Developmental State (Vol-II):
+      The Policy-Infrastructure Mesh for Base of the Pyramid Markets'
+    authors: &id058
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134422813/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134422813/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995405
+    zenodo_url: https://zenodo.org/records/22995405
+  - title: Semantic Sovereignty and the Algorithmic Developmental State
+    authors: &id059
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134422672/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134422672/thumbnails/1.jpg
+  - title: 'The Universe as a Field Error: An Anatomical Review of Kolesnikov''s Fractal-Wave
+      Algebra against Ten Leading Ontologies and the Author''s Prior Corpus'
+    authors: &id060
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134404667/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134404667/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995410
+    zenodo_url: https://zenodo.org/records/22995410
+  - title: 'The Child Who Must Still Be Able to Speak: Semantic Sovereignty, Fluid
+      Institutions, and the Power of Words'
+    authors: &id061
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134391867/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134391867/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995412
+    zenodo_url: https://zenodo.org/records/22995412
+  - title: Mamun TPOW MoMA Simple Deck UNGA 81
+    authors: &id062
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134391859/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134391859/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995774
+    zenodo_url: https://zenodo.org/records/22995774
+  - title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
+      and Win-Win Architectures for States and Enterprises'
+    authors: &id063
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134390982/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134390982/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995414
+    zenodo_url: https://zenodo.org/records/22995414
+  - title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
+      and Win-Win Architectures for States and Enterprises'
+    authors: &id067
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134390979/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134390979/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995414
+    zenodo_url: https://zenodo.org/records/22995414
+  - title: KSCCN Operationalising Sovereign AI Deck 81 UNGA
+    authors: &id068
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134390975/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134390975/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995776
+    zenodo_url: https://zenodo.org/records/22995776
+  - title: 'From Prohibition to Enforcement: AI Red Lines, Verification Hands, Digital
+      Statecraft and Sovereign Space under the Triple-Lock of Sovereign AI'
+    authors: &id069
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134380724/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134380724/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22989889
+    zenodo_url: https://zenodo.org/records/22989889
+  - title: 'KSCCN SERIES ON CRITICAL AI & DIGITAL SOVEREIGNTY STUDIES Human Rights
+      Data as Sovereign Space: Multi-Agent Intelligence, Digital Gender-Craft, Hybrid
+      Epistemia and the Right to Correct under HRDx'
+    authors: &id070
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134380576/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134380576/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995416
+    zenodo_url: https://zenodo.org/records/22995416
+  - title: KSCCN AI Red Lines Deck UNGA 81
+    authors: &id071
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134380554/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134380554/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995782
+    zenodo_url: https://zenodo.org/records/22995782
+  - title: Mamun HRDx Sovereign Space Deck UNGA 81
+    authors: &id072
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134380546/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134380546/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995788
+    zenodo_url: https://zenodo.org/records/22995788
+  - title: 'Climate Mobility as Sovereign Space: Food, Fuel, Finance and Digital Gender-Craft
+      under the Triple Lock of Sovereign Artificial Intelligence'
+    authors: &id073
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134378650/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134378650/thumbnails/1.jpg
+    doi: 10.5281/zenodo.22995419
+    zenodo_url: https://zenodo.org/records/22995419
   Conference Presentations:
   - title: Sovereign Space for the Child
-    authors: &id001
+    authors: &id004
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383221/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383221/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995794
     zenodo_url: https://zenodo.org/records/22995794
   - title: Climate Mobility — Sovereign Space
-    authors: &id002
+    authors: &id006
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383233/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383233/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995790
     zenodo_url: https://zenodo.org/records/22995790
   - title: Human Rights Data as Sovereign Space (HRDx)
-    authors: &id004
+    authors: &id008
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383246/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383246/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995788
     zenodo_url: https://zenodo.org/records/22995788
   - title: From Prohibition to Enforcement — AI Red Lines (Minderoo)
-    authors: &id006
+    authors: &id009
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383257/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383257/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995782
     zenodo_url: https://zenodo.org/records/22995782
   - title: Cognitive Agentic Paradigm (AISC)
-    authors: &id009
+    authors: &id012
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383262/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383262/thumbnails/1.jpg
   - title: Q-Lab — Agentic AI & Youth Wellbeing
-    authors: &id012
+    authors: &id015
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383213/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383213/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995800
     zenodo_url: https://zenodo.org/records/22995800
   - title: Google Cloud — AI for Global Progress
-    authors: &id015
+    authors: &id018
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383196/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383196/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995808
     zenodo_url: https://zenodo.org/records/22995808
   - title: UNESCO — Education Systems & Sovereign AI
-    authors: &id018
+    authors: &id021
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383182/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383182/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995813
     zenodo_url: https://zenodo.org/records/22995813
   - title: CUP&A — New Skills for a New World
-    authors: &id022
+    authors: &id025
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383164/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383164/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995815
     zenodo_url: https://zenodo.org/records/22995815
   - title: Digital Healthcraft Triple Lock
-    authors: &id028
+    authors: &id032
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383094/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383094/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995820
     zenodo_url: https://zenodo.org/records/22995820
   - title: Digital Gender Craft Triple Lock (WomenInGenAI)
-    authors: &id039
+    authors: &id043
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383096/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383096/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995818
     zenodo_url: https://zenodo.org/records/22995818
   - title: Digital Statecraft Triple Lock (BHI)
-    authors: &id060
+    authors: &id064
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383078/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383078/thumbnails/1.jpg
@@ -99,433 +485,36 @@ sections:
     doi: 10.5281/zenodo.22995828
     zenodo_url: https://zenodo.org/records/22995828
   - title: Second Town Hall Meeting on AI Governance and Diplomacy
-    authors: &id080
+    authors: &id081
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/133578136/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/133578136/thumbnails/1.jpg
   - title: A BYSTANDERS' TAKE ON THE BANGLADESH BUSINESS CLIMATE INDEX (BBX) 2022-2023
-    authors: &id086
+    authors: &id087
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/100158841/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/100158841/thumbnails/1.jpg
     doi: 10.5281/zenodo.22994308
     zenodo_url: https://zenodo.org/records/22994308
   - title: 'On Swami Vivekananda: Reflections in 2010'
-    authors: &id088
+    authors: &id089
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/56146270/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/56146270/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116020
+    zenodo_url: https://zenodo.org/records/23116020
   - title: 'Bangladesh''s Participations in Peacekeeping operations and Nation-Building:
       Existing models and emerging challenges'
-    authors: &id091
+    authors: &id092
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/55728145/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/55728145/thumbnails/1.jpg
-  Papers:
-  - title: 'Who Owns the Sampling Rule: An Anatomical Review of Cognitive Sovereignty,
-      Write-Permission, and Constitutional Granite in Learners, Models, and Polities
-      (Vol-IV)'
-    authors: &id003
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134525622/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134525622/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989705
-    zenodo_url: https://zenodo.org/records/22989705
-  - title: 'Mismatch-Gated Rewrite: An Engineering Note on Reopenable Gist Interfaces
-      for Reasoning-Model Memory and On-Wafer Buffers'
-    authors: &id005
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134525583/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134525583/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989707
-    zenodo_url: https://zenodo.org/records/22989707
-  - title: 'Tag Manifolds, Write Budgets, and the Site in Matter: An Anatomical Review
-      of Information Geometry, Renormalisation, and Substrate Implementations of the
-      Tag–Capture–Forget Loop (Vol-III)'
-    authors: &id008
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134525500/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134525500/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989709
-    zenodo_url: https://zenodo.org/records/22989709
-  - title: 'After the Hammer Blows: An Anatomical Review of Sleep-Dependent Consolidation,
-      Reconsolidation, Spacing, and the Engineering of Tag-Capture-Forget Loops in
-      Biological Learners, Reasoning Models, and Foundation Models (Vol-II'
-    authors: &id011
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134522926/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134522926/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989713
-    zenodo_url: https://zenodo.org/records/22989713
-  - title: 'The Mind as Construction Site: An Anatomical Review of Cognitive Friction,
-      Synaptic Tagging, Adaptive Forgetting, and Evolutionary Learning Across Biological
-      Systems, Reasoning Models, and Foundation Models (Vol-I) An Anatomical Review'
-    authors: &id014
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134519267/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134519267/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989716
-    zenodo_url: https://zenodo.org/records/22989716
-  - title: 'Continuum Formalism and Operator Foundations: An Anatomical and Epistemic
-      Review of a Dirac–von Neumann Polemic, with Comparison to Leading Theories of
-      Quantum Measurement and Representation Anatomical Review, Volume I'
-    authors: &id017
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134519177/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134519177/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989722
-    zenodo_url: https://zenodo.org/records/22989722
-  - title: 'COGNITIVE WARFARE AND THE CONTEST FOR ORIENTATION: Statecraft, Epistemic
-      Capture, and Tactical Grammar KSCCN Independent Volume II -an academic monograph
-      on the militarisation of human and machine cognition'
-    authors: &id020
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134509638/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134509638/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989728
-    zenodo_url: https://zenodo.org/records/22989728
-  - title: 'ALIQUANTE AND THE SOFTWARE LAYER OF QUANTUM WARFARE: Statecraft, Epistemic
-      Enclosure, and Tactical Orchestration'
-    authors: &id021
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134509550/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134509550/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989734
-    zenodo_url: https://zenodo.org/records/22989734
-  - title: 'From Relays to Sovereign Nodes: Isolating the Concepts of Orbital Post-Quantum
-      Infrastructure and Predicting the Epistemology of Post-PQC Security'
-    authors: &id024
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134509471/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134509471/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989736
-    zenodo_url: https://zenodo.org/records/22989736
-  - title: K S C MACHINE-SPEED STATECRAFT AND THE SHIPPING COMMONS KSCCN Working Paper
-      KSCCN
-    authors: &id025
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134422997/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134422997/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989740
-    zenodo_url: https://zenodo.org/records/22989740
-  - title: KSCCN Empowered Ageing AI Robotics
-    authors: &id026
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134422928/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134422928/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995403
-    zenodo_url: https://zenodo.org/records/22995403
-  - title: ADS VolII Policy Briefing UNGA 81
-    authors: &id027
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134422886/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134422886/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995772
-    zenodo_url: https://zenodo.org/records/22995772
-  - title: 'Semantic Sovereignty and the Algorithmic Developmental State (Vol-II):
-      The Policy-Infrastructure Mesh for Base of the Pyramid Markets'
-    authors: &id030
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134422813/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134422813/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995405
-    zenodo_url: https://zenodo.org/records/22995405
-  - title: Semantic Sovereignty and the Algorithmic Developmental State
-    authors: &id031
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134422672/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134422672/thumbnails/1.jpg
-  - title: 'The Universe as a Field Error: An Anatomical Review of Kolesnikov''s Fractal-Wave
-      Algebra against Ten Leading Ontologies and the Author''s Prior Corpus'
-    authors: &id032
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134404667/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134404667/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995410
-    zenodo_url: https://zenodo.org/records/22995410
-  - title: 'The Child Who Must Still Be Able to Speak: Semantic Sovereignty, Fluid
-      Institutions, and the Power of Words'
-    authors: &id033
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134391867/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134391867/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995412
-    zenodo_url: https://zenodo.org/records/22995412
-  - title: Mamun TPOW MoMA Simple Deck UNGA 81
-    authors: &id034
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134391859/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134391859/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995774
-    zenodo_url: https://zenodo.org/records/22995774
-  - title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
-      and Win-Win Architectures for States and Enterprises'
-    authors: &id035
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134390982/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134390982/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995414
-    zenodo_url: https://zenodo.org/records/22995414
-  - title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
-      and Win-Win Architectures for States and Enterprises'
-    authors: &id036
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134390979/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134390979/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995414
-    zenodo_url: https://zenodo.org/records/22995414
-  - title: KSCCN Operationalising Sovereign AI Deck 81 UNGA
-    authors: &id037
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134390975/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134390975/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995776
-    zenodo_url: https://zenodo.org/records/22995776
-  - title: 'From Prohibition to Enforcement: AI Red Lines, Verification Hands, Digital
-      Statecraft and Sovereign Space under the Triple-Lock of Sovereign AI'
-    authors: &id038
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134380724/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134380724/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989889
-    zenodo_url: https://zenodo.org/records/22989889
-  - title: 'KSCCN SERIES ON CRITICAL AI & DIGITAL SOVEREIGNTY STUDIES Human Rights
-      Data as Sovereign Space: Multi-Agent Intelligence, Digital Gender-Craft, Hybrid
-      Epistemia and the Right to Correct under HRDx'
-    authors: &id042
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134380576/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134380576/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995416
-    zenodo_url: https://zenodo.org/records/22995416
-  - title: KSCCN AI Red Lines Deck UNGA 81
-    authors: &id043
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134380554/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134380554/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995782
-    zenodo_url: https://zenodo.org/records/22995782
-  - title: Mamun HRDx Sovereign Space Deck UNGA 81
-    authors: &id044
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134380546/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134380546/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995788
-    zenodo_url: https://zenodo.org/records/22995788
-  - title: 'Climate Mobility as Sovereign Space: Food, Fuel, Finance and Digital Gender-Craft
-      under the Triple Lock of Sovereign Artificial Intelligence'
-    authors: &id045
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134378650/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134378650/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995419
-    zenodo_url: https://zenodo.org/records/22995419
-  - title: KSCCN Climate Mobility Sovereign Space Deck UNGA 81
-    authors: &id046
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134378627/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134378627/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995790
-    zenodo_url: https://zenodo.org/records/22995790
-  - title: 'KSCCN · WORKING PAPER · 18 SEPTEMBER 2026 Sovereign Space for the Child:
-      Digital Children''s Rights under Artificial Intelligence and the Triple Lock
-      of Sovereign AI Autonomy, Agency and Franchise in an Environment of Hope, Freedom
-      and Safety: A Global South Reading for the Digital@UNGA Roundtable'
-    authors: &id047
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134376551/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134376551/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995425
-    zenodo_url: https://zenodo.org/records/22995425
-  - title: 'Digital Gender-Craft under the Triple Lock: Sovereign Space, Hybrid Epistemia,
-      and the Passage from Principles to Deployment'
-    authors: &id048
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134375786/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134375786/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995427
-    zenodo_url: https://zenodo.org/records/22995427
-  - title: Mamun Digital GenderCraft PitchDeck KSCCN 81 UNGA
-    authors: &id049
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134375440/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134375440/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995818
-    zenodo_url: https://zenodo.org/records/22995818
-  - title: 'Digital Healthcraft and the Triple-Lock: Sovereignty of Care, Cognitive
-      Freedom, and Ontological Forecasts for Health Systems in the Age of Artificial
-      and Quantum Intelligence'
-    authors: &id050
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134374856/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134374856/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995429
-    zenodo_url: https://zenodo.org/records/22995429
-  - title: Mamun 2026 Triple Lock Deck 81 UNGA
-    authors: &id051
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134374833/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134374833/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995822
-    zenodo_url: https://zenodo.org/records/22995822
-  - title: 'Digital Statecraft under the Triple Lock: Sovereign Space, Agency and
-      Franchise for Persons and Enterprises in the Age of Artificial Intelligence
-      and Quantum Transition'
-    authors: &id052
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134374794/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134374794/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995431
-    zenodo_url: https://zenodo.org/records/22995431
-  - title: 'KSCCN HOUSE MARK: Sovereignty, Statecraft, and the Algorithmic Developmental
-      State'
-    authors: &id053
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134372534/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134372534/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995435
-    zenodo_url: https://zenodo.org/records/22995435
-  - title: 'Sovereign AI, Digital Statecraft, and the Cognitive Commons: Architecting
-      Strategic Autonomy and Epistemic Agency in the Global South'
-    authors: &id054
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134372501/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134372501/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989893
-    zenodo_url: https://zenodo.org/records/22989893
-  - title: 'The Entangled Sovereign: Navigating the Ontological and Epistemic Shifts
-      of Artificial Intelligence and Quantum Computing in the Global South'
-    authors: &id055
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134372445/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134372445/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995437
-    zenodo_url: https://zenodo.org/records/22995437
-  - title: 'The Cognitive-Agentic Paradigm: A Comparative Analysis of Urban Combat
-      Doctrines, Counterinsurgency, and Multi-Domain Warfare The Cognitive-Agentic
-      Paradigm'
-    authors: &id056
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134372187/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134372187/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989899
-    zenodo_url: https://zenodo.org/records/22989899
-  - title: 'When Hypothesis Agents May Act Only Through Papers: A Protocol for Joint
-      MCP-Hypothesis Benchmarks'
-    authors: &id057
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134371260/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134371260/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995439
-    zenodo_url: https://zenodo.org/records/22995439
-  - title: 'The Executable Reduction: Agent-Availability Manifests as a Scholarly
-      Genre after Paper2Agent'
-    authors: &id058
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134371224/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134371224/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995441
-    zenodo_url: https://zenodo.org/records/22995441
-  - title: 'Search Before Objective: An Anatomical Review of Tokeniser Design after
-      Yavuz, Meister and Pimentel (2026)'
-    authors: &id059
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134371150/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134371150/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989907
-    zenodo_url: https://zenodo.org/records/22989907
-  - title: 'KSCCN SERIES ON CRITICAL AI, COMPLEXITY & DIGITAL SOVEREIGNTY STUDIES
-      Teaching Note, Volume II: Hilbert Space in Quantum Computing Theory, Epistemology,
-      and a Comparison of Leading Formalisms — A Companion to Harikaran M.’s Pedagogical
-      Sketch K S C K S C C N'
-    authors: &id063
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134371119/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134371119/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989909
-    zenodo_url: https://zenodo.org/records/22989909
-  - title: K S C K S C C N KSCCN TEACHING NOTE Hybrid Epistemia, Public Reason & Diplomatic
-      Games
-    authors: &id064
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134371025/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134371025/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989913
-    zenodo_url: https://zenodo.org/records/22989913
-  - title: 'The Cognitive-Agentic Paradigm: A Comparative Analysis of Urban Combat
-      Doctrines, Counterinsurgency, and Multi-Domain Warfare The Cognitive-Agentic
-      Paradigm'
-    authors: &id065
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134366521/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134366521/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989899
-    zenodo_url: https://zenodo.org/records/22989899
-  - title: 'Public-Private Artificial Intelligence, United Nations Reform, and the
-      Sovereignty Stack: Capital, Cloud, and Refusal Rights for Base-of-the-Pyramid
-      States KSC / KSCCN'
-    authors: &id066
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134360810/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134360810/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989917
-    zenodo_url: https://zenodo.org/records/22989917
-  - title: DECK GoogleCloud AI Global Progress 81 UNGA
-    authors: &id067
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134360592/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134360592/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995808
-    zenodo_url: https://zenodo.org/records/22995808
-  - title: 'Agentic Memory, Youth Agency, and the Sovereignty Stack: Research Questions
-      for Digital Wellbeing in Base-of-the-Pyramid Education Systems KSC / KSCCN'
-    authors: &id068
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134359564/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134359564/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989921
-    zenodo_url: https://zenodo.org/records/22989921
-  - title: DECK QLab Agentic AI Youth Wellbeing 81 UNGA
-    authors: &id069
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134359516/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134359516/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995800
-    zenodo_url: https://zenodo.org/records/22995800
-  - title: DECK UNESCO Education Systems 81 UNGA
-    authors: &id070
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134357499/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134357499/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995813
-    zenodo_url: https://zenodo.org/records/22995813
-  - title: 'Teacher Judgment, System Architecture, and the Right-Responsibility-Authority
-      Triad: Education Systems in the Age of Artificial Intelligence KSC / KSCCN'
-    authors: &id071
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134357476/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134357476/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989927
-    zenodo_url: https://zenodo.org/records/22989927
-  - title: DECK CUPA New Skills 81 UNGA
-    authors: &id072
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134346627/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134346627/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22995815
-    zenodo_url: https://zenodo.org/records/22995815
-  - title: 'BoP Education Models as Trade Objects: Skill Taxonomies, Assessment Sovereignty,
-      and the Compute Bill KSC / KSCCN'
-    authors: &id073
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134346612/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134346612/thumbnails/1.jpg
-    doi: 10.5281/zenodo.22989931
-    zenodo_url: https://zenodo.org/records/22989931
+    doi: 10.5281/zenodo.23116008
+    zenodo_url: https://zenodo.org/records/23116008
   Teaching Documents:
   - title: 'The Principle of Co-Adaptation: A Synthesis with Evolutionary Quantum
       Mechanics and Emergent Cognitive Frameworks'
-    authors: &id007
+    authors: &id010
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131539146/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131539146/thumbnails/1.jpg
@@ -534,7 +523,7 @@ sections:
   - title: 'Voyaging Through the Quantum-Relativistic-Classical Cosmos: Unification
       Horizons and String Symphonies in the Evolving Landscape of Fundamental Physics
       (Vol: 1) A TEACHING NOTE'
-    authors: &id010
+    authors: &id013
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131508821/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131508821/thumbnails/1.jpg
@@ -543,14 +532,14 @@ sections:
   - title: 'Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
       VOL -I Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
       VOL-I'
-    authors: &id013
+    authors: &id016
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129094178/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129094178/thumbnails/1.jpg
     doi: 10.5281/zenodo.22993832
     zenodo_url: https://zenodo.org/records/22993832
   - title: Reviewing Living Math on the Instant
-    authors: &id016
+    authors: &id019
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129093801/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129093801/thumbnails/1.jpg
@@ -558,7 +547,7 @@ sections:
     zenodo_url: https://zenodo.org/records/22993838
   - title: 'Thermodynamic Modeling in Epileptic Neural Systems: An Evolutionary and
       Scaling Perspective on Seizure Assessment and Treatment from EEG Readings'
-    authors: &id019
+    authors: &id022
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126733276/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126733276/thumbnails/1.jpg
@@ -566,7 +555,7 @@ sections:
     zenodo_url: https://zenodo.org/records/22993892
   - title: 'Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective
       Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective'
-    authors: &id023
+    authors: &id026
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126437541/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126437541/thumbnails/1.jpg
@@ -574,7 +563,7 @@ sections:
     zenodo_url: https://zenodo.org/records/22993898
   - title: 'Early Detection of Autoimmune Diseases: A Biomarker-Driven Approach Using
       Regular Blood Samples'
-    authors: &id029
+    authors: &id033
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126423170/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126423170/thumbnails/1.jpg
@@ -583,7 +572,7 @@ sections:
   - title: 'Understanding Authentic AI Protocols: A Multidisciplinary Exploration
       VOL I Understanding Authentic AI Protocols: A Multidisciplinary Exploration
       VOL -I'
-    authors: &id041
+    authors: &id045
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/126241886/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/126241886/thumbnails/1.jpg
@@ -592,7 +581,7 @@ sections:
   - title: 'Trade Deflections: Chapeaux Note Trade Deflections: Understanding the
       Mechanisms of Trade Redirection, Creation, and Diversion in Global Trade Regimes
       A Chapeaux Note'
-    authors: &id062
+    authors: &id066
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/125033453/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/125033453/thumbnails/1.jpg
@@ -614,14 +603,14 @@ sections:
     url: https://blog.aifat.org/chapeau-note-vol-i-realising-inchoate-demands-leveraging-complementary-assets-introducing-minimum-viable-engines/
     thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
   - title: 'Working Paper: Innovation Adda with Syed Muntasir Mamun'
-    authors: &id082
+    authors: &id083
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/116244148/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/116244148/thumbnails/1.jpg
     doi: 10.5281/zenodo.22994304
     zenodo_url: https://zenodo.org/records/22994304
   - title: 'SOME 21ST CENTURY ISSUES IN NETWORKS & NETWORKING: A CHAPEAU NOTE'
-    authors: &id093
+    authors: &id094
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/116141869/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/116141869/thumbnails/1.jpg
@@ -632,7 +621,7 @@ sections:
       Military Humanities – A Comprehensive Anatomical Review of Military Humanities
       (MILHUM) as Cognitive, Ethical, and Professional Safeguard in the Algorithmic
       Era  (Vol. IV, Enhanced Synthesis)'
-    authors: &id040
+    authors: &id044
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/132423471/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/132423471/thumbnails/1.jpg
@@ -640,7 +629,7 @@ sections:
     zenodo_url: https://zenodo.org/records/22992334
   - title: 'Review of Civil Society Elites: Exploring the Composition, Reproduction,
       Integration, and Contestation of Civil Society Actors at the Top'
-    authors: &id061
+    authors: &id065
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131719035/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131719035/thumbnails/1.jpg
@@ -664,14 +653,14 @@ sections:
     doi: 10.5281/zenodo.22993967
     zenodo_url: https://zenodo.org/records/22993967
   - title: 'Tiny Recursive Model: Reviewing Samsung AI Lab'
-    authors: &id081
+    authors: &id082
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/124975850/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/124975850/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995871
     zenodo_url: https://zenodo.org/records/22995871
   - title: 'The Giver and the Given FOREIGN AID IN SOUTH ASIA: THE EMERGING SCENARIO'
-    authors: &id087
+    authors: &id088
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/55722647/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/55722647/thumbnails/1.jpg
@@ -679,14 +668,24 @@ sections:
     zenodo_url: https://zenodo.org/records/22994328
   - title: 'The Audacity of Truth Or Lack Thereof THE SOUTHASIAN SENSIBILITY: A HIMAL
       READER'
-    authors: &id090
+    authors: &id091
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/55722646/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/55722646/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23116001
+    zenodo_url: https://zenodo.org/records/23116001
   Talks:
+  - title: 'Cryptocurrency Teens, Episode #30: Interview with Syed Muntasir — Innovation
+      Strategy at Oxford & Director General, Bangladesh Foreign Affairs Ministry'
+    authors: &id080
+    - Dr. Syed Muntasir Mamun
+    url: https://www.academia.edu/attachments/134634579/download_file?s=portfolio
+    thumbnail_url: https://attachments.academia-assets.com/134634579/thumbnails/1.jpg
+    doi: 10.5281/zenodo.23091361
+    zenodo_url: https://zenodo.org/records/23091361
   - title: 'AI for Public Service Innovation and Digital Equality in Base of Pyramid
       Countries: Building Cyber-Safe States – A Strategic Options Paper for 2026'
-    authors: &id083
+    authors: &id084
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129100212/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129100212/thumbnails/1.jpg
@@ -694,7 +693,7 @@ sections:
     zenodo_url: https://zenodo.org/records/22993812
   - title: 'Intervention 1 Dr Syed Muntasir Mamun Bangladesh: WSIS Rev 1: 14 November
       2025:'
-    authors: &id095
+    authors: &id096
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/125380316/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/125380316/thumbnails/1.jpg
@@ -703,12 +702,12 @@ sections:
   Books:
   - title: 'Interfacing the State Apparatus: IBA in the Public Policy Development
       and Administration (book chapter)'
-    authors: &id084
+    authors: &id085
     - Dr. Syed Muntasir Mamun
     url: ''
     thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
   - title: Blockchains Gaming Collusion A Reading in Political Economy
-    authors: &id085
+    authors: &id086
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/68840303/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/68840303/thumbnails/1.jpg
@@ -716,66 +715,79 @@ sections:
     zenodo_url: https://zenodo.org/records/22995740
   - title: Economy, Ecology and Security, Towards a New South Asian Paradigm by 2030;
       (book chapter)
-    authors: &id089
+    authors: &id090
     - Dr. Syed Muntasir Mamun
     url: ''
     thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
   - title: 'Bangladesh: Striving towards a Zone of Peace and Prosperity in the Indian
       Ocean Region (book chapter)'
-    authors: &id092
+    authors: &id093
     - Dr. Syed Muntasir Mamun
     url: https://www.taylorfrancis.com/books/9780429331640
     thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
   Thesis Chapters:
   - title: A Scientific Advisory on Reinforcement Learning in Cashless and Mobile
       Financial Systems for Inclusive Finance and Equity Support in Developing Economies
-    authors: &id094
+    authors: &id095
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/125041986/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/125041986/thumbnails/1.jpg
     doi: 10.5281/zenodo.22994263
     zenodo_url: https://zenodo.org/records/22994263
 all_publications:
-- title: Sovereign Space for the Child
+- title: 'Decomposition without Ontology: An Anatomical Review of Clinton Svancara,
+    Relational Contraction: Decomposition, Competence, and Descriptive Validity (October
+    2026)'
   authors: *id001
+  section: Papers
+  url: https://www.academia.edu/attachments/134665522/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134665522/thumbnails/1.jpg
+- title: 'Square-Root Sparsity and the Closure of the Quantum Linear Systems Query
+    Gap: An Anatomical, Comparative, and Epistemic Review of Bravo-Prieto, Harrow,
+    and Kothari'
+  authors: *id002
+  section: Papers
+  url: https://www.academia.edu/attachments/134662881/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134662881/thumbnails/1.jpg
+- title: 'Relational Contraction: The Einstein Summation Convention, the Primacy of
+    Relationships, and Comparable Procedures in Sumerian, Egyptian and Indian Mathematics'
+  authors: *id003
+  section: Papers
+  url: https://www.academia.edu/attachments/134662756/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134662756/thumbnails/1.jpg
+- title: Sovereign Space for the Child
+  authors: *id004
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383221/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383221/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995794
   zenodo_url: https://zenodo.org/records/22995794
+- title: 'Geostrategic Shifts and Energy Security: The 3 October Thread'
+  authors: *id005
+  section: Papers
+  url: https://www.academia.edu/attachments/134660824/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134660824/thumbnails/1.jpg
 - title: Climate Mobility — Sovereign Space
-  authors: *id002
+  authors: *id006
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383233/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383233/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995790
   zenodo_url: https://zenodo.org/records/22995790
-- title: 'Who Owns the Sampling Rule: An Anatomical Review of Cognitive Sovereignty,
-    Write-Permission, and Constitutional Granite in Learners, Models, and Polities
-    (Vol-IV)'
-  authors: *id003
+- title: 'Volume III: Energy, Power and GDP in an Import-Dependent State'
+  authors: *id007
   section: Papers
-  url: https://www.academia.edu/attachments/134525622/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134525622/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989705
-  zenodo_url: https://zenodo.org/records/22989705
+  url: https://www.academia.edu/attachments/134660819/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134660819/thumbnails/1.jpg
 - title: Human Rights Data as Sovereign Space (HRDx)
-  authors: *id004
+  authors: *id008
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383246/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383246/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995788
   zenodo_url: https://zenodo.org/records/22995788
-- title: 'Mismatch-Gated Rewrite: An Engineering Note on Reopenable Gist Interfaces
-    for Reasoning-Model Memory and On-Wafer Buffers'
-  authors: *id005
-  section: Papers
-  url: https://www.academia.edu/attachments/134525583/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134525583/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989707
-  zenodo_url: https://zenodo.org/records/22989707
 - title: From Prohibition to Enforcement — AI Red Lines (Minderoo)
-  authors: *id006
+  authors: *id009
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383257/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383257/thumbnails/1.jpg
@@ -783,46 +795,42 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995782
 - title: 'The Principle of Co-Adaptation: A Synthesis with Evolutionary Quantum Mechanics
     and Emergent Cognitive Frameworks'
-  authors: *id007
+  authors: *id010
   section: Teaching Documents
   url: https://www.academia.edu/attachments/131539146/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131539146/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993567
   zenodo_url: https://zenodo.org/records/22993567
-- title: 'Tag Manifolds, Write Budgets, and the Site in Matter: An Anatomical Review
-    of Information Geometry, Renormalisation, and Substrate Implementations of the
-    Tag–Capture–Forget Loop (Vol-III)'
-  authors: *id008
+- title: 'Energy, Power and GDP in an Import-Dependent State: The Bangladesh Identity,
+    2011–2026'
+  authors: *id011
   section: Papers
-  url: https://www.academia.edu/attachments/134525500/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134525500/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989709
-  zenodo_url: https://zenodo.org/records/22989709
+  url: https://www.academia.edu/attachments/134660768/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134660768/thumbnails/1.jpg
 - title: Cognitive Agentic Paradigm (AISC)
-  authors: *id009
+  authors: *id012
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383262/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383262/thumbnails/1.jpg
 - title: 'Voyaging Through the Quantum-Relativistic-Classical Cosmos: Unification
     Horizons and String Symphonies in the Evolving Landscape of Fundamental Physics
     (Vol: 1) A TEACHING NOTE'
-  authors: *id010
+  authors: *id013
   section: Teaching Documents
   url: https://www.academia.edu/attachments/131508821/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131508821/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993612
   zenodo_url: https://zenodo.org/records/22993612
-- title: 'After the Hammer Blows: An Anatomical Review of Sleep-Dependent Consolidation,
-    Reconsolidation, Spacing, and the Engineering of Tag-Capture-Forget Loops in Biological
-    Learners, Reasoning Models, and Foundation Models (Vol-II'
-  authors: *id011
+- title: 'The Topos of Contested Price: Availability, Fracture and Kinetic Conflict
+    in Import-Dependent Energy Markets'
+  authors: *id014
   section: Papers
-  url: https://www.academia.edu/attachments/134522926/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134522926/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989713
-  zenodo_url: https://zenodo.org/records/22989713
+  url: https://www.academia.edu/attachments/134652096/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134652096/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116094
+  zenodo_url: https://zenodo.org/records/23116094
 - title: Q-Lab — Agentic AI & Youth Wellbeing
-  authors: *id012
+  authors: *id015
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383213/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383213/thumbnails/1.jpg
@@ -831,46 +839,43 @@ all_publications:
 - title: 'Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
     VOL -I Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
     VOL-I'
-  authors: *id013
+  authors: *id016
   section: Teaching Documents
   url: https://www.academia.edu/attachments/129094178/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/129094178/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993832
   zenodo_url: https://zenodo.org/records/22993832
-- title: 'The Mind as Construction Site: An Anatomical Review of Cognitive Friction,
-    Synaptic Tagging, Adaptive Forgetting, and Evolutionary Learning Across Biological
-    Systems, Reasoning Models, and Foundation Models (Vol-I) An Anatomical Review'
-  authors: *id014
+- title: 'Continuous Correction, Not Crisis Redesign: Contractual Confidence, Alternatives,
+    and Regional Grids for Import-Dependent States after 2026'
+  authors: *id017
   section: Papers
-  url: https://www.academia.edu/attachments/134519267/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134519267/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989716
-  zenodo_url: https://zenodo.org/records/22989716
+  url: https://www.academia.edu/attachments/134652089/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134652089/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116090
+  zenodo_url: https://zenodo.org/records/23116090
 - title: Google Cloud — AI for Global Progress
-  authors: *id015
+  authors: *id018
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383196/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383196/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995808
   zenodo_url: https://zenodo.org/records/22995808
 - title: Reviewing Living Math on the Instant
-  authors: *id016
+  authors: *id019
   section: Teaching Documents
   url: https://www.academia.edu/attachments/129093801/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/129093801/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993838
   zenodo_url: https://zenodo.org/records/22993838
-- title: 'Continuum Formalism and Operator Foundations: An Anatomical and Epistemic
-    Review of a Dirac–von Neumann Polemic, with Comparison to Leading Theories of
-    Quantum Measurement and Representation Anatomical Review, Volume I'
-  authors: *id017
+- title: Mamun Continuous Correction Not Crisis Redesign
+  authors: *id020
   section: Papers
-  url: https://www.academia.edu/attachments/134519177/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134519177/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989722
-  zenodo_url: https://zenodo.org/records/22989722
+  url: https://www.academia.edu/attachments/134652087/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134652087/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116086
+  zenodo_url: https://zenodo.org/records/23116086
 - title: UNESCO — Education Systems & Sovereign AI
-  authors: *id018
+  authors: *id021
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383182/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383182/thumbnails/1.jpg
@@ -878,31 +883,28 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995813
 - title: 'Thermodynamic Modeling in Epileptic Neural Systems: An Evolutionary and
     Scaling Perspective on Seizure Assessment and Treatment from EEG Readings'
-  authors: *id019
+  authors: *id022
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126733276/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126733276/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993892
   zenodo_url: https://zenodo.org/records/22993892
-- title: 'COGNITIVE WARFARE AND THE CONTEST FOR ORIENTATION: Statecraft, Epistemic
-    Capture, and Tactical Grammar KSCCN Independent Volume II -an academic monograph
-    on the militarisation of human and machine cognition'
-  authors: *id020
+- title: 'AI, Quantum, and Digital Trust: Four Topics for Discussion. SQLL session,
+    Baridhara DOHS, 3 October 2026'
+  authors: *id023
   section: Papers
-  url: https://www.academia.edu/attachments/134509638/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134509638/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989728
-  zenodo_url: https://zenodo.org/records/22989728
-- title: 'ALIQUANTE AND THE SOFTWARE LAYER OF QUANTUM WARFARE: Statecraft, Epistemic
-    Enclosure, and Tactical Orchestration'
-  authors: *id021
+  url: https://www.academia.edu/attachments/134650196/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134650196/thumbnails/1.jpg
+- title: 'Beyond Post-Quantum Cryptography: Architecture, Memory, and Governance in
+    the Quantum Era'
+  authors: *id024
   section: Papers
-  url: https://www.academia.edu/attachments/134509550/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134509550/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989734
-  zenodo_url: https://zenodo.org/records/22989734
+  url: https://www.academia.edu/attachments/134650182/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134650182/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116061
+  zenodo_url: https://zenodo.org/records/23116061
 - title: CUP&A — New Skills for a New World
-  authors: *id022
+  authors: *id025
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383164/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383164/thumbnails/1.jpg
@@ -910,44 +912,53 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995815
 - title: 'Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective
     Thermodynamic Modeling in Immunology: An Evolutionary and Scaling Perspective'
-  authors: *id023
+  authors: *id026
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126437541/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126437541/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993898
   zenodo_url: https://zenodo.org/records/22993898
-- title: 'From Relays to Sovereign Nodes: Isolating the Concepts of Orbital Post-Quantum
-    Infrastructure and Predicting the Epistemology of Post-PQC Security'
-  authors: *id024
-  section: Papers
-  url: https://www.academia.edu/attachments/134509471/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134509471/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989736
-  zenodo_url: https://zenodo.org/records/22989736
-- title: K S C MACHINE-SPEED STATECRAFT AND THE SHIPPING COMMONS KSCCN Working Paper
-    KSCCN
-  authors: *id025
-  section: Papers
-  url: https://www.academia.edu/attachments/134422997/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134422997/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989740
-  zenodo_url: https://zenodo.org/records/22989740
-- title: KSCCN Empowered Ageing AI Robotics
-  authors: *id026
-  section: Papers
-  url: https://www.academia.edu/attachments/134422928/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134422928/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995403
-  zenodo_url: https://zenodo.org/records/22995403
-- title: ADS VolII Policy Briefing UNGA 81
+- title: 'Digital Trust under Autonomous AI and Quantum Risk: Signed Memory, Cryptographic
+    Unpredictability, and Harvest-Now-Decrypt-Later'
   authors: *id027
   section: Papers
-  url: https://www.academia.edu/attachments/134422886/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134422886/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995772
-  zenodo_url: https://zenodo.org/records/22995772
-- title: Digital Healthcraft Triple Lock
+  url: https://www.academia.edu/attachments/134650176/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134650176/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116057
+  zenodo_url: https://zenodo.org/records/23116057
+- title: 'Volume II. Ballistics and Hypersonic Systems: What the Quantum-Simulation
+    Result Does Not Transfer'
   authors: *id028
+  section: Papers
+  url: https://www.academia.edu/attachments/134638039/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134638039/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23095067
+  zenodo_url: https://zenodo.org/records/23095067
+- title: 'Digital Quantum Simulation of Scattering: Theories, Hardware, and Error
+    Cancellation'
+  authors: *id029
+  section: Papers
+  url: https://www.academia.edu/attachments/134637872/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134637872/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23095011
+  zenodo_url: https://zenodo.org/records/23095011
+- title: Academia upload
+  authors: *id030
+  section: Papers
+  url: https://www.academia.edu/attachments/134637868/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134637868/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23095011
+  zenodo_url: https://zenodo.org/records/23095011
+- title: 'Cryptocurrency Teens, Episode #30 Interview with Syed Muntasir -Innovation
+    Strategy at Oxford & Director General, Bangladesh Foreign Affairs Ministry'
+  authors: *id031
+  section: Papers
+  url: https://www.academia.edu/attachments/134634576/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134634576/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23091361
+  zenodo_url: https://zenodo.org/records/23091361
+- title: Digital Healthcraft Triple Lock
+  authors: *id032
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383094/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383094/thumbnails/1.jpg
@@ -955,81 +966,87 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995820
 - title: 'Early Detection of Autoimmune Diseases: A Biomarker-Driven Approach Using
     Regular Blood Samples'
-  authors: *id029
+  authors: *id033
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126423170/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126423170/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993902
   zenodo_url: https://zenodo.org/records/22993902
-- title: 'Semantic Sovereignty and the Algorithmic Developmental State (Vol-II): The
-    Policy-Infrastructure Mesh for Base of the Pyramid Markets'
-  authors: *id030
-  section: Papers
-  url: https://www.academia.edu/attachments/134422813/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134422813/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995405
-  zenodo_url: https://zenodo.org/records/22995405
-- title: Semantic Sovereignty and the Algorithmic Developmental State
-  authors: *id031
-  section: Papers
-  url: https://www.academia.edu/attachments/134422672/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134422672/thumbnails/1.jpg
-- title: 'The Universe as a Field Error: An Anatomical Review of Kolesnikov''s Fractal-Wave
-    Algebra against Ten Leading Ontologies and the Author''s Prior Corpus'
-  authors: *id032
-  section: Papers
-  url: https://www.academia.edu/attachments/134404667/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134404667/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995410
-  zenodo_url: https://zenodo.org/records/22995410
-- title: 'The Child Who Must Still Be Able to Speak: Semantic Sovereignty, Fluid Institutions,
-    and the Power of Words'
-  authors: *id033
-  section: Papers
-  url: https://www.academia.edu/attachments/134391867/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134391867/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995412
-  zenodo_url: https://zenodo.org/records/22995412
-- title: Mamun TPOW MoMA Simple Deck UNGA 81
+- title: 'Earned Standing, Not Fluent Appearance: An Anatomical Review of Generative
+    AI as an Epistemic Technology and Its Consequences for the Ontology of Generative
+    Artificial Intelligence'
   authors: *id034
   section: Papers
-  url: https://www.academia.edu/attachments/134391859/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134391859/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995774
-  zenodo_url: https://zenodo.org/records/22995774
-- title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
-    and Win-Win Architectures for States and Enterprises'
+  url: https://www.academia.edu/attachments/134632478/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134632478/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23089115
+  zenodo_url: https://zenodo.org/records/23089115
+- title: 'K S C Transverse Koszul Flows on Libermann Leaves: An Anatomical Review
+    KSCCN'
   authors: *id035
   section: Papers
-  url: https://www.academia.edu/attachments/134390982/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134390982/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995414
-  zenodo_url: https://zenodo.org/records/22995414
-- title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
-    and Win-Win Architectures for States and Enterprises'
+  url: https://www.academia.edu/attachments/134632471/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134632471/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23089113
+  zenodo_url: https://zenodo.org/records/23089113
+- title: Quantum Computation and Language Models
   authors: *id036
   section: Papers
-  url: https://www.academia.edu/attachments/134390979/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134390979/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995414
-  zenodo_url: https://zenodo.org/records/22995414
-- title: KSCCN Operationalising Sovereign AI Deck 81 UNGA
+  url: https://www.academia.edu/attachments/134632457/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134632457/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23089103
+  zenodo_url: https://zenodo.org/records/23089103
+- title: 'Entangled Measurement and Frequency-Bin W States, Volume II: Projectors,
+    Protocols, Scaling and an Experimental Programme'
   authors: *id037
   section: Papers
-  url: https://www.academia.edu/attachments/134390975/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134390975/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995776
-  zenodo_url: https://zenodo.org/records/22995776
-- title: 'From Prohibition to Enforcement: AI Red Lines, Verification Hands, Digital
-    Statecraft and Sovereign Space under the Triple-Lock of Sovereign AI'
+  url: https://www.academia.edu/attachments/134591454/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134591454/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23053126
+  zenodo_url: https://zenodo.org/records/23053126
+- title: 'Entangled Measurement, On-Chip Discrete Fourier Analysers, and Frequency-Bin
+    W-State Generation: A Synthetic Review'
   authors: *id038
   section: Papers
-  url: https://www.academia.edu/attachments/134380724/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134380724/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22989889
-  zenodo_url: https://zenodo.org/records/22989889
-- title: Digital Gender Craft Triple Lock (WomenInGenAI)
+  url: https://www.academia.edu/attachments/134591389/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134591389/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23053124
+  zenodo_url: https://zenodo.org/records/23053124
+- title: 'Making the T2 Phase Learn: A Mismatch-Gated Chassis, Three Constructions,
+    and Phage Change under Resonance (Engineering Note II'
   authors: *id039
+  section: Papers
+  url: https://www.academia.edu/attachments/134550755/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134550755/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23016047
+  zenodo_url: https://zenodo.org/records/23016047
+- title: Do Viruses Learn? T2 Phases, Compiled Programmes, and the Limits of the Tag-Capture-Forget
+    Loop (Vol-V) An Anatomical Review • Construction Site Series, Volume V
+  authors: *id040
+  section: Papers
+  url: https://www.academia.edu/attachments/134550608/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134550608/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23016042
+  zenodo_url: https://zenodo.org/records/23016042
+- title: 'Testing the Loop: A Graduate Teaching Note and Laboratory for the Construction
+    Site Series (Vols I-IV and Engineering Note I'
+  authors: *id041
+  section: Papers
+  url: https://www.academia.edu/attachments/134534597/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134534597/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23031761
+  zenodo_url: https://zenodo.org/records/23031761
+- title: 'Oracle-Enabled Signature Forgery without Factorisation: Attack Surfaces,
+    Vectors, Success Conditions and Defence Architectures for Classical RSA in the
+    Presence of Raw and Blind Signing Oracles'
+  authors: *id042
+  section: Papers
+  url: https://www.academia.edu/attachments/134534524/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134534524/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23031757
+  zenodo_url: https://zenodo.org/records/23031757
+- title: Digital Gender Craft Triple Lock (WomenInGenAI)
+  authors: *id043
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383096/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383096/thumbnails/1.jpg
@@ -1039,7 +1056,7 @@ all_publications:
     Military Humanities – A Comprehensive Anatomical Review of Military Humanities
     (MILHUM) as Cognitive, Ethical, and Professional Safeguard in the Algorithmic
     Era  (Vol. IV, Enhanced Synthesis)'
-  authors: *id040
+  authors: *id044
   section: Book Reviews
   url: https://www.academia.edu/attachments/132423471/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132423471/thumbnails/1.jpg
@@ -1047,30 +1064,221 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22992334
 - title: 'Understanding Authentic AI Protocols: A Multidisciplinary Exploration VOL
     I Understanding Authentic AI Protocols: A Multidisciplinary Exploration VOL -I'
-  authors: *id041
+  authors: *id045
   section: Teaching Documents
   url: https://www.academia.edu/attachments/126241886/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/126241886/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993971
   zenodo_url: https://zenodo.org/records/22993971
+- title: 'Who Owns the Sampling Rule: An Anatomical Review of Cognitive Sovereignty,
+    Write-Permission, and Constitutional Granite in Learners, Models, and Polities
+    (Vol-IV)'
+  authors: *id046
+  section: Papers
+  url: https://www.academia.edu/attachments/134525622/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134525622/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989705
+  zenodo_url: https://zenodo.org/records/22989705
+- title: 'Mismatch-Gated Rewrite: An Engineering Note on Reopenable Gist Interfaces
+    for Reasoning-Model Memory and On-Wafer Buffers'
+  authors: *id047
+  section: Papers
+  url: https://www.academia.edu/attachments/134525583/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134525583/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989707
+  zenodo_url: https://zenodo.org/records/22989707
+- title: 'Tag Manifolds, Write Budgets, and the Site in Matter: An Anatomical Review
+    of Information Geometry, Renormalisation, and Substrate Implementations of the
+    Tag–Capture–Forget Loop (Vol-III)'
+  authors: *id048
+  section: Papers
+  url: https://www.academia.edu/attachments/134525500/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134525500/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989709
+  zenodo_url: https://zenodo.org/records/22989709
+- title: 'After the Hammer Blows: An Anatomical Review of Sleep-Dependent Consolidation,
+    Reconsolidation, Spacing, and the Engineering of Tag-Capture-Forget Loops in Biological
+    Learners, Reasoning Models, and Foundation Models (Vol-II'
+  authors: *id049
+  section: Papers
+  url: https://www.academia.edu/attachments/134522926/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134522926/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989713
+  zenodo_url: https://zenodo.org/records/22989713
+- title: 'The Mind as Construction Site: An Anatomical Review of Cognitive Friction,
+    Synaptic Tagging, Adaptive Forgetting, and Evolutionary Learning Across Biological
+    Systems, Reasoning Models, and Foundation Models (Vol-I) An Anatomical Review'
+  authors: *id050
+  section: Papers
+  url: https://www.academia.edu/attachments/134519267/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134519267/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989716
+  zenodo_url: https://zenodo.org/records/22989716
+- title: 'Continuum Formalism and Operator Foundations: An Anatomical and Epistemic
+    Review of a Dirac–von Neumann Polemic, with Comparison to Leading Theories of
+    Quantum Measurement and Representation Anatomical Review, Volume I'
+  authors: *id051
+  section: Papers
+  url: https://www.academia.edu/attachments/134519177/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134519177/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989722
+  zenodo_url: https://zenodo.org/records/22989722
+- title: 'COGNITIVE WARFARE AND THE CONTEST FOR ORIENTATION: Statecraft, Epistemic
+    Capture, and Tactical Grammar KSCCN Independent Volume II -an academic monograph
+    on the militarisation of human and machine cognition'
+  authors: *id052
+  section: Papers
+  url: https://www.academia.edu/attachments/134509638/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134509638/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989728
+  zenodo_url: https://zenodo.org/records/22989728
+- title: 'ALIQUANTE AND THE SOFTWARE LAYER OF QUANTUM WARFARE: Statecraft, Epistemic
+    Enclosure, and Tactical Orchestration'
+  authors: *id053
+  section: Papers
+  url: https://www.academia.edu/attachments/134509550/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134509550/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989734
+  zenodo_url: https://zenodo.org/records/22989734
+- title: 'From Relays to Sovereign Nodes: Isolating the Concepts of Orbital Post-Quantum
+    Infrastructure and Predicting the Epistemology of Post-PQC Security'
+  authors: *id054
+  section: Papers
+  url: https://www.academia.edu/attachments/134509471/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134509471/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989736
+  zenodo_url: https://zenodo.org/records/22989736
+- title: K S C MACHINE-SPEED STATECRAFT AND THE SHIPPING COMMONS KSCCN Working Paper
+    KSCCN
+  authors: *id055
+  section: Papers
+  url: https://www.academia.edu/attachments/134422997/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134422997/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989740
+  zenodo_url: https://zenodo.org/records/22989740
+- title: KSCCN Empowered Ageing AI Robotics
+  authors: *id056
+  section: Papers
+  url: https://www.academia.edu/attachments/134422928/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134422928/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995403
+  zenodo_url: https://zenodo.org/records/22995403
+- title: ADS VolII Policy Briefing UNGA 81
+  authors: *id057
+  section: Papers
+  url: https://www.academia.edu/attachments/134422886/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134422886/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995772
+  zenodo_url: https://zenodo.org/records/22995772
+- title: 'Semantic Sovereignty and the Algorithmic Developmental State (Vol-II): The
+    Policy-Infrastructure Mesh for Base of the Pyramid Markets'
+  authors: *id058
+  section: Papers
+  url: https://www.academia.edu/attachments/134422813/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134422813/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995405
+  zenodo_url: https://zenodo.org/records/22995405
+- title: Semantic Sovereignty and the Algorithmic Developmental State
+  authors: *id059
+  section: Papers
+  url: https://www.academia.edu/attachments/134422672/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134422672/thumbnails/1.jpg
+- title: 'The Universe as a Field Error: An Anatomical Review of Kolesnikov''s Fractal-Wave
+    Algebra against Ten Leading Ontologies and the Author''s Prior Corpus'
+  authors: *id060
+  section: Papers
+  url: https://www.academia.edu/attachments/134404667/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134404667/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995410
+  zenodo_url: https://zenodo.org/records/22995410
+- title: 'The Child Who Must Still Be Able to Speak: Semantic Sovereignty, Fluid Institutions,
+    and the Power of Words'
+  authors: *id061
+  section: Papers
+  url: https://www.academia.edu/attachments/134391867/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134391867/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995412
+  zenodo_url: https://zenodo.org/records/22995412
+- title: Mamun TPOW MoMA Simple Deck UNGA 81
+  authors: *id062
+  section: Papers
+  url: https://www.academia.edu/attachments/134391859/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134391859/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995774
+  zenodo_url: https://zenodo.org/records/22995774
+- title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
+    and Win-Win Architectures for States and Enterprises'
+  authors: *id063
+  section: Papers
+  url: https://www.academia.edu/attachments/134390982/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134390982/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995414
+  zenodo_url: https://zenodo.org/records/22995414
+- title: Digital Statecraft Triple Lock (BHI)
+  authors: *id064
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/134383078/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134383078/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995822
+  zenodo_url: https://zenodo.org/records/22995822
+- title: 'Review of Civil Society Elites: Exploring the Composition, Reproduction,
+    Integration, and Contestation of Civil Society Actors at the Top'
+  authors: *id065
+  section: Book Reviews
+  url: https://www.academia.edu/attachments/131719035/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/131719035/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22993348
+  zenodo_url: https://zenodo.org/records/22993348
+- title: 'Trade Deflections: Chapeaux Note Trade Deflections: Understanding the Mechanisms
+    of Trade Redirection, Creation, and Diversion in Global Trade Regimes A Chapeaux
+    Note'
+  authors: *id066
+  section: Teaching Documents
+  url: https://www.academia.edu/attachments/125033453/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/125033453/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994268
+  zenodo_url: https://zenodo.org/records/22994268
+- title: 'Operationalising Sovereign AI: Autonomy-Agency-Franchise, the Triple-Lock,
+    and Win-Win Architectures for States and Enterprises'
+  authors: *id067
+  section: Papers
+  url: https://www.academia.edu/attachments/134390979/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134390979/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995414
+  zenodo_url: https://zenodo.org/records/22995414
+- title: KSCCN Operationalising Sovereign AI Deck 81 UNGA
+  authors: *id068
+  section: Papers
+  url: https://www.academia.edu/attachments/134390975/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134390975/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995776
+  zenodo_url: https://zenodo.org/records/22995776
+- title: 'From Prohibition to Enforcement: AI Red Lines, Verification Hands, Digital
+    Statecraft and Sovereign Space under the Triple-Lock of Sovereign AI'
+  authors: *id069
+  section: Papers
+  url: https://www.academia.edu/attachments/134380724/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134380724/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22989889
+  zenodo_url: https://zenodo.org/records/22989889
 - title: 'KSCCN SERIES ON CRITICAL AI & DIGITAL SOVEREIGNTY STUDIES Human Rights Data
     as Sovereign Space: Multi-Agent Intelligence, Digital Gender-Craft, Hybrid Epistemia
     and the Right to Correct under HRDx'
-  authors: *id042
+  authors: *id070
   section: Papers
   url: https://www.academia.edu/attachments/134380576/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134380576/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995416
   zenodo_url: https://zenodo.org/records/22995416
 - title: KSCCN AI Red Lines Deck UNGA 81
-  authors: *id043
+  authors: *id071
   section: Papers
   url: https://www.academia.edu/attachments/134380554/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134380554/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995782
   zenodo_url: https://zenodo.org/records/22995782
 - title: Mamun HRDx Sovereign Space Deck UNGA 81
-  authors: *id044
+  authors: *id072
   section: Papers
   url: https://www.academia.edu/attachments/134380546/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134380546/thumbnails/1.jpg
@@ -1078,14 +1286,15 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995788
 - title: 'Climate Mobility as Sovereign Space: Food, Fuel, Finance and Digital Gender-Craft
     under the Triple Lock of Sovereign Artificial Intelligence'
-  authors: *id045
+  authors: *id073
   section: Papers
   url: https://www.academia.edu/attachments/134378650/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134378650/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995419
   zenodo_url: https://zenodo.org/records/22995419
 - title: KSCCN Climate Mobility Sovereign Space Deck UNGA 81
-  authors: *id046
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134378627/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134378627/thumbnails/1.jpg
@@ -1095,7 +1304,8 @@ all_publications:
     Digital Children''s Rights under Artificial Intelligence and the Triple Lock of
     Sovereign AI Autonomy, Agency and Franchise in an Environment of Hope, Freedom
     and Safety: A Global South Reading for the Digital@UNGA Roundtable'
-  authors: *id047
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134376551/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134376551/thumbnails/1.jpg
@@ -1103,14 +1313,16 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995425
 - title: 'Digital Gender-Craft under the Triple Lock: Sovereign Space, Hybrid Epistemia,
     and the Passage from Principles to Deployment'
-  authors: *id048
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134375786/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134375786/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995427
   zenodo_url: https://zenodo.org/records/22995427
 - title: Mamun Digital GenderCraft PitchDeck KSCCN 81 UNGA
-  authors: *id049
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134375440/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134375440/thumbnails/1.jpg
@@ -1119,14 +1331,16 @@ all_publications:
 - title: 'Digital Healthcraft and the Triple-Lock: Sovereignty of Care, Cognitive
     Freedom, and Ontological Forecasts for Health Systems in the Age of Artificial
     and Quantum Intelligence'
-  authors: *id050
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134374856/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134374856/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995429
   zenodo_url: https://zenodo.org/records/22995429
 - title: Mamun 2026 Triple Lock Deck 81 UNGA
-  authors: *id051
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134374833/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134374833/thumbnails/1.jpg
@@ -1135,7 +1349,8 @@ all_publications:
 - title: 'Digital Statecraft under the Triple Lock: Sovereign Space, Agency and Franchise
     for Persons and Enterprises in the Age of Artificial Intelligence and Quantum
     Transition'
-  authors: *id052
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134374794/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134374794/thumbnails/1.jpg
@@ -1143,7 +1358,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995431
 - title: 'KSCCN HOUSE MARK: Sovereignty, Statecraft, and the Algorithmic Developmental
     State'
-  authors: *id053
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134372534/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134372534/thumbnails/1.jpg
@@ -1151,7 +1367,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995435
 - title: 'Sovereign AI, Digital Statecraft, and the Cognitive Commons: Architecting
     Strategic Autonomy and Epistemic Agency in the Global South'
-  authors: *id054
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134372501/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134372501/thumbnails/1.jpg
@@ -1159,7 +1376,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22989893
 - title: 'The Entangled Sovereign: Navigating the Ontological and Epistemic Shifts
     of Artificial Intelligence and Quantum Computing in the Global South'
-  authors: *id055
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134372445/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134372445/thumbnails/1.jpg
@@ -1167,7 +1385,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995437
 - title: 'The Cognitive-Agentic Paradigm: A Comparative Analysis of Urban Combat Doctrines,
     Counterinsurgency, and Multi-Domain Warfare The Cognitive-Agentic Paradigm'
-  authors: *id056
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134372187/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134372187/thumbnails/1.jpg
@@ -1175,7 +1394,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22989899
 - title: 'When Hypothesis Agents May Act Only Through Papers: A Protocol for Joint
     MCP-Hypothesis Benchmarks'
-  authors: *id057
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134371260/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134371260/thumbnails/1.jpg
@@ -1183,7 +1403,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995439
 - title: 'The Executable Reduction: Agent-Availability Manifests as a Scholarly Genre
     after Paper2Agent'
-  authors: *id058
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134371224/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134371224/thumbnails/1.jpg
@@ -1191,41 +1412,19 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995441
 - title: 'Search Before Objective: An Anatomical Review of Tokeniser Design after
     Yavuz, Meister and Pimentel (2026)'
-  authors: *id059
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134371150/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134371150/thumbnails/1.jpg
   doi: 10.5281/zenodo.22989907
   zenodo_url: https://zenodo.org/records/22989907
-- title: Digital Statecraft Triple Lock (BHI)
-  authors: *id060
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/134383078/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134383078/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995822
-  zenodo_url: https://zenodo.org/records/22995822
-- title: 'Review of Civil Society Elites: Exploring the Composition, Reproduction,
-    Integration, and Contestation of Civil Society Actors at the Top'
-  authors: *id061
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/131719035/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/131719035/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22993348
-  zenodo_url: https://zenodo.org/records/22993348
-- title: 'Trade Deflections: Chapeaux Note Trade Deflections: Understanding the Mechanisms
-    of Trade Redirection, Creation, and Diversion in Global Trade Regimes A Chapeaux
-    Note'
-  authors: *id062
-  section: Teaching Documents
-  url: https://www.academia.edu/attachments/125033453/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/125033453/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994268
-  zenodo_url: https://zenodo.org/records/22994268
 - title: 'KSCCN SERIES ON CRITICAL AI, COMPLEXITY & DIGITAL SOVEREIGNTY STUDIES Teaching
     Note, Volume II: Hilbert Space in Quantum Computing Theory, Epistemology, and
     a Comparison of Leading Formalisms — A Companion to Harikaran M.’s Pedagogical
     Sketch K S C K S C C N'
-  authors: *id063
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134371119/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134371119/thumbnails/1.jpg
@@ -1233,7 +1432,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22989909
 - title: K S C K S C C N KSCCN TEACHING NOTE Hybrid Epistemia, Public Reason & Diplomatic
     Games
-  authors: *id064
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134371025/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134371025/thumbnails/1.jpg
@@ -1241,7 +1441,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22989913
 - title: 'The Cognitive-Agentic Paradigm: A Comparative Analysis of Urban Combat Doctrines,
     Counterinsurgency, and Multi-Domain Warfare The Cognitive-Agentic Paradigm'
-  authors: *id065
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134366521/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134366521/thumbnails/1.jpg
@@ -1250,14 +1451,16 @@ all_publications:
 - title: 'Public-Private Artificial Intelligence, United Nations Reform, and the Sovereignty
     Stack: Capital, Cloud, and Refusal Rights for Base-of-the-Pyramid States KSC /
     KSCCN'
-  authors: *id066
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134360810/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134360810/thumbnails/1.jpg
   doi: 10.5281/zenodo.22989917
   zenodo_url: https://zenodo.org/records/22989917
 - title: DECK GoogleCloud AI Global Progress 81 UNGA
-  authors: *id067
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134360592/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134360592/thumbnails/1.jpg
@@ -1265,21 +1468,24 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995808
 - title: 'Agentic Memory, Youth Agency, and the Sovereignty Stack: Research Questions
     for Digital Wellbeing in Base-of-the-Pyramid Education Systems KSC / KSCCN'
-  authors: *id068
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134359564/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134359564/thumbnails/1.jpg
   doi: 10.5281/zenodo.22989921
   zenodo_url: https://zenodo.org/records/22989921
 - title: DECK QLab Agentic AI Youth Wellbeing 81 UNGA
-  authors: *id069
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134359516/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134359516/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995800
   zenodo_url: https://zenodo.org/records/22995800
 - title: DECK UNESCO Education Systems 81 UNGA
-  authors: *id070
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134357499/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134357499/thumbnails/1.jpg
@@ -1287,14 +1493,16 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995813
 - title: 'Teacher Judgment, System Architecture, and the Right-Responsibility-Authority
     Triad: Education Systems in the Age of Artificial Intelligence KSC / KSCCN'
-  authors: *id071
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134357476/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134357476/thumbnails/1.jpg
   doi: 10.5281/zenodo.22989927
   zenodo_url: https://zenodo.org/records/22989927
 - title: DECK CUPA New Skills 81 UNGA
-  authors: *id072
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134346627/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134346627/thumbnails/1.jpg
@@ -1302,7 +1510,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995815
 - title: 'BoP Education Models as Trade Objects: Skill Taxonomies, Assessment Sovereignty,
     and the Compute Bill KSC / KSCCN'
-  authors: *id073
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134346612/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134346612/thumbnails/1.jpg
@@ -1356,6 +1565,31 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/134309284/thumbnails/1.jpg
   doi: 10.5281/zenodo.22989966
   zenodo_url: https://zenodo.org/records/22989966
+- title: Entangled Sovereign — Anchor
+  authors: *id074
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/134383066/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134383066/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995825
+  zenodo_url: https://zenodo.org/records/22995825
+- title: 'A First Review of "The Complete Mathematics of Transformers: A Rigorous
+    Treatment with Full Derivations, Proofs, and Theoretical Foundations" by Miquel
+    Noguer i Alonso (2026) Vol -1'
+  authors: *id075
+  section: Book Reviews
+  url: https://www.academia.edu/attachments/126326112/download_file?s=portfolio
+  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
+  doi: 10.5281/zenodo.22993955
+  zenodo_url: https://zenodo.org/records/22993955
+- title: 'Retrospective Evaluation of Mergers and Acquisitions in Bangladesh’s Ready-Made
+    Garments Sector: A 25-Year Analysis of Post-MFA Predictions, Realities, and Strategic
+    Imperatives Chapeaux Note on Insights, Foresights, and Cross-Sights'
+  authors: *id076
+  section: Teaching Documents
+  url: https://www.academia.edu/attachments/124937657/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/124937657/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994270
+  zenodo_url: https://zenodo.org/records/22994270
 - title: KSCCN Teaching Note Vol II Original Boson Ideations
   authors:
   - Dr. Syed Muntasir Mamun
@@ -1536,31 +1770,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/134241830/thumbnails/1.jpg
   doi: 10.5281/zenodo.22990054
   zenodo_url: https://zenodo.org/records/22990054
-- title: Entangled Sovereign — Anchor
-  authors: *id074
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/134383066/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134383066/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995825
-  zenodo_url: https://zenodo.org/records/22995825
-- title: 'A First Review of "The Complete Mathematics of Transformers: A Rigorous
-    Treatment with Full Derivations, Proofs, and Theoretical Foundations" by Miquel
-    Noguer i Alonso (2026) Vol -1'
-  authors: *id075
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/126326112/download_file?s=portfolio
-  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
-  doi: 10.5281/zenodo.22993955
-  zenodo_url: https://zenodo.org/records/22993955
-- title: 'Retrospective Evaluation of Mergers and Acquisitions in Bangladesh’s Ready-Made
-    Garments Sector: A 25-Year Analysis of Post-MFA Predictions, Realities, and Strategic
-    Imperatives Chapeaux Note on Insights, Foresights, and Cross-Sights'
-  authors: *id076
-  section: Teaching Documents
-  url: https://www.academia.edu/attachments/124937657/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/124937657/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994270
-  zenodo_url: https://zenodo.org/records/22994270
 - title: 'Governing What No Longer Phones Home: Liability, Evaluation, Provenance
     and Public Goods for On-Device Agents'
   authors:
@@ -2042,6 +2251,35 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/134009598/thumbnails/1.jpg
   doi: 10.5281/zenodo.22990299
   zenodo_url: https://zenodo.org/records/22990299
+- title: Sovereign AI & Global Statecraft (Anthropic)
+  authors: *id077
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/134383032/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134383032/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995828
+  zenodo_url: https://zenodo.org/records/22995828
+- title: 'Reimagining Institutionalism: AI''s Dual Role in Deconstructing and Reconstructing
+    Civic Institutions Towards Fluid Neo-Institutionalism'
+  authors: *id078
+  section: Book Reviews
+  url: https://www.academia.edu/attachments/126246932/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/126246932/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22993967
+  zenodo_url: https://zenodo.org/records/22993967
+- title: 'Chapeau Note Vol.I: REALISING INCHOATE DEMANDS, LEVERAGING COMPLEMENTARY
+    ASSETS, INTRODUCING MINIMUM VIABLE ENGINES'
+  authors: *id079
+  section: Teaching Documents
+  url: https://blog.aifat.org/chapeau-note-vol-i-realising-inchoate-demands-leveraging-complementary-assets-introducing-minimum-viable-engines/
+  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
+- title: 'Cryptocurrency Teens, Episode #30: Interview with Syed Muntasir — Innovation
+    Strategy at Oxford & Director General, Bangladesh Foreign Affairs Ministry'
+  authors: *id080
+  section: Talks
+  url: https://www.academia.edu/attachments/134634579/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/134634579/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23091361
+  zenodo_url: https://zenodo.org/records/23091361
 - title: 'Rethinking International Relations:  Finite and Infinite Game Dynamics,
     Fluid Organisations, and the Paradigm Shift in Modern Diplomacy (Vol-II)'
   authors:
@@ -2226,27 +2464,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/133943461/thumbnails/1.jpg
   doi: 10.5281/zenodo.22990376
   zenodo_url: https://zenodo.org/records/22990376
-- title: Sovereign AI & Global Statecraft (Anthropic)
-  authors: *id077
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/134383032/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/134383032/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995828
-  zenodo_url: https://zenodo.org/records/22995828
-- title: 'Reimagining Institutionalism: AI''s Dual Role in Deconstructing and Reconstructing
-    Civic Institutions Towards Fluid Neo-Institutionalism'
-  authors: *id078
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/126246932/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/126246932/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22993967
-  zenodo_url: https://zenodo.org/records/22993967
-- title: 'Chapeau Note Vol.I: REALISING INCHOATE DEMANDS, LEVERAGING COMPLEMENTARY
-    ASSETS, INTRODUCING MINIMUM VIABLE ENGINES'
-  authors: *id079
-  section: Teaching Documents
-  url: https://blog.aifat.org/chapeau-note-vol-i-realising-inchoate-demands-leveraging-complementary-assets-introducing-minimum-viable-engines/
-  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
 - title: Anatomical Review Reasoning Trace Extraction KSCCN
   authors:
   - Dr. Syed Muntasir Mamun
@@ -2854,6 +3071,8 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/133769923/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/133769923/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116055
+  zenodo_url: https://zenodo.org/records/23116055
 - title: 'Reconnecting South Asia: Applying Post-Neoliberal Benchmarks and Guidelines
     to Overcome the Regional Trade Paradox A Strategy for Shared Prosperity in a Fragmented
     Region Volume III of the KSCCN Working Paper Series on Post-Neoliberal Trade Architecture'
@@ -3431,6 +3650,18 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/133573945/thumbnails/1.jpg
   doi: 10.5281/zenodo.22990774
   zenodo_url: https://zenodo.org/records/22990774
+- title: Second Town Hall Meeting on AI Governance and Diplomacy
+  authors: *id081
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/133578136/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/133578136/thumbnails/1.jpg
+- title: 'Tiny Recursive Model: Reviewing Samsung AI Lab'
+  authors: *id082
+  section: Book Reviews
+  url: https://www.academia.edu/attachments/124975850/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/124975850/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995871
+  zenodo_url: https://zenodo.org/records/22995871
 - title: K S C Benchmarks & Standards for Quantum Sovereignty
   authors:
   - Dr. Syed Muntasir Mamun
@@ -3439,6 +3670,21 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/133573785/thumbnails/1.jpg
   doi: 10.5281/zenodo.22990778
   zenodo_url: https://zenodo.org/records/22990778
+- title: 'Working Paper: Innovation Adda with Syed Muntasir Mamun'
+  authors: *id083
+  section: Teaching Documents
+  url: https://www.academia.edu/attachments/116244148/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/116244148/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994304
+  zenodo_url: https://zenodo.org/records/22994304
+- title: 'AI for Public Service Innovation and Digital Equality in Base of Pyramid
+    Countries: Building Cyber-Safe States – A Strategic Options Paper for 2026'
+  authors: *id084
+  section: Talks
+  url: https://www.academia.edu/attachments/129100212/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/129100212/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22993812
+  zenodo_url: https://zenodo.org/records/22993812
 - title: K S C Learnings for the Global South from QuantumEAGLe
   authors:
   - Dr. Syed Muntasir Mamun
@@ -3574,11 +3820,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/133497815/thumbnails/1.jpg
   doi: 10.5281/zenodo.22990838
   zenodo_url: https://zenodo.org/records/22990838
-- title: Second Town Hall Meeting on AI Governance and Diplomacy
-  authors: *id080
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/133578136/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/133578136/thumbnails/1.jpg
 - title: 'The Fractal Firm: Self-Similarity, Agentic AI, and Fluid Enterprise Architectures
     – Reinterpreting Demsetz’s Theory of the Firm through Fractal Geometry in the
     Age of Autonomous Productive Capabilities and Decision Agents'
@@ -3589,28 +3830,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/133497543/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995548
   zenodo_url: https://zenodo.org/records/22995548
-- title: 'Tiny Recursive Model: Reviewing Samsung AI Lab'
-  authors: *id081
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/124975850/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/124975850/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995871
-  zenodo_url: https://zenodo.org/records/22995871
-- title: 'Working Paper: Innovation Adda with Syed Muntasir Mamun'
-  authors: *id082
-  section: Teaching Documents
-  url: https://www.academia.edu/attachments/116244148/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/116244148/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994304
-  zenodo_url: https://zenodo.org/records/22994304
-- title: 'AI for Public Service Innovation and Digital Equality in Base of Pyramid
-    Countries: Building Cyber-Safe States – A Strategic Options Paper for 2026'
-  authors: *id083
-  section: Talks
-  url: https://www.academia.edu/attachments/129100212/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/129100212/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22993812
-  zenodo_url: https://zenodo.org/records/22993812
 - title: 'Demsetz, Specialization & Fluid Institutionalism: Anatomical Review'
   authors:
   - Dr. Syed Muntasir Mamun
@@ -4978,6 +5197,8 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/133109608/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/133109608/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116053
+  zenodo_url: https://zenodo.org/records/23116053
 - title: Emerging Trends in Conceptualising and Implementing Risk-Return Relationships
     Agentic Finance Review Series (Vol. VII)
   authors:
@@ -6152,6 +6373,26 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/132702221/thumbnails/1.jpg
   doi: 10.5281/zenodo.22991776
   zenodo_url: https://zenodo.org/records/22991776
+- title: 'Interfacing the State Apparatus: IBA in the Public Policy Development and
+    Administration (book chapter)'
+  authors: *id085
+  section: Books
+  url: ''
+  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
+- title: Blockchains Gaming Collusion A Reading in Political Economy
+  authors: *id086
+  section: Books
+  url: https://www.academia.edu/attachments/68840303/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/68840303/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995740
+  zenodo_url: https://zenodo.org/records/22995740
+- title: A BYSTANDERS' TAKE ON THE BANGLADESH BUSINESS CLIMATE INDEX (BBX) 2022-2023
+  authors: *id087
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/100158841/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/100158841/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994308
+  zenodo_url: https://zenodo.org/records/22994308
 - title: 'Ultrafast All-Optical Polarization Control via Plasma Symmetry Breaking:  Mechanisms,
     Traditional Magneto-Optical Technologies, and Future Implications (Vol-II)'
   authors:
@@ -6161,6 +6402,26 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/132693871/thumbnails/1.jpg
   doi: 10.5281/zenodo.22991780
   zenodo_url: https://zenodo.org/records/22991780
+- title: 'The Giver and the Given FOREIGN AID IN SOUTH ASIA: THE EMERGING SCENARIO'
+  authors: *id088
+  section: Book Reviews
+  url: https://www.academia.edu/attachments/55722647/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/55722647/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994328
+  zenodo_url: https://zenodo.org/records/22994328
+- title: 'On Swami Vivekananda: Reflections in 2010'
+  authors: *id089
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/56146270/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/56146270/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116020
+  zenodo_url: https://zenodo.org/records/23116020
+- title: Economy, Ecology and Security, Towards a New South Asian Paradigm by 2030;
+    (book chapter)
+  authors: *id090
+  section: Books
+  url: ''
+  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
 - title: 'Strategic Evaluation of Global Quantum Computing Policy: Cryptographic Vulnerabilities,
     and the Post-Quantum Transition (2026–2030)'
   authors:
@@ -6170,6 +6431,51 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/132693672/thumbnails/1.jpg
   doi: 10.5281/zenodo.22991786
   zenodo_url: https://zenodo.org/records/22991786
+- title: 'The Audacity of Truth Or Lack Thereof THE SOUTHASIAN SENSIBILITY: A HIMAL
+    READER'
+  authors: *id091
+  section: Book Reviews
+  url: https://www.academia.edu/attachments/55722646/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/55722646/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116001
+  zenodo_url: https://zenodo.org/records/23116001
+- title: 'Bangladesh''s Participations in Peacekeeping operations and Nation-Building:
+    Existing models and emerging challenges'
+  authors: *id092
+  section: Conference Presentations
+  url: https://www.academia.edu/attachments/55728145/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/55728145/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116008
+  zenodo_url: https://zenodo.org/records/23116008
+- title: 'Bangladesh: Striving towards a Zone of Peace and Prosperity in the Indian
+    Ocean Region (book chapter)'
+  authors: *id093
+  section: Books
+  url: https://www.taylorfrancis.com/books/9780429331640
+  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
+- title: 'SOME 21ST CENTURY ISSUES IN NETWORKS & NETWORKING: A CHAPEAU NOTE'
+  authors: *id094
+  section: Teaching Documents
+  url: https://www.academia.edu/attachments/116141869/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/116141869/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994306
+  zenodo_url: https://zenodo.org/records/22994306
+- title: A Scientific Advisory on Reinforcement Learning in Cashless and Mobile Financial
+    Systems for Inclusive Finance and Equity Support in Developing Economies
+  authors: *id095
+  section: Thesis Chapters
+  url: https://www.academia.edu/attachments/125041986/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/125041986/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22994263
+  zenodo_url: https://zenodo.org/records/22994263
+- title: 'Intervention 1 Dr Syed Muntasir Mamun Bangladesh: WSIS Rev 1: 14 November
+    2025:'
+  authors: *id096
+  section: Talks
+  url: https://www.academia.edu/attachments/125380316/download_file?s=portfolio
+  thumbnail_url: https://attachments.academia-assets.com/125380316/thumbnails/1.jpg
+  doi: 10.5281/zenodo.22995865
+  zenodo_url: https://zenodo.org/records/22995865
 - title: 'An Anatomical Review of “From Skills to Talent: Organising Heterogeneous
     Agents as a Real-World Company”  Mechanics, Merits, Limitations, Contrasts, Leading
     Research Directions, and Enterprise Implications (Vol-I)'
@@ -6254,26 +6560,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/132660774/thumbnails/1.jpg
   doi: 10.5281/zenodo.22991838
   zenodo_url: https://zenodo.org/records/22991838
-- title: 'Interfacing the State Apparatus: IBA in the Public Policy Development and
-    Administration (book chapter)'
-  authors: *id084
-  section: Books
-  url: ''
-  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
-- title: Blockchains Gaming Collusion A Reading in Political Economy
-  authors: *id085
-  section: Books
-  url: https://www.academia.edu/attachments/68840303/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/68840303/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995740
-  zenodo_url: https://zenodo.org/records/22995740
-- title: A BYSTANDERS' TAKE ON THE BANGLADESH BUSINESS CLIMATE INDEX (BBX) 2022-2023
-  authors: *id086
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/100158841/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/100158841/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994308
-  zenodo_url: https://zenodo.org/records/22994308
 - title: 'Axiomatic Geometric Impossibility and Economic Asymmetry:  Analogical Insights
     from the Non-Existence of Equilateral Right Triangles to the Conditions for a
     Winning Side in Bilateral Trade Agreements (Vol-I)'
@@ -6284,24 +6570,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/132660470/thumbnails/1.jpg
   doi: 10.5281/zenodo.22991845
   zenodo_url: https://zenodo.org/records/22991845
-- title: 'The Giver and the Given FOREIGN AID IN SOUTH ASIA: THE EMERGING SCENARIO'
-  authors: *id087
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/55722647/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/55722647/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994328
-  zenodo_url: https://zenodo.org/records/22994328
-- title: 'On Swami Vivekananda: Reflections in 2010'
-  authors: *id088
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/56146270/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/56146270/thumbnails/1.jpg
-- title: Economy, Ecology and Security, Towards a New South Asian Paradigm by 2030;
-    (book chapter)
-  authors: *id089
-  section: Books
-  url: ''
-  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
 - title: 'Optimization Dynamics in High-Dimensional Neural Networks:  Curvature, Information
     Geometry, and the Evolution of Second-Order Methods (Vol-I)'
   authors:
@@ -6311,47 +6579,6 @@ all_publications:
   thumbnail_url: https://attachments.academia-assets.com/132659111/thumbnails/1.jpg
   doi: 10.5281/zenodo.22991849
   zenodo_url: https://zenodo.org/records/22991849
-- title: 'The Audacity of Truth Or Lack Thereof THE SOUTHASIAN SENSIBILITY: A HIMAL
-    READER'
-  authors: *id090
-  section: Book Reviews
-  url: https://www.academia.edu/attachments/55722646/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/55722646/thumbnails/1.jpg
-- title: 'Bangladesh''s Participations in Peacekeeping operations and Nation-Building:
-    Existing models and emerging challenges'
-  authors: *id091
-  section: Conference Presentations
-  url: https://www.academia.edu/attachments/55728145/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/55728145/thumbnails/1.jpg
-- title: 'Bangladesh: Striving towards a Zone of Peace and Prosperity in the Indian
-    Ocean Region (book chapter)'
-  authors: *id092
-  section: Books
-  url: https://www.taylorfrancis.com/books/9780429331640
-  thumbnail_url: https://c.academia-assets.com/images/blank-paper.jpg
-- title: 'SOME 21ST CENTURY ISSUES IN NETWORKS & NETWORKING: A CHAPEAU NOTE'
-  authors: *id093
-  section: Teaching Documents
-  url: https://www.academia.edu/attachments/116141869/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/116141869/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994306
-  zenodo_url: https://zenodo.org/records/22994306
-- title: A Scientific Advisory on Reinforcement Learning in Cashless and Mobile Financial
-    Systems for Inclusive Finance and Equity Support in Developing Economies
-  authors: *id094
-  section: Thesis Chapters
-  url: https://www.academia.edu/attachments/125041986/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/125041986/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22994263
-  zenodo_url: https://zenodo.org/records/22994263
-- title: 'Intervention 1 Dr Syed Muntasir Mamun Bangladesh: WSIS Rev 1: 14 November
-    2025:'
-  authors: *id095
-  section: Talks
-  url: https://www.academia.edu/attachments/125380316/download_file?s=portfolio
-  thumbnail_url: https://attachments.academia-assets.com/125380316/thumbnails/1.jpg
-  doi: 10.5281/zenodo.22995865
-  zenodo_url: https://zenodo.org/records/22995865
 - title: 'Quantum Foundations of Cognition:  A Hamiltonian Framework for Learning,
     Memory, and Active Inference within the Orchestrated Objective Reduction Paradigm
     (Vol-II)'
@@ -7573,6 +7800,8 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/132277960/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/132277960/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116051
+  zenodo_url: https://zenodo.org/records/23116051
 - title: 'Comprehensive Academic Review of CatRAG: Functor-Guided Structural Debiasing
     with Retrieval Augmentation for Fair LLMs (Ranjan et al., 2026)'
   authors:
@@ -11447,6 +11676,8 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/124965209/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/124965209/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116043
+  zenodo_url: https://zenodo.org/records/23116043
 - title: 'Mobile Financial Services and Cashless Transactions: Benchmarks for Fluid
     Developing Societies and BoP Markets'
   authors:
@@ -11538,6 +11769,8 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/116093388/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/116093388/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116024
+  zenodo_url: https://zenodo.org/records/23116024
 - title: 'South-South & Triangular Cooperation:  An Alternative Framework of Cooperation
     and Resource Mobilization'
   authors:
@@ -11555,6 +11788,8 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/116094224/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/116094224/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116038
+  zenodo_url: https://zenodo.org/records/23116038
 - title: 'Digital Diplomacy: An Identity Primer'
   authors:
   - Dr. Syed Muntasir Mamun
@@ -11626,12 +11861,16 @@ all_publications:
   section: Papers
   url: https://www.academia.edu/attachments/56036917/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/56036917/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116012
+  zenodo_url: https://zenodo.org/records/23116012
 - title: 'Trade not Aid: The Shining Case of Bangladesh'
   authors:
   - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/55722643/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/55722643/thumbnails/1.jpg
+  doi: 10.5281/zenodo.23116003
+  zenodo_url: https://zenodo.org/records/23116003
 - title: Post Brexit, Indian Subcontinent's New Role in the Commonwealth
   authors:
   - Dr. Syed Muntasir Mamun
