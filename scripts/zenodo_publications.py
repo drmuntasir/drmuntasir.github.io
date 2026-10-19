@@ -25,9 +25,15 @@ What it does
      (first 50 per section, in all_publications order), and updates
      total_publications and last_updated.
   6. Refuses to write if the entry count would drop.
+  7. Skips known duplicate Zenodo deposits listed in
+     _data/zenodo_duplicate_blocklist.yml (or --blocklist FILE): blocked records
+     are dropped from the fetched set, and any existing entry that still points
+     at a blocked ID (doi / zenodo_url / url) is rewritten to the original
+     record (or has its doi/zenodo_url cleared if no original is given).
 
 Usage
   python scripts/zenodo_publications.py [--dry-run] [--output PATH] [--cache FILE]
+                                       [--blocklist FILE]
 
 Only publications.yml (or --output) is written; books.yml is never touched.
 """
@@ -76,6 +82,62 @@ def norm(t):
 def norm_doi(d):
     d = (d or "").strip().lower()
     return re.sub(r"^(https?://(dx\.)?doi\.org/|doi:)", "", d)
+
+
+def load_blocklist(path):
+    """Return {duplicate_id: original_id_or_None}.
+
+    Accepts the YAML form (``duplicates: [{id, original, title}]``) or a plain
+    text file with one ID per line (optionally ``dup_id original_id``; ``#``
+    starts a comment).
+    """
+    p = Path(path)
+    if not p.exists():
+        return {}
+    if p.suffix in (".yml", ".yaml"):
+        raw = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+        rows = raw.get("duplicates", raw) if isinstance(raw, dict) else raw
+        out = {}
+        for r in rows or []:
+            if isinstance(r, dict):
+                out[str(r["id"]).strip()] = (str(r["original"]).strip()
+                                             if r.get("original") else None)
+            else:
+                out[str(r).strip()] = None
+        return out
+    out = {}
+    for line in p.read_text(encoding="utf-8").splitlines():
+        parts = line.split("#", 1)[0].split()
+        if parts:
+            out[parts[0]] = parts[1] if len(parts) > 1 else None
+    return out
+
+
+def record_id_of(value):
+    """Zenodo record id referenced by a DOI or zenodo.org URL, else None."""
+    m = re.search(r"zenodo\.(\d+)$", norm_doi(value)) or \
+        re.search(r"zenodo\.org/records?/(\d+)", value or "")
+    return m.group(1) if m else None
+
+
+def sanitize_blocked(data, blocked):
+    """Rewrite/clear references to blocked duplicate IDs in all_publications."""
+    fixed = 0
+    for p in data.get("all_publications") or []:
+        for field in ("doi", "zenodo_url", "url"):
+            rid = record_id_of(p.get(field))
+            if rid not in blocked:
+                continue
+            orig = blocked[rid]
+            if orig:
+                p[field] = (f"10.5281/zenodo.{orig}" if field == "doi"
+                            else f"https://zenodo.org/records/{orig}")
+            elif field != "url":
+                p.pop(field, None)
+            fixed += 1
+    if fixed:
+        print(f"Blocklist: rewrote {fixed} reference(s) to duplicate Zenodo IDs")
+    return fixed
 
 
 def is_owner(creator):
@@ -133,7 +195,7 @@ class Zenodo:
         return hits
 
 
-def collect(cache=None):
+def collect(cache=None, blocked=None):
     if cache and Path(cache).exists():
         raw = json.loads(Path(cache).read_text())
         print(f"Loaded {len(raw)} raw hits from cache {cache}")
@@ -145,9 +207,14 @@ def collect(cache=None):
         print(f"Zenodo requests made: {z.requests}")
         if cache:
             Path(cache).write_text(json.dumps(raw))
-    by_concept, excluded = {}, {}
+    blocked = blocked or {}
+    by_concept, excluded, skipped = {}, {}, set()
     for h in raw:
         md = h.get("metadata") or {}
+        if (str(h.get("id")) in blocked
+                or record_id_of(h.get("doi") or md.get("doi")) in blocked):
+            skipped.add(str(h.get("id")))
+            continue
         key = str(h.get("conceptrecid") or h.get("id"))
         if not any(is_owner(c) for c in md.get("creators") or []):
             excluded[key] = h
@@ -164,6 +231,8 @@ def collect(cache=None):
         seen.add(d)
         records.append(h)
     excluded = [h for k, h in excluded.items() if k not in by_concept]
+    if skipped:
+        print(f"Blocklist: skipped {len(skipped)} duplicate record(s): {', '.join(sorted(skipped))}")
     print(f"Raw hits: {len(raw)}; authored unique records: {len(records)}; "
           f"excluded (not a creator): {len(excluded)}")
     return records, excluded
@@ -280,6 +349,8 @@ def main():
     ap.add_argument("--output", default=str(root / "_data" / "publications.yml"))
     ap.add_argument("--cache", help="JSON file to cache/reuse raw Zenodo hits")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--blocklist", default=str(root / "_data" / "zenodo_duplicate_blocklist.yml"),
+                    help="duplicate Zenodo IDs to skip (YAML or one-ID-per-line text)")
     ap.add_argument("--report", help="write a JSON report (new + excluded records)")
     a = ap.parse_args()
     out = Path(a.output)
@@ -288,10 +359,13 @@ def main():
 
     old = yaml.safe_load(out.read_text(encoding="utf-8")) if out.exists() else {}
     old = old or {}
+    blocked = load_blocklist(a.blocklist)
+    print(f"Blocklist: {len(blocked)} duplicate Zenodo ID(s) from {a.blocklist}")
+    sanitize_blocked(old, blocked)
     before = len(old.get("all_publications") or [])
     old_keys = {(p.get("title"), p.get("url")) for p in old.get("all_publications") or []}
 
-    records, excluded = collect(a.cache)
+    records, excluded = collect(a.cache, blocked)
     if not records:
         sys.exit("No Zenodo records found; not touching the data file.")
     data = {"last_updated": old.get("last_updated"),

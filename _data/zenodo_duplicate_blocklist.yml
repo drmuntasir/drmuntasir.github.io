@@ -1,0 +1,32 @@
+# Zenodo double-deposit DUPLICATE records (removal requested from Zenodo support, 11 Oct 2026).
+# scripts/zenodo_publications.py drops these records from every weekly refresh and
+# rewrites any existing reference (doi / zenodo_url / url) to the original record.
+# Do not link or post the duplicate IDs.
+duplicates:
+- id: '23275597'
+  original: '23269948'
+  title: 'The Window Is Not the Subject: Language Models, Context, and the Limits of a Consciousness Claim'
+- id: '23275576'
+  original: '23269680'
+  title: "Tensors Beyond the Array: A Teaching Note on Karras's Account, Set Against Abstract Geometry and Fractal Algebra"
+- id: '23275569'
+  original: '23269878'
+  title: 'Contextual Vectors Are Not Awareness: Reinterpreting Representation Geometry after the Tensor Test'
+- id: '23293096'
+  original: '23275777'
+  title: 'The Interface Is Not the Invention: Contextualization, Immediate Resolution, and the Ideation of Innovation'
+- id: '23293100'
+  original: '23275816'
+  title: 'The Geography Is the Fisher Metric: An Information-Geometric Reading of Context, Interface, and Resolution'
+- id: '23293104'
+  original: '23279888'
+  title: 'Emergent, Relational, and Absent Time: A Comprehensive Synthesis of Quantum Foundations, Competing Theories, and the Ontological Status of Temporal Experience'
+- id: '23293114'
+  original: '23282139'
+  title: 'Adaptive Capacity in the Interregnum: Liquid Institutions, Polycentric Governance, and the Digital Architecture of Youth Empowerment in Bangladesh'
+- id: '23293122'
+  original: '23282492'
+  title: "Simulating Employment Displacement under Partial, Advanced and Near-Full AI and Automation Deployment in Bangladesh's Ready-Made Garment Factories: A Process-Level Model"
+- id: '23293128'
+  original: '23283275'
+  title: 'Anatomical Critique of LLMorphism: Ontological Reductions and Epistemological Fault Lines in Human Cognition under Large Language Model Metaphors'

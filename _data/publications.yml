@@ -281,26 +281,26 @@ sections:
       of a Consciousness Claim'
     authors: &id035
     - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23275597
+    url: https://zenodo.org/records/23269948
     thumbnail_url: ''
-    doi: 10.5281/zenodo.23275597
-    zenodo_url: https://zenodo.org/records/23275597
+    doi: 10.5281/zenodo.23269948
+    zenodo_url: https://zenodo.org/records/23269948
   - title: 'Tensors Beyond the Array: A Teaching Note on Karras''s Account, Set Against
       Abstract Geometry and Fractal Algebra'
     authors: &id036
     - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23275576
+    url: https://zenodo.org/records/23269680
     thumbnail_url: ''
-    doi: 10.5281/zenodo.23275576
-    zenodo_url: https://zenodo.org/records/23275576
+    doi: 10.5281/zenodo.23269680
+    zenodo_url: https://zenodo.org/records/23269680
   - title: 'Contextual Vectors Are Not Awareness: Reinterpreting Representation Geometry
       after the Tensor Test'
     authors: &id037
     - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23275569
+    url: https://zenodo.org/records/23269878
     thumbnail_url: ''
-    doi: 10.5281/zenodo.23275569
-    zenodo_url: https://zenodo.org/records/23275569
+    doi: 10.5281/zenodo.23269878
+    zenodo_url: https://zenodo.org/records/23269878
   - title: 'Articulation of the Higgs Potential: Minima, Stability and the Scale the
       Weyl Orbit Does Not Set'
     authors: &id038
@@ -1056,26 +1056,26 @@ all_publications:
     of a Consciousness Claim'
   authors: *id035
   section: Papers
-  url: https://zenodo.org/records/23275597
+  url: https://zenodo.org/records/23269948
   thumbnail_url: ''
-  doi: 10.5281/zenodo.23275597
-  zenodo_url: https://zenodo.org/records/23275597
+  doi: 10.5281/zenodo.23269948
+  zenodo_url: https://zenodo.org/records/23269948
 - title: 'Tensors Beyond the Array: A Teaching Note on Karras''s Account, Set Against
     Abstract Geometry and Fractal Algebra'
   authors: *id036
   section: Papers
-  url: https://zenodo.org/records/23275576
+  url: https://zenodo.org/records/23269680
   thumbnail_url: ''
-  doi: 10.5281/zenodo.23275576
-  zenodo_url: https://zenodo.org/records/23275576
+  doi: 10.5281/zenodo.23269680
+  zenodo_url: https://zenodo.org/records/23269680
 - title: 'Contextual Vectors Are Not Awareness: Reinterpreting Representation Geometry
     after the Tensor Test'
   authors: *id037
   section: Papers
-  url: https://zenodo.org/records/23275569
+  url: https://zenodo.org/records/23269878
   thumbnail_url: ''
-  doi: 10.5281/zenodo.23275569
-  zenodo_url: https://zenodo.org/records/23275569
+  doi: 10.5281/zenodo.23269878
+  zenodo_url: https://zenodo.org/records/23269878
 - title: 'Articulation of the Higgs Potential: Minima, Stability and the Scale the
     Weyl Orbit Does Not Set'
   authors: *id038
