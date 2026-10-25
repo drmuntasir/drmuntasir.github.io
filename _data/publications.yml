@@ -1,11 +1,262 @@
-last_updated: '2026-10-18'
-total_publications: 1267
+last_updated: '2026-10-25'
+total_publications: 1297
 sections:
   Papers:
+  - title: 'The Cognitive Domain in Warfare and Statecraft: Fluid Institutionalism,
+      Psychological Engineering and the Architecture of Modern Conflict'
+    authors: &id001
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23619789
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23619789
+    zenodo_url: https://zenodo.org/records/23619789
+  - title: 'Autonomous Seabed Systems, Sea Denial and the Future of Freedom of Navigation:
+      Deterrence, Escalation, Law and Confidence-Building, with Lessons for the Bay
+      of Bengal and the Indian Ocean'
+    authors: &id002
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23617987
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23617987
+    zenodo_url: https://zenodo.org/records/23617987
+  - title: 'Strategic Architecture of the Clarion-Clipperton Zone: Sovereignty, Critical
+      Minerals, Seabed Security and Fluid Institutions in the Eastern Pacific'
+    authors: &id003
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23617858
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23617858
+    zenodo_url: https://zenodo.org/records/23617858
+  - title: 'A Comprehensive and Future-Looking Reassessment of Tiny Models: Co-Adapted
+      Sparsity, Hybrid Architectures, and the Long-Context Horizon'
+    authors: &id004
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23615313
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23615313
+    zenodo_url: https://zenodo.org/records/23615313
+  - title: 'TokenGate and the Epistemology of Tiny Models: Learnable Token Pruning
+      as a Pathway to Efficient Long-Context Intelligence'
+    authors: &id005
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23615292
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23615292
+    zenodo_url: https://zenodo.org/records/23615292
+  - title: 'Anatomical Review of TOKENGATE: Adapting LLMs for Fast and Memory-Efficient
+      Prefill with Learned Token Pruning'
+    authors: &id006
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23614056
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23614056
+    zenodo_url: https://zenodo.org/records/23614056
+  - title: 'The Future of Naval Power Projection: Carrier Strike Groups, Domain Continuity,
+      and Strategic Corridors in the Age of Hypersonics and Quantum AI'
+    authors: &id007
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23610975
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23610975
+    zenodo_url: https://zenodo.org/records/23610975
+  - title: 'In Vivo Characterisation of the Sub-Ablative Window and Closed-Loop Spatial
+      Targeting: From Go/No-Go Criteria to Measurement Requirements in the Cavitation-Gated
+      Editing Framework'
+    authors: &id008
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23605113
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23605113
+    zenodo_url: https://zenodo.org/records/23605113
+  - title: 'The Formless Battlespace: Urban Combat Doctrine, Multi-Domain Kill Webs,
+      and the Space-Quantum Nexus in the Megacity Era'
+    authors: &id009
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23603827
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23603827
+    zenodo_url: https://zenodo.org/records/23603827
+  - title: 'The Organization of Warfare and the Doctrine of Hard Power Under Fluid
+      Conditions: Mosaic Forces, Kill Webs, Algorithmic Opacity and the Algorithmic
+      Doctrine of War'
+    authors: &id010
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23603504
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23603504
+    zenodo_url: https://zenodo.org/records/23603504
+  - title: 'Dose-Window Characterisation, Evolutionary Timing, and Stochastic Simulation
+      of the Staged Cavitation-Gated Editing Framework: From Principle to Protocol
+      — A Quantitative and Critical Extension of the Acoustic-Genomic Interface Programme'
+    authors: &id011
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23602978
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23602978
+    zenodo_url: https://zenodo.org/records/23602978
+  - title: 'Sound, Cavitation and the Quantum Question: A Critical Review of Histotripsy
+      Mechanics and the Limits of Quantum Analogy in Biological Acoustics'
+    authors: &id012
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23602725
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23602725
+    zenodo_url: https://zenodo.org/records/23602725
+  - title: 'The Algorithmic Leviathan: A PESTEL Analysis of Power, Autonomy, and Franchise
+      in the Epoch of Artificial General Intelligence'
+    authors: &id013
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23579967
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23579967
+    zenodo_url: https://zenodo.org/records/23579967
+  - title: 'Transcending the Weberian Paradox: Fluid Institutions, Agentic Artificial
+      Intelligence, and the Evolution of Post-Bureaucratic State Systems'
+    authors: &id014
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23577923
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23577923
+    zenodo_url: https://zenodo.org/records/23577923
+  - title: 'An Anatomical Review of Berkovski''s Analysis of Weber''s Bureaucratic
+      Paradox: Permanent Structures, Fluid Institutions, and the Evolution of State
+      Systems under Artificial Intelligence'
+    authors: &id015
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23577500
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23577500
+    zenodo_url: https://zenodo.org/records/23577500
+  - title: 'Strategic Masterplan for the Jute Sector Revival: Volume IV – Anatomy
+      of the 2025–2026 Raw Jute Market Instability and a Commodity Futures, Advance
+      Trading and Warehouse Receipt Architecture for Bangladesh'
+    authors: &id016
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23552499
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23552499
+    zenodo_url: https://zenodo.org/records/23552499
+  - title: 'Strategic Masterplan for the Jute Sector Revival: Volume III – Industrial
+      Transformation of the Bast Fiber Complex: Jute Mill Automation, Legacy Retrofitting,
+      Cyber-Physical Architecture, and Capital Structuring'
+    authors: &id017
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23552426
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23552426
+    zenodo_url: https://zenodo.org/records/23552426
+  - title: 'Strategic Masterplan for the Jute Sector Revival: Volume II – Global Jute
+      Value Chain Architecture, Cross-Border Market Dynamics, and Financial Mapping'
+    authors: &id018
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23550973
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23550973
+    zenodo_url: https://zenodo.org/records/23550973
+  - title: 'Strategic Masterplan for the Jute Sector Revival: Volume I – Industrial
+      Modernization, Biomaterial Engineering, Derivatives Architecture, and Global
+      Supply Chain Democratization'
+    authors: &id019
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23550784
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23550784
+    zenodo_url: https://zenodo.org/records/23550784
+  - title: 'Sovereign AI in the Developing Global South: Volume III – Conflicts, Insurgencies,
+      and Algorithmic Warcraft vs. Statecraft'
+    authors: &id020
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23545846
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23545846
+    zenodo_url: https://zenodo.org/records/23545846
+  - title: 'Sovereign AI in the Developing Global South: Volume II – Architectures,
+      Open Silicon, and Sectoral Integration'
+    authors: &id021
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23544909
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23544909
+    zenodo_url: https://zenodo.org/records/23544909
+  - title: 'Sovereign AI in the Developing Global South: Architecting Strategic Autonomy
+      in the Intelligence Economy'
+    authors: &id022
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23543853
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23543853
+    zenodo_url: https://zenodo.org/records/23543853
+  - title: 'Bridging Gene-Editing Deficiencies in Solid Tumours: Cavitation-Gated
+      Delivery, Spatial Mutation Mapping, and an Immune-Primed Multi-Stage Framework'
+    authors: &id023
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23531862
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23531862
+    zenodo_url: https://zenodo.org/records/23531862
+  - title: 'Agent Execution Harnesses: Architecture, Constraints, Sovereign Variants,
+      and Collective Dynamics — Volume I'
+    authors: &id024
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23530919
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23530919
+    zenodo_url: https://zenodo.org/records/23530919
+  - title: 'Anatomical Review of Carolina Johnson''s "Annotation: Mathematics as a
+      Precise Instance of a General Human Practice": Concepts, Ontological Expressions,
+      and Parallels with Indian Matrika and Zero'
+    authors: &id025
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23530915
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23530915
+    zenodo_url: https://zenodo.org/records/23530915
+  - title: 'Sovereign AI and the Power Distance Representation of Bregman Divergences:
+      Algorithmic Accessibility, Transparency, and Technical Autonomy'
+    authors: &id026
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23512648
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23512648
+    zenodo_url: https://zenodo.org/records/23512648
+  - title: 'An Anatomical Review of the Power Distance Representation of Bregman Divergences:
+      Comparative Geometry, Emergent Epistemics, and Ontological Implications'
+    authors: &id027
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23498994
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23498994
+    zenodo_url: https://zenodo.org/records/23498994
+  - title: 'Cavitation-Gated Gene Correction: A Speculative Mechanistic Bridge Between
+      Focused Ultrasound Ablation and Mutation Reversal'
+    authors: &id028
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23498990
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23498990
+    zenodo_url: https://zenodo.org/records/23498990
+  - title: 'Comprehensive Reassessment of Harnesses on the Basis of Sovereign AI Principles:
+      Reading Noguer i Alonso (2026) through Sovereign AI in Base of the Pyramid Markets
+      and the KSCCN Series'
+    authors: &id029
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23452360
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23452360
+    zenodo_url: https://zenodo.org/records/23452360
+  - title: 'Anatomical Review: Optimizing and Harnessing Workflows — A Section-by-Section
+      Reading of Noguer i Alonso (2026), Task-Specific Combinations of Humans, Software,
+      and AI Agents'
+    authors: &id030
+    - Dr. Syed Muntasir Mamun
+    url: https://zenodo.org/records/23452348
+    thumbnail_url: ''
+    doi: 10.5281/zenodo.23452348
+    zenodo_url: https://zenodo.org/records/23452348
   - title: 'Topological and Homological Structure of Latent Manifolds in Geometric
       World Models: Volume IV — Persistent Homology, Cohomology, and Qualitative Invariants
       of Latent Dynamics'
-    authors: &id001
+    authors: &id031
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23439810
     thumbnail_url: ''
@@ -14,7 +265,7 @@ sections:
   - title: 'Computational and Equivariant Extensions of Riemannian Geometry for Geometric
       World Models: Volume III — Discrete Approximations, Stochastic Dynamics, and
       Geometric Priors'
-    authors: &id002
+    authors: &id032
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23439801
     thumbnail_url: ''
@@ -23,7 +274,7 @@ sections:
   - title: 'Advanced Riemannian Structures for Geometric World Models: Parallel Transport,
       Geodesics, and Information Geometry: Volume II — Extending the Intrinsic Calculus
       of Latent Manifolds'
-    authors: &id003
+    authors: &id033
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23438557
     thumbnail_url: ''
@@ -32,7 +283,7 @@ sections:
   - title: 'Riemannian Geometry of Latent Spaces: From Vector Fields to Curvature
       in Geometric World Models: A Synthesis of Differential-Geometric Foundations
       for Geometry-Aware Latent Dynamics'
-    authors: &id004
+    authors: &id034
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23438549
     thumbnail_url: ''
@@ -40,7 +291,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23438549
   - title: 'Volume X: The Epistemological Arc: From Dual Clocks to Residual Risk,
       Molecular Entanglement and Sovereign Pathways'
-    authors: &id006
+    authors: &id036
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23424226
     thumbnail_url: ''
@@ -48,7 +299,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23424226
   - title: 'Volume IX: Comparative Roadmap Dissection: 2027–2029 Targets against Dual
       Clocks and Molecular Memory Requirements'
-    authors: &id007
+    authors: &id037
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23424224
     thumbnail_url: ''
@@ -56,7 +307,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23424224
   - title: 'Volume VIII: Molecular Case Studies: Resource and Entanglement Analysis
       for Battery Electrolyte and Iron–Sulfur Systems'
-    authors: &id008
+    authors: &id038
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23424217
     thumbnail_url: ''
@@ -64,7 +315,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23424217
   - title: 'Volume VII: Sovereign and Global South Pathways: Selective Participation,
       Open Standards and Crypto-Agility under Dual Clocks'
-    authors: &id009
+    authors: &id039
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23420785
     thumbnail_url: ''
@@ -72,7 +323,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23420785
   - title: 'Volume VI: Residual Risk and Readiness Metrics: Logical Error, Modular
       Memory, Cryo-CMOS Power and Entanglement Overheads'
-    authors: &id010
+    authors: &id040
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23420775
     thumbnail_url: ''
@@ -81,7 +332,7 @@ sections:
   - title: 'Methodological Transparency and Public Evidence Base for the Algorithmic
       Developmental State Framework: Reconciling Author Syntheses with Administrative
       Data in Bangladesh, 2007–2026'
-    authors: &id011
+    authors: &id041
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23418989
     thumbnail_url: ''
@@ -89,7 +340,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23418989
   - title: 'Volume V: Anatomical Dissection of Quantum Ecosystems: Hardware, Control,
       Memory and Molecular Pathways against Ecosystem Claims'
-    authors: &id012
+    authors: &id042
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23409324
     thumbnail_url: ''
@@ -97,7 +348,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23409324
   - title: 'Volume IV: Modular Cryogenics, Cryo-CMOS Control and Molecular Entanglement:
       Hardware Pathways for Quantum Molecular Simulation'
-    authors: &id013
+    authors: &id043
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23409072
     thumbnail_url: ''
@@ -105,7 +356,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23409072
   - title: 'Volume III: Quantum Memory, Dual Clocks and Sovereign Readiness: Architectural
       Integration, Cost-of-Delay Prioritisation and Policy Implications'
-    authors: &id014
+    authors: &id044
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23408954
     thumbnail_url: ''
@@ -113,7 +364,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23408954
   - title: 'Quantum Memory and the Dual Clocks of Quantum Readiness: Specifications,
       Trends, Theories and Hypotheses in Hardware Scaling and Cryptographic Migration'
-    authors: &id015
+    authors: &id045
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23379177
     thumbnail_url: ''
@@ -122,7 +373,7 @@ sections:
   - title: 'Anatomical Review of Automated Mathematics: Verification, Understanding,
       and Proof Reuse. Distinguishing Formal Correctness from Conceptual Progress
       in AI-Driven Mathematical Research'
-    authors: &id016
+    authors: &id046
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23379150
     thumbnail_url: ''
@@ -130,7 +381,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23379150
   - title: 'The Topos of Contested Price and Energy Security: A Sheaf-Theoretic Analysis
       of Bangladesh and the 2026 Hormuz Disruption'
-    authors: &id017
+    authors: &id047
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23305218
     thumbnail_url: ''
@@ -139,7 +390,7 @@ sections:
   - title: 'Technology Adoption in Islamic Finance: Epistemological Dissonance from
       Keynesian Protocols and the Architecture of Instrument-Based Innovation Models
       (Full Report)'
-    authors: &id018
+    authors: &id048
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23304004
     thumbnail_url: ''
@@ -148,7 +399,7 @@ sections:
   - title: 'Islamic Social and Impact Financing: Jurisprudential Foundations, Funding
       Elicitation and Long-Term Sustainability. Volume II: Instruments, Mechanisms
       and Technology-Enabled Continuity'
-    authors: &id019
+    authors: &id049
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23303949
     thumbnail_url: ''
@@ -156,7 +407,7 @@ sections:
     zenodo_url: https://zenodo.org/records/23303949
   - title: 'Technology Adoption in Islamic Finance: Epistemological Dissonance from
       Keynesian Protocols and the Architecture of Instrument-Based Innovation Models'
-    authors: &id020
+    authors: &id050
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23302388
     thumbnail_url: ''
@@ -164,306 +415,63 @@ sections:
     zenodo_url: https://zenodo.org/records/23302388
   - title: 'TADV Protocol: Technology-Augmented Dual-Core Asset Verification for Islamic
       Finance in Impact Mode'
-    authors: &id021
+    authors: &id051
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23302052
     thumbnail_url: ''
     doi: 10.5281/zenodo.23302052
     zenodo_url: https://zenodo.org/records/23302052
-  - title: 'Application of Blockchain and Language Models to Asset-Backed Islamic
-      Financial Models: Use Cases, Instruments and Integration'
-    authors: &id022
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23302044
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23302044
-    zenodo_url: https://zenodo.org/records/23302044
-  - title: AAOIFI Protocols, the EPI/EVI Dual-Core Framework, and the Conditions Artificial
-      Intelligence Creates for Islamic Model Deployment
-    authors: &id023
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23302040
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23302040
-    zenodo_url: https://zenodo.org/records/23302040
-  - title: 'Islamic Currency and Monetary Mechanisms versus Keynesian and Other Monetary
-      Regimes: A KSCCN Learner Note on Currency Design, Asset Backing, Money Demand
-      and Supply, Velocity, Profit-Sharing, and the IS-LM Framework'
-    authors: &id024
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23302034
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23302034
-    zenodo_url: https://zenodo.org/records/23302034
-  - title: 'Islamic Models for Investment versus the Capital Asset Pricing Model and
-      the Black-Scholes Model: A KSCCN Learner Note on Dissonances, Theorisation and
-      Deployment'
-    authors: &id025
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23302032
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23302032
-    zenodo_url: https://zenodo.org/records/23302032
-  - title: 'Detailed TADV Protocol: Technology-Augmented Dual-Core Asset Verification
-      for Islamic Finance in Impact Mode'
-    authors: &id026
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23302026
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23302026
-    zenodo_url: https://zenodo.org/records/23302026
-  - title: 'A Comprehensive Use Case of Decision-Theoretic AI: Fraud Review Escalation
-      under Capacity Constraints'
-    authors: &id027
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23298447
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23298447
-    zenodo_url: https://zenodo.org/records/23298447
-  - title: 'Decision Theory and Artificial Intelligence: An Anatomical Review of Output
-      Contracts, Acquisition Geometries, and Epistemic Verticals'
-    authors: &id028
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23298429
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23298429
-    zenodo_url: https://zenodo.org/records/23298429
-  - title: 'Anatomical Critique of LLMorphism: Ontological Reductions and Epistemological
-      Fault Lines in Human Cognition under Large Language Model Metaphors'
-    authors: &id029
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23283275
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23283275
-    zenodo_url: https://zenodo.org/records/23283275
-  - title: 'Simulating Employment Displacement under Partial, Advanced and Near-Full
-      AI and Automation Deployment in Bangladesh''s Ready-Made Garment Factories:
-      A Process-Level Model'
-    authors: &id030
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23282492
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23282492
-    zenodo_url: https://zenodo.org/records/23282492
-  - title: 'Adaptive Capacity in the Interregnum: Liquid Institutions, Polycentric
-      Governance, and the Digital Architecture of Youth Empowerment in Bangladesh'
-    authors: &id031
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23282139
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23282139
-    zenodo_url: https://zenodo.org/records/23282139
-  - title: 'Emergent, Relational, and Absent Time: A Comprehensive Synthesis of Quantum
-      Foundations, Competing Theories, and the Ontological Status of Temporal Experience'
-    authors: &id032
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23279888
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23279888
-    zenodo_url: https://zenodo.org/records/23279888
-  - title: 'The Geography Is the Fisher Metric: An Information-Geometric Reading of
-      Context, Interface, and Resolution'
-    authors: &id033
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23275816
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23275816
-    zenodo_url: https://zenodo.org/records/23275816
-  - title: 'The Interface Is Not the Invention: Contextualization, Immediate Resolution,
-      and the Ideation of Innovation'
-    authors: &id034
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23275777
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23275777
-    zenodo_url: https://zenodo.org/records/23275777
-  - title: 'The Window Is Not the Subject: Language Models, Context, and the Limits
-      of a Consciousness Claim'
-    authors: &id035
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23269948
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23269948
-    zenodo_url: https://zenodo.org/records/23269948
-  - title: 'Tensors Beyond the Array: A Teaching Note on Karras''s Account, Set Against
-      Abstract Geometry and Fractal Algebra'
-    authors: &id036
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23269680
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23269680
-    zenodo_url: https://zenodo.org/records/23269680
-  - title: 'Contextual Vectors Are Not Awareness: Reinterpreting Representation Geometry
-      after the Tensor Test'
-    authors: &id037
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23269878
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23269878
-    zenodo_url: https://zenodo.org/records/23269878
-  - title: 'Articulation of the Higgs Potential: Minima, Stability and the Scale the
-      Weyl Orbit Does Not Set'
-    authors: &id038
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23230591
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23230591
-    zenodo_url: https://zenodo.org/records/23230591
-  - title: 'Workings of the Higgs Field: Vacuum, Goldstone Modes and the Force That
-      Leaves the Weyl Orbit'
-    authors: &id039
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23230589
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23230589
-    zenodo_url: https://zenodo.org/records/23230589
-  - title: 'Outside the Closure: Reverse Polarisation, Internal Charges and the Many-Body
-      Boundary of the Weyl Orbit'
-    authors: &id040
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23180524
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23180524
-    zenodo_url: https://zenodo.org/records/23180524
-  - title: 'The Mass Plane and Its Closures: Stratification, Quantisation and Thermodynamics
-      of the Weyl Orbit'
-    authors: &id041
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23180520
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23180520
-    zenodo_url: https://zenodo.org/records/23180520
-  - title: 'Mass as a Coordinate, Spin as a Label: An Anatomical Review of Reynaud''s
-      Dilatation of Souriau''s Moment Map'
-    authors: &id042
-    - Dr. Syed Muntasir Mamun
-    url: https://zenodo.org/records/23180518
-    thumbnail_url: ''
-    doi: 10.5281/zenodo.23180518
-    zenodo_url: https://zenodo.org/records/23180518
-  - title: 'Decomposition without Ontology: An Anatomical Review of Clinton Svancara,
-      Relational Contraction: Decomposition, Competence, and Descriptive Validity
-      (October 2026)'
-    authors: &id043
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134665522/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134665522/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23132157
-    zenodo_url: https://zenodo.org/records/23132157
-  - title: 'Square-Root Sparsity and the Closure of the Quantum Linear Systems Query
-      Gap: An Anatomical, Comparative, and Epistemic Review of Bravo-Prieto, Harrow,
-      and Kothari'
-    authors: &id044
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134662881/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134662881/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23132155
-    zenodo_url: https://zenodo.org/records/23132155
-  - title: 'Relational Contraction: The Einstein Summation Convention, the Primacy
-      of Relationships, and Comparable Procedures in Sumerian, Egyptian and Indian
-      Mathematics'
-    authors: &id045
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134662756/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134662756/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23132153
-    zenodo_url: https://zenodo.org/records/23132153
-  - title: 'Geostrategic Shifts and Energy Security: The 3 October Thread'
-    authors: &id047
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134660824/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134660824/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23120582
-    zenodo_url: https://zenodo.org/records/23120582
-  - title: 'Volume III: Energy, Power and GDP in an Import-Dependent State'
-    authors: &id049
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134660819/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134660819/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23120574
-    zenodo_url: https://zenodo.org/records/23120574
-  - title: 'Energy, Power and GDP in an Import-Dependent State: The Bangladesh Identity,
-      2011–2026'
-    authors: &id053
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134660768/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134660768/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23120570
-    zenodo_url: https://zenodo.org/records/23120570
-  - title: 'The Topos of Contested Price: Availability, Fracture and Kinetic Conflict
-      in Import-Dependent Energy Markets'
-    authors: &id056
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134652096/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134652096/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23116094
-    zenodo_url: https://zenodo.org/records/23116094
-  - title: 'Continuous Correction, Not Crisis Redesign: Contractual Confidence, Alternatives,
-      and Regional Grids for Import-Dependent States after 2026'
-    authors: &id059
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134652089/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134652089/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23116090
-    zenodo_url: https://zenodo.org/records/23116090
-  - title: Mamun Continuous Correction Not Crisis Redesign
-    authors: &id062
-    - Dr. Syed Muntasir Mamun
-    url: https://www.academia.edu/attachments/134652087/download_file?s=portfolio
-    thumbnail_url: https://attachments.academia-assets.com/134652087/thumbnails/1.jpg
-    doi: 10.5281/zenodo.23116086
-    zenodo_url: https://zenodo.org/records/23116086
   Conference Presentations:
   - title: 'Volume X Synthesis: The Epistemological Arc, from Dual Clocks to Residual
       Risk (Slide Deck)'
-    authors: &id005
+    authors: &id035
     - Dr. Syed Muntasir Mamun
     url: https://zenodo.org/records/23424243
     thumbnail_url: ''
     doi: 10.5281/zenodo.23424243
     zenodo_url: https://zenodo.org/records/23424243
   - title: Sovereign Space for the Child
-    authors: &id046
+    authors: &id052
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383221/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383221/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995794
     zenodo_url: https://zenodo.org/records/22995794
   - title: Climate Mobility — Sovereign Space
-    authors: &id048
+    authors: &id053
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383233/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383233/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995790
     zenodo_url: https://zenodo.org/records/22995790
   - title: Human Rights Data as Sovereign Space (HRDx)
-    authors: &id050
+    authors: &id054
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383246/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383246/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995788
     zenodo_url: https://zenodo.org/records/22995788
   - title: From Prohibition to Enforcement — AI Red Lines (Minderoo)
-    authors: &id051
+    authors: &id055
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383257/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383257/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995782
     zenodo_url: https://zenodo.org/records/22995782
   - title: Cognitive Agentic Paradigm (AISC)
-    authors: &id054
+    authors: &id057
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383262/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383262/thumbnails/1.jpg
   - title: Q-Lab — Agentic AI & Youth Wellbeing
-    authors: &id057
+    authors: &id059
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383213/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383213/thumbnails/1.jpg
     doi: 10.5281/zenodo.22995800
     zenodo_url: https://zenodo.org/records/22995800
   - title: Google Cloud — AI for Global Progress
-    authors: &id060
+    authors: &id061
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/134383196/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/134383196/thumbnails/1.jpg
@@ -548,7 +556,7 @@ sections:
   Teaching Documents:
   - title: 'The Principle of Co-Adaptation: A Synthesis with Evolutionary Quantum
       Mechanics and Emergent Cognitive Frameworks'
-    authors: &id052
+    authors: &id056
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131539146/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131539146/thumbnails/1.jpg
@@ -557,7 +565,7 @@ sections:
   - title: 'Voyaging Through the Quantum-Relativistic-Classical Cosmos: Unification
       Horizons and String Symphonies in the Evolving Landscape of Fundamental Physics
       (Vol: 1) A TEACHING NOTE'
-    authors: &id055
+    authors: &id058
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/131508821/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/131508821/thumbnails/1.jpg
@@ -566,14 +574,14 @@ sections:
   - title: 'Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
       VOL -I Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
       VOL-I'
-    authors: &id058
+    authors: &id060
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129094178/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129094178/thumbnails/1.jpg
     doi: 10.5281/zenodo.22993832
     zenodo_url: https://zenodo.org/records/22993832
   - title: Reviewing Living Math on the Instant
-    authors: &id061
+    authors: &id062
     - Dr. Syed Muntasir Mamun
     url: https://www.academia.edu/attachments/129093801/download_file?s=portfolio
     thumbnail_url: https://attachments.academia-assets.com/129093801/thumbnails/1.jpg
@@ -769,10 +777,261 @@ sections:
     doi: 10.5281/zenodo.22994263
     zenodo_url: https://zenodo.org/records/22994263
 all_publications:
+- title: 'The Cognitive Domain in Warfare and Statecraft: Fluid Institutionalism,
+    Psychological Engineering and the Architecture of Modern Conflict'
+  authors: *id001
+  section: Papers
+  url: https://zenodo.org/records/23619789
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23619789
+  zenodo_url: https://zenodo.org/records/23619789
+- title: 'Autonomous Seabed Systems, Sea Denial and the Future of Freedom of Navigation:
+    Deterrence, Escalation, Law and Confidence-Building, with Lessons for the Bay
+    of Bengal and the Indian Ocean'
+  authors: *id002
+  section: Papers
+  url: https://zenodo.org/records/23617987
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23617987
+  zenodo_url: https://zenodo.org/records/23617987
+- title: 'Strategic Architecture of the Clarion-Clipperton Zone: Sovereignty, Critical
+    Minerals, Seabed Security and Fluid Institutions in the Eastern Pacific'
+  authors: *id003
+  section: Papers
+  url: https://zenodo.org/records/23617858
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23617858
+  zenodo_url: https://zenodo.org/records/23617858
+- title: 'A Comprehensive and Future-Looking Reassessment of Tiny Models: Co-Adapted
+    Sparsity, Hybrid Architectures, and the Long-Context Horizon'
+  authors: *id004
+  section: Papers
+  url: https://zenodo.org/records/23615313
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23615313
+  zenodo_url: https://zenodo.org/records/23615313
+- title: 'TokenGate and the Epistemology of Tiny Models: Learnable Token Pruning as
+    a Pathway to Efficient Long-Context Intelligence'
+  authors: *id005
+  section: Papers
+  url: https://zenodo.org/records/23615292
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23615292
+  zenodo_url: https://zenodo.org/records/23615292
+- title: 'Anatomical Review of TOKENGATE: Adapting LLMs for Fast and Memory-Efficient
+    Prefill with Learned Token Pruning'
+  authors: *id006
+  section: Papers
+  url: https://zenodo.org/records/23614056
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23614056
+  zenodo_url: https://zenodo.org/records/23614056
+- title: 'The Future of Naval Power Projection: Carrier Strike Groups, Domain Continuity,
+    and Strategic Corridors in the Age of Hypersonics and Quantum AI'
+  authors: *id007
+  section: Papers
+  url: https://zenodo.org/records/23610975
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23610975
+  zenodo_url: https://zenodo.org/records/23610975
+- title: 'In Vivo Characterisation of the Sub-Ablative Window and Closed-Loop Spatial
+    Targeting: From Go/No-Go Criteria to Measurement Requirements in the Cavitation-Gated
+    Editing Framework'
+  authors: *id008
+  section: Papers
+  url: https://zenodo.org/records/23605113
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23605113
+  zenodo_url: https://zenodo.org/records/23605113
+- title: 'The Formless Battlespace: Urban Combat Doctrine, Multi-Domain Kill Webs,
+    and the Space-Quantum Nexus in the Megacity Era'
+  authors: *id009
+  section: Papers
+  url: https://zenodo.org/records/23603827
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23603827
+  zenodo_url: https://zenodo.org/records/23603827
+- title: 'The Organization of Warfare and the Doctrine of Hard Power Under Fluid Conditions:
+    Mosaic Forces, Kill Webs, Algorithmic Opacity and the Algorithmic Doctrine of
+    War'
+  authors: *id010
+  section: Papers
+  url: https://zenodo.org/records/23603504
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23603504
+  zenodo_url: https://zenodo.org/records/23603504
+- title: 'Dose-Window Characterisation, Evolutionary Timing, and Stochastic Simulation
+    of the Staged Cavitation-Gated Editing Framework: From Principle to Protocol —
+    A Quantitative and Critical Extension of the Acoustic-Genomic Interface Programme'
+  authors: *id011
+  section: Papers
+  url: https://zenodo.org/records/23602978
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23602978
+  zenodo_url: https://zenodo.org/records/23602978
+- title: 'Sound, Cavitation and the Quantum Question: A Critical Review of Histotripsy
+    Mechanics and the Limits of Quantum Analogy in Biological Acoustics'
+  authors: *id012
+  section: Papers
+  url: https://zenodo.org/records/23602725
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23602725
+  zenodo_url: https://zenodo.org/records/23602725
+- title: 'The Algorithmic Leviathan: A PESTEL Analysis of Power, Autonomy, and Franchise
+    in the Epoch of Artificial General Intelligence'
+  authors: *id013
+  section: Papers
+  url: https://zenodo.org/records/23579967
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23579967
+  zenodo_url: https://zenodo.org/records/23579967
+- title: 'Transcending the Weberian Paradox: Fluid Institutions, Agentic Artificial
+    Intelligence, and the Evolution of Post-Bureaucratic State Systems'
+  authors: *id014
+  section: Papers
+  url: https://zenodo.org/records/23577923
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23577923
+  zenodo_url: https://zenodo.org/records/23577923
+- title: 'An Anatomical Review of Berkovski''s Analysis of Weber''s Bureaucratic Paradox:
+    Permanent Structures, Fluid Institutions, and the Evolution of State Systems under
+    Artificial Intelligence'
+  authors: *id015
+  section: Papers
+  url: https://zenodo.org/records/23577500
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23577500
+  zenodo_url: https://zenodo.org/records/23577500
+- title: 'Strategic Masterplan for the Jute Sector Revival: Volume IV – Anatomy of
+    the 2025–2026 Raw Jute Market Instability and a Commodity Futures, Advance Trading
+    and Warehouse Receipt Architecture for Bangladesh'
+  authors: *id016
+  section: Papers
+  url: https://zenodo.org/records/23552499
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23552499
+  zenodo_url: https://zenodo.org/records/23552499
+- title: 'Strategic Masterplan for the Jute Sector Revival: Volume III – Industrial
+    Transformation of the Bast Fiber Complex: Jute Mill Automation, Legacy Retrofitting,
+    Cyber-Physical Architecture, and Capital Structuring'
+  authors: *id017
+  section: Papers
+  url: https://zenodo.org/records/23552426
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23552426
+  zenodo_url: https://zenodo.org/records/23552426
+- title: 'Strategic Masterplan for the Jute Sector Revival: Volume II – Global Jute
+    Value Chain Architecture, Cross-Border Market Dynamics, and Financial Mapping'
+  authors: *id018
+  section: Papers
+  url: https://zenodo.org/records/23550973
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23550973
+  zenodo_url: https://zenodo.org/records/23550973
+- title: 'Strategic Masterplan for the Jute Sector Revival: Volume I – Industrial
+    Modernization, Biomaterial Engineering, Derivatives Architecture, and Global Supply
+    Chain Democratization'
+  authors: *id019
+  section: Papers
+  url: https://zenodo.org/records/23550784
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23550784
+  zenodo_url: https://zenodo.org/records/23550784
+- title: 'Sovereign AI in the Developing Global South: Volume III – Conflicts, Insurgencies,
+    and Algorithmic Warcraft vs. Statecraft'
+  authors: *id020
+  section: Papers
+  url: https://zenodo.org/records/23545846
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23545846
+  zenodo_url: https://zenodo.org/records/23545846
+- title: 'Sovereign AI in the Developing Global South: Volume II – Architectures,
+    Open Silicon, and Sectoral Integration'
+  authors: *id021
+  section: Papers
+  url: https://zenodo.org/records/23544909
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23544909
+  zenodo_url: https://zenodo.org/records/23544909
+- title: 'Sovereign AI in the Developing Global South: Architecting Strategic Autonomy
+    in the Intelligence Economy'
+  authors: *id022
+  section: Papers
+  url: https://zenodo.org/records/23543853
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23543853
+  zenodo_url: https://zenodo.org/records/23543853
+- title: 'Bridging Gene-Editing Deficiencies in Solid Tumours: Cavitation-Gated Delivery,
+    Spatial Mutation Mapping, and an Immune-Primed Multi-Stage Framework'
+  authors: *id023
+  section: Papers
+  url: https://zenodo.org/records/23531862
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23531862
+  zenodo_url: https://zenodo.org/records/23531862
+- title: 'Agent Execution Harnesses: Architecture, Constraints, Sovereign Variants,
+    and Collective Dynamics — Volume I'
+  authors: *id024
+  section: Papers
+  url: https://zenodo.org/records/23530919
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23530919
+  zenodo_url: https://zenodo.org/records/23530919
+- title: 'Anatomical Review of Carolina Johnson''s "Annotation: Mathematics as a Precise
+    Instance of a General Human Practice": Concepts, Ontological Expressions, and
+    Parallels with Indian Matrika and Zero'
+  authors: *id025
+  section: Papers
+  url: https://zenodo.org/records/23530915
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23530915
+  zenodo_url: https://zenodo.org/records/23530915
+- title: 'Sovereign AI and the Power Distance Representation of Bregman Divergences:
+    Algorithmic Accessibility, Transparency, and Technical Autonomy'
+  authors: *id026
+  section: Papers
+  url: https://zenodo.org/records/23512648
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23512648
+  zenodo_url: https://zenodo.org/records/23512648
+- title: 'An Anatomical Review of the Power Distance Representation of Bregman Divergences:
+    Comparative Geometry, Emergent Epistemics, and Ontological Implications'
+  authors: *id027
+  section: Papers
+  url: https://zenodo.org/records/23498994
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23498994
+  zenodo_url: https://zenodo.org/records/23498994
+- title: 'Cavitation-Gated Gene Correction: A Speculative Mechanistic Bridge Between
+    Focused Ultrasound Ablation and Mutation Reversal'
+  authors: *id028
+  section: Papers
+  url: https://zenodo.org/records/23498990
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23498990
+  zenodo_url: https://zenodo.org/records/23498990
+- title: 'Comprehensive Reassessment of Harnesses on the Basis of Sovereign AI Principles:
+    Reading Noguer i Alonso (2026) through Sovereign AI in Base of the Pyramid Markets
+    and the KSCCN Series'
+  authors: *id029
+  section: Papers
+  url: https://zenodo.org/records/23452360
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23452360
+  zenodo_url: https://zenodo.org/records/23452360
+- title: 'Anatomical Review: Optimizing and Harnessing Workflows — A Section-by-Section
+    Reading of Noguer i Alonso (2026), Task-Specific Combinations of Humans, Software,
+    and AI Agents'
+  authors: *id030
+  section: Papers
+  url: https://zenodo.org/records/23452348
+  thumbnail_url: ''
+  doi: 10.5281/zenodo.23452348
+  zenodo_url: https://zenodo.org/records/23452348
 - title: 'Topological and Homological Structure of Latent Manifolds in Geometric World
     Models: Volume IV — Persistent Homology, Cohomology, and Qualitative Invariants
     of Latent Dynamics'
-  authors: *id001
+  authors: *id031
   section: Papers
   url: https://zenodo.org/records/23439810
   thumbnail_url: ''
@@ -781,7 +1040,7 @@ all_publications:
 - title: 'Computational and Equivariant Extensions of Riemannian Geometry for Geometric
     World Models: Volume III — Discrete Approximations, Stochastic Dynamics, and Geometric
     Priors'
-  authors: *id002
+  authors: *id032
   section: Papers
   url: https://zenodo.org/records/23439801
   thumbnail_url: ''
@@ -790,7 +1049,7 @@ all_publications:
 - title: 'Advanced Riemannian Structures for Geometric World Models: Parallel Transport,
     Geodesics, and Information Geometry: Volume II — Extending the Intrinsic Calculus
     of Latent Manifolds'
-  authors: *id003
+  authors: *id033
   section: Papers
   url: https://zenodo.org/records/23438557
   thumbnail_url: ''
@@ -799,7 +1058,7 @@ all_publications:
 - title: 'Riemannian Geometry of Latent Spaces: From Vector Fields to Curvature in
     Geometric World Models: A Synthesis of Differential-Geometric Foundations for
     Geometry-Aware Latent Dynamics'
-  authors: *id004
+  authors: *id034
   section: Papers
   url: https://zenodo.org/records/23438549
   thumbnail_url: ''
@@ -807,7 +1066,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23438549
 - title: 'Volume X Synthesis: The Epistemological Arc, from Dual Clocks to Residual
     Risk (Slide Deck)'
-  authors: *id005
+  authors: *id035
   section: Conference Presentations
   url: https://zenodo.org/records/23424243
   thumbnail_url: ''
@@ -815,7 +1074,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23424243
 - title: 'Volume X: The Epistemological Arc: From Dual Clocks to Residual Risk, Molecular
     Entanglement and Sovereign Pathways'
-  authors: *id006
+  authors: *id036
   section: Papers
   url: https://zenodo.org/records/23424226
   thumbnail_url: ''
@@ -823,7 +1082,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23424226
 - title: 'Volume IX: Comparative Roadmap Dissection: 2027–2029 Targets against Dual
     Clocks and Molecular Memory Requirements'
-  authors: *id007
+  authors: *id037
   section: Papers
   url: https://zenodo.org/records/23424224
   thumbnail_url: ''
@@ -831,7 +1090,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23424224
 - title: 'Volume VIII: Molecular Case Studies: Resource and Entanglement Analysis
     for Battery Electrolyte and Iron–Sulfur Systems'
-  authors: *id008
+  authors: *id038
   section: Papers
   url: https://zenodo.org/records/23424217
   thumbnail_url: ''
@@ -839,7 +1098,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23424217
 - title: 'Volume VII: Sovereign and Global South Pathways: Selective Participation,
     Open Standards and Crypto-Agility under Dual Clocks'
-  authors: *id009
+  authors: *id039
   section: Papers
   url: https://zenodo.org/records/23420785
   thumbnail_url: ''
@@ -847,7 +1106,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23420785
 - title: 'Volume VI: Residual Risk and Readiness Metrics: Logical Error, Modular Memory,
     Cryo-CMOS Power and Entanglement Overheads'
-  authors: *id010
+  authors: *id040
   section: Papers
   url: https://zenodo.org/records/23420775
   thumbnail_url: ''
@@ -856,7 +1115,7 @@ all_publications:
 - title: 'Methodological Transparency and Public Evidence Base for the Algorithmic
     Developmental State Framework: Reconciling Author Syntheses with Administrative
     Data in Bangladesh, 2007–2026'
-  authors: *id011
+  authors: *id041
   section: Papers
   url: https://zenodo.org/records/23418989
   thumbnail_url: ''
@@ -864,7 +1123,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23418989
 - title: 'Volume V: Anatomical Dissection of Quantum Ecosystems: Hardware, Control,
     Memory and Molecular Pathways against Ecosystem Claims'
-  authors: *id012
+  authors: *id042
   section: Papers
   url: https://zenodo.org/records/23409324
   thumbnail_url: ''
@@ -872,7 +1131,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23409324
 - title: 'Volume IV: Modular Cryogenics, Cryo-CMOS Control and Molecular Entanglement:
     Hardware Pathways for Quantum Molecular Simulation'
-  authors: *id013
+  authors: *id043
   section: Papers
   url: https://zenodo.org/records/23409072
   thumbnail_url: ''
@@ -880,7 +1139,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23409072
 - title: 'Volume III: Quantum Memory, Dual Clocks and Sovereign Readiness: Architectural
     Integration, Cost-of-Delay Prioritisation and Policy Implications'
-  authors: *id014
+  authors: *id044
   section: Papers
   url: https://zenodo.org/records/23408954
   thumbnail_url: ''
@@ -888,7 +1147,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23408954
 - title: 'Quantum Memory and the Dual Clocks of Quantum Readiness: Specifications,
     Trends, Theories and Hypotheses in Hardware Scaling and Cryptographic Migration'
-  authors: *id015
+  authors: *id045
   section: Papers
   url: https://zenodo.org/records/23379177
   thumbnail_url: ''
@@ -897,7 +1156,7 @@ all_publications:
 - title: 'Anatomical Review of Automated Mathematics: Verification, Understanding,
     and Proof Reuse. Distinguishing Formal Correctness from Conceptual Progress in
     AI-Driven Mathematical Research'
-  authors: *id016
+  authors: *id046
   section: Papers
   url: https://zenodo.org/records/23379150
   thumbnail_url: ''
@@ -905,7 +1164,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23379150
 - title: 'The Topos of Contested Price and Energy Security: A Sheaf-Theoretic Analysis
     of Bangladesh and the 2026 Hormuz Disruption'
-  authors: *id017
+  authors: *id047
   section: Papers
   url: https://zenodo.org/records/23305218
   thumbnail_url: ''
@@ -914,7 +1173,7 @@ all_publications:
 - title: 'Technology Adoption in Islamic Finance: Epistemological Dissonance from
     Keynesian Protocols and the Architecture of Instrument-Based Innovation Models
     (Full Report)'
-  authors: *id018
+  authors: *id048
   section: Papers
   url: https://zenodo.org/records/23304004
   thumbnail_url: ''
@@ -923,7 +1182,7 @@ all_publications:
 - title: 'Islamic Social and Impact Financing: Jurisprudential Foundations, Funding
     Elicitation and Long-Term Sustainability. Volume II: Instruments, Mechanisms and
     Technology-Enabled Continuity'
-  authors: *id019
+  authors: *id049
   section: Papers
   url: https://zenodo.org/records/23303949
   thumbnail_url: ''
@@ -931,7 +1190,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23303949
 - title: 'Technology Adoption in Islamic Finance: Epistemological Dissonance from
     Keynesian Protocols and the Architecture of Instrument-Based Innovation Models'
-  authors: *id020
+  authors: *id050
   section: Papers
   url: https://zenodo.org/records/23302388
   thumbnail_url: ''
@@ -939,7 +1198,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23302388
 - title: 'TADV Protocol: Technology-Augmented Dual-Core Asset Verification for Islamic
     Finance in Impact Mode'
-  authors: *id021
+  authors: *id051
   section: Papers
   url: https://zenodo.org/records/23302052
   thumbnail_url: ''
@@ -947,7 +1206,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23302052
 - title: 'Application of Blockchain and Language Models to Asset-Backed Islamic Financial
     Models: Use Cases, Instruments and Integration'
-  authors: *id022
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23302044
   thumbnail_url: ''
@@ -955,7 +1215,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23302044
 - title: AAOIFI Protocols, the EPI/EVI Dual-Core Framework, and the Conditions Artificial
     Intelligence Creates for Islamic Model Deployment
-  authors: *id023
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23302040
   thumbnail_url: ''
@@ -964,7 +1225,8 @@ all_publications:
 - title: 'Islamic Currency and Monetary Mechanisms versus Keynesian and Other Monetary
     Regimes: A KSCCN Learner Note on Currency Design, Asset Backing, Money Demand
     and Supply, Velocity, Profit-Sharing, and the IS-LM Framework'
-  authors: *id024
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23302034
   thumbnail_url: ''
@@ -973,7 +1235,8 @@ all_publications:
 - title: 'Islamic Models for Investment versus the Capital Asset Pricing Model and
     the Black-Scholes Model: A KSCCN Learner Note on Dissonances, Theorisation and
     Deployment'
-  authors: *id025
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23302032
   thumbnail_url: ''
@@ -981,7 +1244,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23302032
 - title: 'Detailed TADV Protocol: Technology-Augmented Dual-Core Asset Verification
     for Islamic Finance in Impact Mode'
-  authors: *id026
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23302026
   thumbnail_url: ''
@@ -989,7 +1253,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23302026
 - title: 'A Comprehensive Use Case of Decision-Theoretic AI: Fraud Review Escalation
     under Capacity Constraints'
-  authors: *id027
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23298447
   thumbnail_url: ''
@@ -997,7 +1262,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23298447
 - title: 'Decision Theory and Artificial Intelligence: An Anatomical Review of Output
     Contracts, Acquisition Geometries, and Epistemic Verticals'
-  authors: *id028
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23298429
   thumbnail_url: ''
@@ -1005,7 +1271,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23298429
 - title: 'Anatomical Critique of LLMorphism: Ontological Reductions and Epistemological
     Fault Lines in Human Cognition under Large Language Model Metaphors'
-  authors: *id029
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23283275
   thumbnail_url: ''
@@ -1014,7 +1281,8 @@ all_publications:
 - title: 'Simulating Employment Displacement under Partial, Advanced and Near-Full
     AI and Automation Deployment in Bangladesh''s Ready-Made Garment Factories: A
     Process-Level Model'
-  authors: *id030
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23282492
   thumbnail_url: ''
@@ -1022,7 +1290,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23282492
 - title: 'Adaptive Capacity in the Interregnum: Liquid Institutions, Polycentric Governance,
     and the Digital Architecture of Youth Empowerment in Bangladesh'
-  authors: *id031
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23282139
   thumbnail_url: ''
@@ -1030,7 +1299,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23282139
 - title: 'Emergent, Relational, and Absent Time: A Comprehensive Synthesis of Quantum
     Foundations, Competing Theories, and the Ontological Status of Temporal Experience'
-  authors: *id032
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23279888
   thumbnail_url: ''
@@ -1038,7 +1308,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23279888
 - title: 'The Geography Is the Fisher Metric: An Information-Geometric Reading of
     Context, Interface, and Resolution'
-  authors: *id033
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23275816
   thumbnail_url: ''
@@ -1046,7 +1317,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23275816
 - title: 'The Interface Is Not the Invention: Contextualization, Immediate Resolution,
     and the Ideation of Innovation'
-  authors: *id034
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23275777
   thumbnail_url: ''
@@ -1054,7 +1326,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23275777
 - title: 'The Window Is Not the Subject: Language Models, Context, and the Limits
     of a Consciousness Claim'
-  authors: *id035
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23269948
   thumbnail_url: ''
@@ -1062,7 +1335,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23269948
 - title: 'Tensors Beyond the Array: A Teaching Note on Karras''s Account, Set Against
     Abstract Geometry and Fractal Algebra'
-  authors: *id036
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23269680
   thumbnail_url: ''
@@ -1070,7 +1344,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23269680
 - title: 'Contextual Vectors Are Not Awareness: Reinterpreting Representation Geometry
     after the Tensor Test'
-  authors: *id037
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23269878
   thumbnail_url: ''
@@ -1078,7 +1353,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23269878
 - title: 'Articulation of the Higgs Potential: Minima, Stability and the Scale the
     Weyl Orbit Does Not Set'
-  authors: *id038
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23230591
   thumbnail_url: ''
@@ -1086,7 +1362,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23230591
 - title: 'Workings of the Higgs Field: Vacuum, Goldstone Modes and the Force That
     Leaves the Weyl Orbit'
-  authors: *id039
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23230589
   thumbnail_url: ''
@@ -1094,7 +1371,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23230589
 - title: 'Outside the Closure: Reverse Polarisation, Internal Charges and the Many-Body
     Boundary of the Weyl Orbit'
-  authors: *id040
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23180524
   thumbnail_url: ''
@@ -1102,7 +1380,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23180524
 - title: 'The Mass Plane and Its Closures: Stratification, Quantisation and Thermodynamics
     of the Weyl Orbit'
-  authors: *id041
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23180520
   thumbnail_url: ''
@@ -1110,7 +1389,8 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23180520
 - title: 'Mass as a Coordinate, Spin as a Label: An Anatomical Review of Reynaud''s
     Dilatation of Souriau''s Moment Map'
-  authors: *id042
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://zenodo.org/records/23180518
   thumbnail_url: ''
@@ -1119,7 +1399,8 @@ all_publications:
 - title: 'Decomposition without Ontology: An Anatomical Review of Clinton Svancara,
     Relational Contraction: Decomposition, Competence, and Descriptive Validity (October
     2026)'
-  authors: *id043
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134665522/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134665522/thumbnails/1.jpg
@@ -1128,7 +1409,8 @@ all_publications:
 - title: 'Square-Root Sparsity and the Closure of the Quantum Linear Systems Query
     Gap: An Anatomical, Comparative, and Epistemic Review of Bravo-Prieto, Harrow,
     and Kothari'
-  authors: *id044
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134662881/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134662881/thumbnails/1.jpg
@@ -1136,49 +1418,52 @@ all_publications:
   zenodo_url: https://zenodo.org/records/23132155
 - title: 'Relational Contraction: The Einstein Summation Convention, the Primacy of
     Relationships, and Comparable Procedures in Sumerian, Egyptian and Indian Mathematics'
-  authors: *id045
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134662756/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134662756/thumbnails/1.jpg
   doi: 10.5281/zenodo.23132153
   zenodo_url: https://zenodo.org/records/23132153
 - title: Sovereign Space for the Child
-  authors: *id046
+  authors: *id052
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383221/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383221/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995794
   zenodo_url: https://zenodo.org/records/22995794
 - title: 'Geostrategic Shifts and Energy Security: The 3 October Thread'
-  authors: *id047
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134660824/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134660824/thumbnails/1.jpg
   doi: 10.5281/zenodo.23120582
   zenodo_url: https://zenodo.org/records/23120582
 - title: Climate Mobility — Sovereign Space
-  authors: *id048
+  authors: *id053
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383233/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383233/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995790
   zenodo_url: https://zenodo.org/records/22995790
 - title: 'Volume III: Energy, Power and GDP in an Import-Dependent State'
-  authors: *id049
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134660819/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134660819/thumbnails/1.jpg
   doi: 10.5281/zenodo.23120574
   zenodo_url: https://zenodo.org/records/23120574
 - title: Human Rights Data as Sovereign Space (HRDx)
-  authors: *id050
+  authors: *id054
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383246/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383246/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995788
   zenodo_url: https://zenodo.org/records/22995788
 - title: From Prohibition to Enforcement — AI Red Lines (Minderoo)
-  authors: *id051
+  authors: *id055
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383257/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383257/thumbnails/1.jpg
@@ -1186,7 +1471,7 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22995782
 - title: 'The Principle of Co-Adaptation: A Synthesis with Evolutionary Quantum Mechanics
     and Emergent Cognitive Frameworks'
-  authors: *id052
+  authors: *id056
   section: Teaching Documents
   url: https://www.academia.edu/attachments/131539146/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131539146/thumbnails/1.jpg
@@ -1194,21 +1479,22 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22993567
 - title: 'Energy, Power and GDP in an Import-Dependent State: The Bangladesh Identity,
     2011–2026'
-  authors: *id053
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134660768/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134660768/thumbnails/1.jpg
   doi: 10.5281/zenodo.23120570
   zenodo_url: https://zenodo.org/records/23120570
 - title: Cognitive Agentic Paradigm (AISC)
-  authors: *id054
+  authors: *id057
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383262/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383262/thumbnails/1.jpg
 - title: 'Voyaging Through the Quantum-Relativistic-Classical Cosmos: Unification
     Horizons and String Symphonies in the Evolving Landscape of Fundamental Physics
     (Vol: 1) A TEACHING NOTE'
-  authors: *id055
+  authors: *id058
   section: Teaching Documents
   url: https://www.academia.edu/attachments/131508821/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/131508821/thumbnails/1.jpg
@@ -1216,14 +1502,15 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22993612
 - title: 'The Topos of Contested Price: Availability, Fracture and Kinetic Conflict
     in Import-Dependent Energy Markets'
-  authors: *id056
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134652096/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134652096/thumbnails/1.jpg
   doi: 10.5281/zenodo.23116094
   zenodo_url: https://zenodo.org/records/23116094
 - title: Q-Lab — Agentic AI & Youth Wellbeing
-  authors: *id057
+  authors: *id059
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383213/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383213/thumbnails/1.jpg
@@ -1232,7 +1519,7 @@ all_publications:
 - title: 'Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
     VOL -I Volumetric Photonic Carriers: A New Paradigm for On-Chip Optical Computing
     VOL-I'
-  authors: *id058
+  authors: *id060
   section: Teaching Documents
   url: https://www.academia.edu/attachments/129094178/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/129094178/thumbnails/1.jpg
@@ -1240,28 +1527,30 @@ all_publications:
   zenodo_url: https://zenodo.org/records/22993832
 - title: 'Continuous Correction, Not Crisis Redesign: Contractual Confidence, Alternatives,
     and Regional Grids for Import-Dependent States after 2026'
-  authors: *id059
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134652089/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134652089/thumbnails/1.jpg
   doi: 10.5281/zenodo.23116090
   zenodo_url: https://zenodo.org/records/23116090
 - title: Google Cloud — AI for Global Progress
-  authors: *id060
+  authors: *id061
   section: Conference Presentations
   url: https://www.academia.edu/attachments/134383196/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134383196/thumbnails/1.jpg
   doi: 10.5281/zenodo.22995808
   zenodo_url: https://zenodo.org/records/22995808
 - title: Reviewing Living Math on the Instant
-  authors: *id061
+  authors: *id062
   section: Teaching Documents
   url: https://www.academia.edu/attachments/129093801/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/129093801/thumbnails/1.jpg
   doi: 10.5281/zenodo.22993838
   zenodo_url: https://zenodo.org/records/22993838
 - title: Mamun Continuous Correction Not Crisis Redesign
-  authors: *id062
+  authors:
+  - Dr. Syed Muntasir Mamun
   section: Papers
   url: https://www.academia.edu/attachments/134652087/download_file?s=portfolio
   thumbnail_url: https://attachments.academia-assets.com/134652087/thumbnails/1.jpg
